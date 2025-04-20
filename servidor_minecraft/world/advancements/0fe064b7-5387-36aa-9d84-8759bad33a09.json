@@ -61,6 +61,7 @@
       "minecraft:sparse_jungle": "2025-04-20 21:03:21 +0000",
       "minecraft:lukewarm_ocean": "2025-04-20 21:36:50 +0000",
       "minecraft:river": "2025-04-20 21:01:53 +0000",
+      "minecraft:dripstone_caves": "2025-04-20 22:32:32 +0000",
       "minecraft:forest": "2025-04-20 21:02:00 +0000",
       "minecraft:jungle": "2025-04-20 21:29:56 +0000",
       "minecraft:savanna": "2025-04-20 20:57:15 +0000",
@@ -1024,8 +1025,11 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-04-20 22:28:30 +0000",
+      "cooked_beef": "2025-04-20 22:28:22 +0000",
       "apple": "2025-04-20 21:10:21 +0000",
       "bread": "2025-04-20 20:57:25 +0000",
+      "cookie": "2025-04-20 22:30:47 +0000",
       "glow_berries": "2025-04-20 21:11:12 +0000"
     },
     "done": false
@@ -2674,6 +2678,12 @@
     },
     "done": true
   },
+  "spartanweaponry:throwing_knife": {
+    "criteria": {
+      "has_throwing_knife": "2025-04-20 22:25:45 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_pike": {
     "criteria": {
       "has_diamond": "2025-04-20 22:11:49 +0000"
@@ -2689,6 +2699,12 @@
   "grimoireofgaia:recipes/misc/quill": {
     "criteria": {
       "has_diamond": "2025-04-20 22:11:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:club": {
+    "criteria": {
+      "has_club": "2025-04-20 22:29:28 +0000"
     },
     "done": true
   },
@@ -3160,6 +3176,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-04-20 22:25:43 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/gold_tier_upgrade": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 22:11:18 +0000"
@@ -3187,6 +3209,12 @@
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 22:11:18 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:tomahawk": {
+    "criteria": {
+      "has_tomahawk": "2025-04-20 22:25:42 +0000"
     },
     "done": true
   },

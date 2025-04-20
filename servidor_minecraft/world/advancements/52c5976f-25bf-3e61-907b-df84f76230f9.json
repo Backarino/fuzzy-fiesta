@@ -151,6 +151,12 @@
     },
     "done": true
   },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-04-20 22:32:52 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_katana": {
     "criteria": {
       "has_diamond": "2025-04-20 22:18:50 +0000"
@@ -160,6 +166,12 @@
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 20:54:31 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-04-20 22:33:33 +0000"
     },
     "done": true
   },
@@ -645,6 +657,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:skeleton": "2025-04-20 22:33:25 +0000",
+      "minecraft:spider": "2025-04-20 22:31:46 +0000",
       "minecraft:cave_spider": "2025-04-20 21:39:16 +0000",
       "minecraft:zombie": "2025-04-20 21:24:45 +0000"
     },
@@ -1280,6 +1294,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-04-20 22:33:33 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_halberd": {
     "criteria": {
       "has_diamond": "2025-04-20 22:18:50 +0000"
@@ -1667,6 +1687,12 @@
   "betterskills:mining_4": {
     "criteria": {
       "mining_4_0": "2025-04-20 22:18:51 +0000"
+    },
+    "done": true
+  },
+  "betterskills:mining_5": {
+    "criteria": {
+      "mining_5_0": "2025-04-20 22:32:26 +0000"
     },
     "done": true
   },
@@ -3015,6 +3041,12 @@
   "minecraft:recipes/transportation/birch_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-20 21:35:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-04-20 22:33:33 +0000"
     },
     "done": true
   },
