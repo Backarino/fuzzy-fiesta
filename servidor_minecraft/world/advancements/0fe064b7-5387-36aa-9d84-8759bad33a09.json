@@ -2053,8 +2053,10 @@
     "criteria": {
       "woodland": "2025-04-20 21:52:33 +0000",
       "scrubland": "2025-04-20 21:51:14 +0000",
+      "fungal_jungle": "2025-04-20 22:50:31 +0000",
       "old_growth_woodland": "2025-04-20 21:51:55 +0000",
       "mediterranean_forest": "2025-04-20 21:35:51 +0000",
+      "rocky_rainforest": "2025-04-20 22:49:04 +0000",
       "rainforest": "2025-04-20 21:53:08 +0000"
     },
     "done": false
@@ -2486,6 +2488,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_bone_wall": {
+    "criteria": {
+      "has_item": "2025-04-20 22:45:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/huge_quiver_brace": {
     "criteria": {
       "has_diamond": "2025-04-20 22:11:49 +0000"
@@ -2624,6 +2632,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-04-20 22:45:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_poppy": {
     "criteria": {
       "has_poppy": "2025-04-20 22:19:36 +0000"
@@ -2678,6 +2692,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-04-20 22:45:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:throwing_knife": {
     "criteria": {
       "has_throwing_knife": "2025-04-20 22:25:45 +0000"
@@ -2693,6 +2713,12 @@
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-04-20 22:11:49 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-04-20 22:45:24 +0000"
     },
     "done": true
   },
@@ -2717,6 +2743,18 @@
   "spartanweaponry:greatsword": {
     "criteria": {
       "has_greatsword": "2025-04-20 22:11:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-20 22:48:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-04-20 22:45:24 +0000"
     },
     "done": true
   },
@@ -2759,6 +2797,12 @@
   "spartanweaponry:recipes/medium_quiver_brace": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 22:11:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-04-20 22:45:24 +0000"
     },
     "done": true
   },
@@ -2825,6 +2869,12 @@
   "spartanweaponry:recipes/golden_warhammer": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 22:11:18 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-04-20 22:45:24 +0000"
     },
     "done": true
   },
@@ -2960,6 +3010,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-20 22:45:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bowl": {
     "criteria": {
       "has_red_mushroom": "2025-04-20 22:43:56 +0000"
@@ -3056,6 +3112,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-04-20 22:45:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_quarterstaff": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 22:11:18 +0000"
@@ -3071,6 +3133,12 @@
   "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
     "criteria": {
       "has_hay_block": "2025-04-20 22:01:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-20 22:45:24 +0000"
     },
     "done": true
   },
@@ -3176,6 +3244,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-04-20 22:45:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_tomahawk": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 22:11:18 +0000"
@@ -3245,6 +3319,18 @@
   "minecraft:recipes/decorations/enchanting_table": {
     "criteria": {
       "has_obsidian": "2025-04-20 22:11:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-04-20 22:45:24 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-04-20 22:45:26 +0000"
     },
     "done": true
   },

@@ -423,6 +423,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "bread": "2025-04-20 20:45:46 +0000",
+      "golden_apple": "2025-04-20 22:53:42 +0000",
       "rotten_flesh": "2025-04-20 21:05:11 +0000"
     },
     "done": false
@@ -2038,7 +2039,8 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-04-20 21:18:50 +0000",
-      "minecraft:silverfish": "2025-04-20 21:59:28 +0000"
+      "minecraft:silverfish": "2025-04-20 21:59:28 +0000",
+      "minecraft:zombie": "2025-04-20 22:53:33 +0000"
     },
     "done": false
   },
@@ -3248,6 +3250,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-20 22:49:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_chest_boat": {
     "criteria": {
       "has_boat": "2025-04-20 22:26:32 +0000"
@@ -3359,6 +3367,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-20 22:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_chestplate": "2025-04-20 22:48:05 +0000"
     },
     "done": true
   },
