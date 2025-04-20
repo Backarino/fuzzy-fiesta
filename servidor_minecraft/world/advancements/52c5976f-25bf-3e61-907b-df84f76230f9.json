@@ -151,9 +151,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_katana": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_axe": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 20:54:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_parrying_dagger": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_quarterstaff": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -172,6 +190,12 @@
   "valhelsia_furniture:recipes/decorations/purple_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-20 20:54:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/huge_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -235,6 +259,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_sword": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jukebox": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_katana": {
     "criteria": {
       "has_cobblestone": "2025-04-20 20:50:13 +0000"
@@ -271,6 +307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_chestplate": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/grease_ball": {
     "criteria": {
       "has_meat": "2025-04-20 20:52:21 +0000"
@@ -292,6 +334,12 @@
   "minecraft:recipes/food/golden_apple": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 20:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-20 22:20:16 +0000"
     },
     "done": true
   },
@@ -337,6 +385,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_tomahawk": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_warhammer": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_lance": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 20:54:31 +0000"
@@ -349,9 +409,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-20 22:08:56 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-20 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_basic_shield": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -409,6 +481,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-04-20 22:04:50 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_crafting_table": "2025-04-20 20:45:01 +0000"
@@ -430,6 +508,12 @@
   "morevillagers:first_village": {
     "criteria": {
       "plains": "2025-04-20 20:36:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_javelin": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -517,6 +601,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_battleaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-20 20:38:33 +0000"
@@ -547,6 +637,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_pickaxe": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:cave_spider": "2025-04-20 21:39:16 +0000",
@@ -563,6 +659,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-20 20:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/granite_wall_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-20 22:08:56 +0000"
     },
     "done": true
   },
@@ -746,6 +848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-20 22:08:56 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-20 20:48:27 +0000"
@@ -812,15 +920,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_hoe": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-04-20 22:18:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_stairs": {
     "criteria": {
       "has_planks": "2025-04-20 20:54:16 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/chicken": {
     "criteria": {
       "has_feather": "2025-04-20 20:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_slab": {
+    "criteria": {
+      "has_granite": "2025-04-20 22:08:56 +0000"
     },
     "done": true
   },
@@ -845,6 +977,12 @@
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-20 21:57:45 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
+    "criteria": {
+      "has_item": "2025-04-20 22:20:16 +0000"
     },
     "done": true
   },
@@ -881,6 +1019,12 @@
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-04-20 21:00:16 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_flanged_mace": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -962,6 +1106,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_pike": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_door": {
     "criteria": {
       "has_planks": "2025-04-20 20:54:16 +0000"
@@ -980,9 +1136,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-20 22:20:16 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/iron": {
     "criteria": {
       "has_iron_ingot": "2025-04-20 20:54:32 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/quill": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -1040,6 +1208,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/granite_stairs": {
+    "criteria": {
+      "has_granite": "2025-04-20 22:08:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-20 21:57:45 +0000"
@@ -1061,6 +1235,12 @@
   "spartanweaponry:recipes/wooden_warhammer": {
     "criteria": {
       "has_wood": "2025-04-20 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-04-20 22:20:16 +0000"
     },
     "done": true
   },
@@ -1091,6 +1271,18 @@
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-20 20:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-20 22:08:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_halberd": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -1136,6 +1328,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_longbow": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/medium_quiver_brace": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 20:54:31 +0000"
@@ -1172,6 +1370,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/granite_wall": {
+    "criteria": {
+      "has_granite": "2025-04-20 22:08:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_chicken_from_smoking": {
     "criteria": {
       "has_chicken": "2025-04-20 20:52:21 +0000"
@@ -1199,6 +1403,12 @@
   "minecraft:recipes/misc/charcoal": {
     "criteria": {
       "has_log": "2025-04-20 20:42:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_slab_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-20 22:08:56 +0000"
     },
     "done": true
   },
@@ -1241,6 +1451,18 @@
   "spartanweaponry:recipes/wooden_rapier": {
     "criteria": {
       "has_wood": "2025-04-20 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/diamond_helmet": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_greatsword": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -1304,6 +1526,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_lance": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-20 20:54:48 +0000"
@@ -1325,6 +1553,12 @@
   "spartanweaponry:recipes/silver_greatsword": {
     "criteria": {
       "has_silver_ingot": "2025-04-20 21:52:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_longsword": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -1430,6 +1664,12 @@
     },
     "done": true
   },
+  "betterskills:mining_4": {
+    "criteria": {
+      "mining_4_0": "2025-04-20 22:18:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 20:54:31 +0000"
@@ -1481,6 +1721,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-20 20:54:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -1598,6 +1844,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diamond_block": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_battle_hammer": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/root": {
     "criteria": {
       "join": "2025-04-20 20:36:01 +0000"
@@ -1607,6 +1865,12 @@
   "iceandfire:recipes/tools/silver_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-04-20 21:52:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_throwing_knife": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -1670,6 +1934,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_dagger": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/dark_oak_sign": {
     "criteria": {
       "has_planks": "2025-04-20 20:54:16 +0000"
@@ -1679,6 +1949,18 @@
   "valhelsia_furniture:recipes/decorations/lime_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-20 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
+    "criteria": {
+      "has_granite": "2025-04-20 22:08:56 +0000"
     },
     "done": true
   },
@@ -1730,6 +2012,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_glaive": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-20 20:54:16 +0000"
@@ -1739,6 +2027,12 @@
   "spartanweaponry:recipes/silver_scythe": {
     "criteria": {
       "has_silver_ingot": "2025-04-20 21:52:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-04-20 22:18:47 +0000"
     },
     "done": true
   },
@@ -1757,6 +2051,12 @@
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-04-20 20:54:32 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-04-20 22:22:48 +0000"
     },
     "done": true
   },
@@ -1880,6 +2180,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_leggings": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/magenta_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-20 20:48:27 +0000"
@@ -1889,6 +2195,12 @@
   "smallships:recipes/transportation/bamboo_cog": {
     "criteria": {
       "in_water": "2025-04-20 20:39:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_spear": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -1937,6 +2249,12 @@
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-04-20 20:53:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-04-20 22:04:50 +0000"
     },
     "done": true
   },
@@ -2200,6 +2518,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_saber": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/large_quiver_brace": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_parrying_dagger": {
     "criteria": {
       "has_cobblestone": "2025-04-20 20:50:13 +0000"
@@ -2251,6 +2581,12 @@
   "spartanweaponry:recipes/diamond_bolt": {
     "criteria": {
       "has_feather": "2025-04-20 20:52:21 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/diamond_blacksmith_gavel": {
+    "criteria": {
+      "has_gems/diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -2388,6 +2724,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_boomerang": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_saber": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 20:54:31 +0000"
@@ -2427,6 +2769,12 @@
   "minecraft:recipes/decorations/oak_fence": {
     "criteria": {
       "has_planks": "2025-04-20 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_scythe": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -2481,6 +2829,12 @@
   "minecraft:recipes/decorations/cobbled_deepslate_wall": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-20 22:00:41 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/diamond_tower_shield": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -2802,6 +3156,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/diamond_boots": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "smallships:recipes/transportation/dark_oak_cog": {
     "criteria": {
       "in_water": "2025-04-20 20:39:23 +0000"
@@ -2877,6 +3237,12 @@
   "valhelsia_furniture:recipes/decorations/orange_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-20 20:54:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-04-20 22:18:47 +0000"
     },
     "done": true
   },
@@ -3060,6 +3426,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-20 22:11:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
     "criteria": {
       "has_raw_iron": "2025-04-20 21:38:39 +0000"
@@ -3069,6 +3441,12 @@
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-20 22:00:41 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_heavy_crossbow": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },
@@ -3294,6 +3672,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_granite": {
+    "criteria": {
+      "has_granite": "2025-04-20 22:08:56 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-04-20 22:22:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2025-04-20 20:54:48 +0000"
@@ -3420,6 +3810,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/diamond_rapier": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_warhammer": {
     "criteria": {
       "has_cobblestone": "2025-04-20 20:50:13 +0000"
@@ -3524,6 +3920,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_beef": "2025-04-20 22:23:00 +0000",
       "bread": "2025-04-20 20:38:53 +0000",
       "melon_slice": "2025-04-20 21:08:55 +0000",
       "cooked_chicken": "2025-04-20 21:58:22 +0000"
@@ -3539,6 +3936,12 @@
   "spartanweaponry:recipes/stone_halberd": {
     "criteria": {
       "has_cobblestone": "2025-04-20 20:50:13 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_get_voidquartz": {
+    "criteria": {
+      "iter_get_voidquartz_0": "2025-04-20 22:18:02 +0000"
     },
     "done": true
   },
@@ -3569,6 +3972,12 @@
   "minecraft:recipes/decorations/loom": {
     "criteria": {
       "has_string": "2025-04-20 21:39:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/diamond_axe": {
+    "criteria": {
+      "has_diamond": "2025-04-20 22:18:50 +0000"
     },
     "done": true
   },

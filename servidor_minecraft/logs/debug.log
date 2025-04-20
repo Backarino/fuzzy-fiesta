@@ -8132,3 +8132,252 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.advancements.Advanc
 [20Apr2025 22:04:23.256] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=39, y=-17, z=1621} at Chest with:minecraft:chests/simple_dungeon
 [20Apr2025 22:04:38.342] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Apr2025 22:04:38.355] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 22:04:50.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Isn't It Iron Pick]
+[20Apr2025 22:04:55.613] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=1459, y=79, z=622} at Chest with:minecraft:chests/simple_dungeon
+[20Apr2025 22:04:57.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:04:57.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:04:57.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:04:57.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:04:57.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:04:57.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:04:57.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:04:57.875] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:05:07.756] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:08.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:09.055] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:09.420] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:10.170] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:10.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:10.515] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:11.088] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:11.481] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:11.965] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:12.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:12.998] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:13.817] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:14.500] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:15.294] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:05:19.505] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:05:19.505] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:05:19.505] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:05:19.505] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:05:19.505] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_R in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:05:19.505] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Knee_L in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:05:19.505] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_R in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:05:19.505] [Server thread/DEBUG] [epicfight/]: Cannot find the joint named Elbow_L in yesman.epicfight.model.armature.VexArmature
+[20Apr2025 22:05:27.243] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-56, y=-4, z=1709} at Chest with:minecraft:chests/simple_dungeon
+[20Apr2025 22:06:18.928] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:shulkerboss at BlockPos{x=134, y=-46, z=1738} at Chest with:minecraft:chests/simple_dungeon
+[20Apr2025 22:07:14.764] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:07:14.940] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:07:17.759] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:07:18.011] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:07:19.962] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:07:20.114] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:07:20.356] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:07:20.826] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:07:21.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:09:38.352] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 22:09:38.364] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 22:09:38.493] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:09:38.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:09:41.125] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:09:41.571] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:09:56.901] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:09:57.652] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:09:57.653] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:09:58.400] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:09:58.401] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:09:58.401] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:10:40.950] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:10:41.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:10:41.365] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:10:41.573] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:10:41.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:10:41.934] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:10:42.110] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:10:42.302] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:16.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [A Cut Above the Rest]
+[20Apr2025 22:11:17.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Suit Up]
+[20Apr2025 22:11:19.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:19.514] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:11:19.766] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Ice Bucket Challenge]
+[20Apr2025 22:11:21.780] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:21.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:11:23.808] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:23.808] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:11:25.755] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:25.755] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:11:27.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:27.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:11:28.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:28.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:11:29.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:29.803] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:11:31.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:31.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:11:32.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:32.104] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:11:36.500] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:36.500] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:11:37.257] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:37.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:37.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:37.955] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:38.400] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:38.607] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:39.213] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:39.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:39.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:40.109] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:40.404] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:40.902] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:41.865] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:11:42.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Mining 3]
+[20Apr2025 22:11:49.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Diamonds!]
+[20Apr2025 22:11:52.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Swashbuckler]
+[20Apr2025 22:11:53.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Hammer Time!]
+[20Apr2025 22:12:32.575] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:12:32.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:12:32.949] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:12:33.104] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:12:33.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:12:33.402] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:12:33.555] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:12:33.800] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:12:34.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:14:17.045] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:14:17.207] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:14:38.332] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 22:14:38.343] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 22:15:15.009] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:15.010] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:15:15.011] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[20Apr2025 22:15:15.310] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:17.460] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:17.461] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:15:17.461] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[20Apr2025 22:15:17.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:19.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:19.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:15:19.709] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[20Apr2025 22:15:21.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:21.709] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[20Apr2025 22:15:21.709] [Server thread/DEBUG] [Spartan Weaponry/]: Base damage: 7.0 * Magnitude: 1.0 = Result damage: 7.0 - Overridden sweep damage ratio to 0.85714287
+[20Apr2025 22:15:24.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:25.059] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:26.705] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:47.912] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:48.161] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:48.860] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:49.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:50.858] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:51.258] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:51.466] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:51.658] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:51.809] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:52.009] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:52.209] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:52.362] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:52.559] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:52.910] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:53.075] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:54.150] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:55.095] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:56.249] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:58.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:15:59.045] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:16:00.193] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:16:01.493] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[20Apr2025 22:16:02.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Let's Get To Work]
+[20Apr2025 22:16:38.288] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/66126, l='ServerLevel[world]', x=2499.77, y=77.00, z=1139.70] died, message: 'Weaponsmith was struck with lightning by Lightning Dragon'
+[20Apr2025 22:16:52.835] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66106, l='ServerLevel[world]', x=2516.70, y=64.77, z=1101.28] died, message: 'Villager was slain by Lightning Dragon'
+[20Apr2025 22:17:17.383] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=-373, y=103, z=1516} at Chest with:minecraft:chests/simple_dungeon
+[20Apr2025 22:17:35.531] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-413, y=37, z=1585} at Chest with:minecraft:chests/simple_dungeon
+[20Apr2025 22:17:49.908] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:52.360] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:52.559] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:53.083] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/66125, l='ServerLevel[world]', x=2515.42, y=80.00, z=1146.55] died, message: 'Weaponsmith was slain by Zombie'
+[20Apr2025 22:17:53.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:53.658] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:54.397] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:54.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:54.770] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:55.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:55.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:55.605] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:56.120] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:56.406] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:57.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:58.164] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:59.005] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:17:59.961] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:18:02.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Staring into the Void]
+[20Apr2025 22:18:22.857] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:18:24.606] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:18:26.558] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:18:27.005] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:18:27.657] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:18:50.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Diamonds!]
+[20Apr2025 22:18:51.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Mining 4]
+[20Apr2025 22:18:55.094] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/66107, l='ServerLevel[world]', x=2488.53, y=73.00, z=1109.20] died, message: 'Villager was struck with lightning by Lightning Dragon'
+[20Apr2025 22:18:55.504] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:18:56.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:18:56.124] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Apr2025 22:18:56.307] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:18:56.654] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:18:57.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[20Apr2025 22:19:22.345] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Florist'/68929, l='ServerLevel[world]', x=2490.50, y=70.00, z=1100.50] died, message: 'Florist was energized by Lightning Dragon'
+[20Apr2025 22:19:24.341] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Weaponsmith'/68936, l='ServerLevel[world]', x=2569.85, y=105.30, z=1153.91] died, message: 'Weaponsmith was slain by Lightning Dragon'
+[20Apr2025 22:19:31.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[20Apr2025 22:19:38.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 22:19:38.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 22:20:17.520] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:20:19.105] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:08.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:18.747] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Apr2025 22:21:18.805] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Apr2025 22:21:18.850] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Apr2025 22:21:18.904] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Apr2025 22:21:18.950] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[20Apr2025 22:21:26.397] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:26.649] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:28.851] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:29.102] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:29.343] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:31.456] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:31.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Who You Gonna Call?]
+[20Apr2025 22:21:31.656] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:51.092] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:51.244] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:51.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:51.493] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:51.643] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:51.789] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:51.895] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:52.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:52.243] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:52.495] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:52.696] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:52.839] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:52.995] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:53.439] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:21:54.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU was killed by Cecaelia using magic
+[20Apr2025 22:22:47.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:22:48.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [The Beginning of An Adventure]
+[20Apr2025 22:22:48.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Need A Map?]
+[20Apr2025 22:22:48.699] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:22:48.915] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:22:50.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:22:50.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:22:51.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[20Apr2025 22:24:14.804] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:24:15.448] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:24:16.501] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:24:17.045] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:24:17.752] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:24:18.196] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[20Apr2025 22:24:38.330] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Apr2025 22:24:38.341] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Apr2025 22:25:04.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Foraging]
+[20Apr2025 22:25:08.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [The Beginning of An Adventure]
+[20Apr2025 22:25:08.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Need A Map?]
