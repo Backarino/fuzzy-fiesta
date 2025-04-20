@@ -8,8 +8,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-04-20 17:42:36 +0000",
+      "minecraft:sparse_jungle": "2025-04-20 21:03:26 +0000",
       "minecraft:lukewarm_ocean": "2025-04-20 20:39:04 +0000",
       "minecraft:river": "2025-04-20 20:38:56 +0000",
+      "minecraft:forest": "2025-04-20 21:02:20 +0000",
       "minecraft:savanna": "2025-04-20 20:57:16 +0000",
       "minecraft:plains": "2025-04-20 17:41:00 +0000"
     },
@@ -18,6 +20,12 @@
   "spartanweaponry:recipes/golden_rapier": {
     "criteria": {
       "has_gold_ingot": "2025-04-20 20:54:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-20 21:00:16 +0000"
     },
     "done": true
   },
@@ -84,6 +92,12 @@
   "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-20 20:54:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/cestus": {
+    "criteria": {
+      "has_leather": "2025-04-20 21:00:16 +0000"
     },
     "done": true
   },
@@ -309,6 +323,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-20 21:00:16 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/oak_table": {
     "criteria": {
       "has_oak_planks": "2025-04-20 20:48:27 +0000"
@@ -348,6 +368,12 @@
   "morevillagers:first_village": {
     "criteria": {
       "plains": "2025-04-20 20:36:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-04-20 21:04:21 +0000"
     },
     "done": true
   },
@@ -627,6 +653,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-20 21:00:16 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_rapier": {
     "criteria": {
       "has_iron_ingot": "2025-04-20 20:54:32 +0000"
@@ -675,6 +707,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/pumpkin": {
+    "criteria": {
+      "has_pumpkin": "2025-04-20 21:08:28 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-20 20:54:16 +0000"
@@ -705,9 +743,21 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-04-20 21:00:16 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/stone_boomerang": {
     "criteria": {
       "has_cobblestone": "2025-04-20 20:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/pumpkin_pie": {
+    "criteria": {
+      "has_pumpkin": "2025-04-20 21:08:28 +0000"
     },
     "done": true
   },
@@ -909,6 +959,12 @@
     },
     "done": true
   },
+  "betterskills:foraging_1": {
+    "criteria": {
+      "foraging_1_0": "2025-04-20 21:02:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_hoe": {
     "criteria": {
       "has_stick": "2025-04-20 20:48:30 +0000"
@@ -954,6 +1010,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-20 20:54:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-20 21:00:16 +0000"
     },
     "done": true
   },
@@ -1044,6 +1106,12 @@
   "iceandfire:recipes/food/gold_pile": {
     "criteria": {
       "has_item": "2025-04-20 20:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/melon": {
+    "criteria": {
+      "has_melon": "2025-04-20 21:07:51 +0000"
     },
     "done": true
   },
@@ -1233,6 +1301,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-20 21:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2025-04-20 20:50:13 +0000"
@@ -1413,6 +1487,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/melon_seeds": {
+    "criteria": {
+      "has_melon": "2025-04-20 21:07:51 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-20 20:48:27 +0000"
@@ -1431,9 +1511,27 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/leather_longbow": {
+    "criteria": {
+      "has_leather": "2025-04-20 21:00:16 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_meal": {
     "criteria": {
       "has_item": "2025-04-20 20:52:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-20 21:00:16 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/coal": {
+    "criteria": {
+      "has_coal": "2025-04-20 21:12:54 +0000"
     },
     "done": true
   },
@@ -1446,6 +1544,12 @@
   "smallships:recipes/transportation/oak_brigg": {
     "criteria": {
       "in_water": "2025-04-20 20:39:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-04-20 21:07:35 +0000"
     },
     "done": true
   },
@@ -1476,6 +1580,12 @@
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-20 20:54:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_helmet": "2025-04-20 21:07:35 +0000"
     },
     "done": true
   },
@@ -1611,6 +1721,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/blindfold": {
+    "criteria": {
+      "has_item": "2025-04-20 21:00:16 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_flanged_mace": {
     "criteria": {
       "has_iron_ingot": "2025-04-20 20:54:32 +0000"
@@ -1661,6 +1777,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "cartographytable": "2025-04-20 21:05:27 +0000",
       "brewingstand": "2025-04-20 20:53:13 +0000",
       "blastfurnace": "2025-04-20 20:48:58 +0000"
     },
@@ -1753,6 +1870,12 @@
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-20 20:48:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pumpkin_seeds": {
+    "criteria": {
+      "has_pumpkin": "2025-04-20 21:08:28 +0000"
     },
     "done": true
   },
@@ -2056,6 +2179,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-20 21:12:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-04-20 20:54:48 +0000"
@@ -2107,6 +2236,12 @@
   "spartanweaponry:recipes/iron_throwing_knife": {
     "criteria": {
       "has_iron_ingot": "2025-04-20 20:54:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/leather_heavy_crossbow": {
+    "criteria": {
+      "has_leather": "2025-04-20 21:00:16 +0000"
     },
     "done": true
   },
@@ -2260,6 +2395,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/glistering_melon_slice": {
+    "criteria": {
+      "has_melon": "2025-04-20 21:07:51 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_arrow": {
     "criteria": {
       "has_feather": "2025-04-20 20:52:21 +0000"
@@ -2386,6 +2527,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/quiver_compartment": {
+    "criteria": {
+      "has_leather": "2025-04-20 21:00:16 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_chair": {
     "criteria": {
       "has_oak_planks": "2025-04-20 20:48:27 +0000"
@@ -2485,6 +2632,12 @@
   "valhelsia_furniture:recipes/decorations/brown_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-20 20:54:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/melon": {
+    "criteria": {
+      "has_melon_slice": "2025-04-20 21:07:51 +0000"
     },
     "done": true
   },
@@ -2638,6 +2791,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_helmet": "2025-04-20 21:07:35 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/wooden_tomahawk": {
     "criteria": {
       "has_wood": "2025-04-20 20:48:27 +0000"
@@ -2694,7 +2853,8 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "bread": "2025-04-20 20:38:53 +0000"
+      "bread": "2025-04-20 20:38:53 +0000",
+      "melon_slice": "2025-04-20 21:08:55 +0000"
     },
     "done": false
   },
