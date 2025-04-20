@@ -2147,3 +2147,11 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.advancements.Advanc
 [20Apr2025 22:32:52.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Not Today, Thank You]
 [20Apr2025 22:34:13.047] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:57308] logged in with entity id 85214 at (-108.43155247172125, -13.0, 1114.3712617972246)
 [20Apr2025 22:34:13.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[20Apr2025 22:36:56.757] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-717, y=-36, z=2051}
+[20Apr2025 22:37:05.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU was slain by Ghost
+[20Apr2025 22:39:45.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Zombie
+[20Apr2025 22:40:36.348] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Mining 2]
+[20Apr2025 22:42:08.094] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: savanna:houses
+[20Apr2025 22:42:08.111] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: savanna:houses
+[20Apr2025 22:44:31.228] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: savanna:houses
+[20Apr2025 22:44:31.229] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: savanna:houses
