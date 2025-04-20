@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:birch_forest": "2025-04-20 22:57:31 +0000",
       "minecraft:bamboo_jungle": "2025-04-20 21:13:47 +0000",
       "minecraft:beach": "2025-04-20 20:37:00 +0000",
       "minecraft:sparse_jungle": "2025-04-20 21:03:31 +0000",
@@ -62,6 +63,7 @@
       "minecraft:river": "2025-04-20 20:38:51 +0000",
       "minecraft:forest": "2025-04-20 21:02:21 +0000",
       "minecraft:jungle": "2025-04-20 21:14:29 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-20 22:55:13 +0000",
       "minecraft:savanna": "2025-04-20 20:57:15 +0000",
       "minecraft:plains": "2025-04-20 20:36:29 +0000"
     },
@@ -531,6 +533,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "chicken": "2025-04-20 23:13:14 +0000",
       "cooked_beef": "2025-04-20 22:52:18 +0000",
       "bread": "2025-04-20 20:45:41 +0000",
       "glow_berries": "2025-04-20 22:31:05 +0000",
@@ -2162,8 +2165,13 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-04-20 21:57:03 +0000",
+      "rocky_shrubland": "2025-04-20 22:57:47 +0000",
       "scrubland": "2025-04-20 22:06:41 +0000",
+      "jade_cliffs": "2025-04-20 22:54:46 +0000",
+      "mystic_grove": "2025-04-20 22:55:04 +0000",
       "old_growth_woodland": "2025-04-20 21:33:03 +0000",
+      "moor": "2025-04-20 22:54:39 +0000",
+      "mediterranean_forest": "2025-04-20 23:11:22 +0000",
       "spider_nest": "2025-04-20 21:39:16 +0000",
       "rocky_rainforest": "2025-04-20 22:54:23 +0000",
       "rainforest": "2025-04-20 21:32:58 +0000"
@@ -2185,7 +2193,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-20 21:58:18 +0000",
-      "minecraft:cave_spider": "2025-04-20 21:39:33 +0000"
+      "minecraft:spider": "2025-04-20 22:55:51 +0000",
+      "minecraft:cave_spider": "2025-04-20 21:39:33 +0000",
+      "minecraft:zombie": "2025-04-20 23:00:47 +0000"
     },
     "done": false
   },
@@ -2927,6 +2937,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
+    "criteria": {
+      "has_chicken": "2025-04-20 23:09:06 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_javelin": {
     "criteria": {
       "has_silver_ingot": "2025-04-20 22:44:36 +0000"
@@ -2942,6 +2958,12 @@
   "spartanweaponry:recipes/silver_warhammer": {
     "criteria": {
       "has_silver_ingot": "2025-04-20 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/chicken": {
+    "criteria": {
+      "has_feather": "2025-04-20 23:09:06 +0000"
     },
     "done": true
   },
@@ -2963,15 +2985,39 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/kill_stymphalian_bird": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-20 23:01:29 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:parrying_dagger": {
     "criteria": {
       "has_parrying_dagger": "2025-04-20 22:48:47 +0000"
     },
     "done": true
   },
+  "betterskills:foraging_1": {
+    "criteria": {
+      "foraging_1_0": "2025-04-20 23:10:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_chicken_from_smoking": {
+    "criteria": {
+      "has_chicken": "2025-04-20 23:09:06 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_longbow": {
     "criteria": {
       "has_silver_ingot": "2025-04-20 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/bolt": {
+    "criteria": {
+      "has_feather": "2025-04-20 23:09:06 +0000"
     },
     "done": true
   },
@@ -2990,6 +3036,12 @@
   "spartanshields:recipes/silver_basic_shield": {
     "criteria": {
       "has_silver_ingot": "2025-04-20 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_bolt": {
+    "criteria": {
+      "has_feather": "2025-04-20 23:09:06 +0000"
     },
     "done": true
   },
@@ -3023,6 +3075,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_chicken": {
+    "criteria": {
+      "has_chicken": "2025-04-20 23:09:06 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_flanged_mace": {
     "criteria": {
       "has_silver_ingot": "2025-04-20 22:44:36 +0000"
@@ -3041,6 +3099,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-20 23:09:06 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_boomerang": {
     "criteria": {
       "has_silver_ingot": "2025-04-20 22:44:36 +0000"
@@ -3050,6 +3114,18 @@
   "spartanweaponry:recipes/silver_heavy_crossbow": {
     "criteria": {
       "has_silver_ingot": "2025-04-20 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/diamond_bolt": {
+    "criteria": {
+      "has_feather": "2025-04-20 23:09:06 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2025-04-20 22:56:56 +0000"
     },
     "done": true
   },
@@ -3083,6 +3159,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/sludge_girl": {
+    "criteria": {
+      "kill": "2025-04-20 22:58:11 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_katana": {
     "criteria": {
       "has_silver_ingot": "2025-04-20 22:44:36 +0000"
@@ -3092,6 +3174,12 @@
   "spartanweaponry:recipes/silver_pike": {
     "criteria": {
       "has_silver_ingot": "2025-04-20 22:44:36 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/harpy": {
+    "criteria": {
+      "kill": "2025-04-20 23:00:42 +0000"
     },
     "done": true
   },
