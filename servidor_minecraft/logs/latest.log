@@ -2029,3 +2029,75 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.advancements.Advanc
 [20Apr2025 21:13:27.008] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [20Apr2025 21:13:27.011] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
 [20Apr2025 21:13:46.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Stone Age]
+[20Apr2025 21:14:59.248] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[20Apr2025 21:18:07.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Stone Age]
+[20Apr2025 21:18:50.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Monster Hunter]
+[20Apr2025 21:19:05.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Monster Hunter]
+[20Apr2025 21:19:26.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Getting an Upgrade]
+[20Apr2025 21:20:31.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Acquire Hardware]
+[20Apr2025 21:20:39.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mining]
+[20Apr2025 21:22:00.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mining 2]
+[20Apr2025 21:22:26.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Mining]
+[20Apr2025 21:24:45.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Monster Hunter]
+[20Apr2025 21:25:10.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [A Rogue's Best Friend]
+[20Apr2025 21:30:36.687] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[20Apr2025 21:32:02.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Suit Up]
+[20Apr2025 21:32:53.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Mining 2]
+[20Apr2025 21:34:21.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Mining]
+[20Apr2025 21:34:33.257] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=714, y=54, z=603}
+[20Apr2025 21:35:40.268] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2002ms or 40 ticks behind
+[20Apr2025 21:35:56.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[20Apr2025 21:35:57.614] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2348ms or 46 ticks behind
+[20Apr2025 21:37:07.073] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2006ms or 40 ticks behind
+[20Apr2025 21:37:13.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [We Just Want our Hat Back]
+[20Apr2025 21:37:25.442] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3375ms or 67 ticks behind
+[20Apr2025 21:37:41.736] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[20Apr2025 21:37:41.944] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[20Apr2025 21:37:42.821] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2405ms or 48 ticks behind
+[20Apr2025 21:38:18.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [A Bone to Pick]
+[20Apr2025 21:39:13.863] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2346ms or 46 ticks behind
+[20Apr2025 21:39:33.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Monster Hunter]
+[20Apr2025 21:39:36.730] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[20Apr2025 21:40:52.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [First Village]
+[20Apr2025 21:41:19.476] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/33869, l='ServerLevel[world]', x=16.50, y=50.00, z=1179.50]
+[20Apr2025 21:41:38.797] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Mining 2]
+[20Apr2025 21:42:39.873] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[20Apr2025 21:45:08.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Book of Monsters]
+[20Apr2025 21:46:28.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Acquire Hardware]
+[20Apr2025 21:47:23.468] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[20Apr2025 21:48:52.027] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[20Apr2025 21:49:10.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU was slain by Cobblestone Golem
+[20Apr2025 21:51:20.259] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[20Apr2025 21:51:45.297] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[20Apr2025 21:51:47.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Isn't It Iron Pick]
+[20Apr2025 21:53:18.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Will it Come Back?]
+[20Apr2025 21:56:02.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Isn't It Iron Pick]
+[20Apr2025 21:56:21.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Mining 3]
+[20Apr2025 21:56:43.638] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Timed out
+[20Apr2025 21:56:43.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[20Apr2025 21:56:46.387] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SILVERTAKU lost connection: Timed out
+[20Apr2025 21:56:46.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU left the game
+[20Apr2025 21:56:58.102] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SILVERTAKU[/172.29.104.71:59022] logged in with entity id 48360 at (81.22412607620944, 103.0, 1169.0420255999793)
+[20Apr2025 21:56:58.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
+[20Apr2025 21:58:14.706] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:60485] logged in with entity id 48829 at (2107.7503534424945, 79.79673560066871, 1088.188587190102)
+[20Apr2025 21:58:14.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[20Apr2025 21:59:16.420] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: savanna:houses
+[20Apr2025 21:59:16.449] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: savanna:houses
+[20Apr2025 21:59:16.560] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: savanna:houses
+[20Apr2025 21:59:16.568] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: savanna:houses
+[20Apr2025 21:59:18.473] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/49918, l='ServerLevel[world]', x=18.50, y=48.00, z=1187.50]
+[20Apr2025 21:59:59.192] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=2475, y=75, z=1149}
+[20Apr2025 22:00:05.781] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=2498, y=89, z=1149}
+[20Apr2025 22:01:11.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Ghost
+[20Apr2025 22:01:24.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SAURIO12> z
+[20Apr2025 22:01:24.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SAURIO12> z
+[20Apr2025 22:01:24.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SAURIO12> z
+[20Apr2025 22:01:24.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SAURIO12> z
+[20Apr2025 22:01:25.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SAURIO12> z
+[20Apr2025 22:01:26.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DonTony09> ZZZZ
+[20Apr2025 22:01:33.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BackedSrAaron> zzzzzz
+[20Apr2025 22:01:37.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SAURIO12> z
+[20Apr2025 22:01:37.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SAURIO12> z
+[20Apr2025 22:01:37.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SAURIO12> z
+[20Apr2025 22:01:37.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BackedSrAaron> zilver
+[20Apr2025 22:03:25.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Zombie
