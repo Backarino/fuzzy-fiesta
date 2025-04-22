@@ -67,8 +67,10 @@
       "minecraft:river": "2025-04-20 21:01:53 +0000",
       "minecraft:dripstone_caves": "2025-04-20 22:32:32 +0000",
       "minecraft:forest": "2025-04-20 21:02:00 +0000",
+      "minecraft:lush_caves": "2025-04-22 03:44:59 +0000",
       "minecraft:desert": "2025-04-20 23:31:00 +0000",
       "minecraft:jungle": "2025-04-20 21:29:56 +0000",
+      "minecraft:meadow": "2025-04-22 03:38:11 +0000",
       "minecraft:savanna": "2025-04-20 20:57:15 +0000",
       "minecraft:plains": "2025-04-20 20:54:23 +0000"
     },
@@ -3432,6 +3434,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-22 03:46:21 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-04-22 03:32:58 +0000"
@@ -3606,6 +3614,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/mountain_troll_leather_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-22 03:41:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/terracotta": {
     "criteria": {
       "has_clay_block": "2025-04-22 03:31:51 +0000"
@@ -3633,6 +3647,12 @@
   "betterskills:foraging_3": {
     "criteria": {
       "foraging_3_0": "2025-04-22 03:15:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_boots": {
+    "criteria": {
+      "has_item": "2025-04-22 03:41:03 +0000"
     },
     "done": true
   },
@@ -3672,6 +3692,12 @@
     },
     "done": true
   },
+  "betterskills:mining_3": {
+    "criteria": {
+      "mining_3_0": "2025-04-22 03:48:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/slime_block": {
     "criteria": {
       "has_slime_ball": "2025-04-22 03:34:07 +0000"
@@ -3696,9 +3722,21 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/dullahan": {
+    "criteria": {
+      "kill": "2025-04-22 03:39:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/purple_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/banshee": {
+    "criteria": {
+      "kill": "2025-04-22 03:38:36 +0000"
     },
     "done": true
   },
@@ -3714,6 +3752,24 @@
     },
     "done": true
   },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-22 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-22 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/mountain_troll_leather_leggings": {
+    "criteria": {
+      "has_item": "2025-04-22 03:41:03 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
@@ -3723,6 +3779,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_ingot_from_smelting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-22 03:41:14 +0000"
     },
     "done": true
   },
@@ -3768,6 +3830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-22 03:51:16 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/werecat": {
     "criteria": {
       "kill": "2025-04-22 03:29:15 +0000"
@@ -3807,6 +3875,12 @@
   "valhelsia_furniture:recipes/decorations/birch_desk": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/raw_silver_to_raw_silver_block": {
+    "criteria": {
+      "has_raw_silver": "2025-04-22 03:41:14 +0000"
     },
     "done": true
   },
@@ -3858,9 +3932,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
+    "criteria": {
+      "has_raw_silver": "2025-04-22 03:41:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-04-22 03:14:41 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_troll": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-22 03:40:54 +0000"
     },
     "done": true
   },
@@ -3903,6 +3989,12 @@
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-22 03:22:30 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-22 03:46:21 +0000"
     },
     "done": true
   },

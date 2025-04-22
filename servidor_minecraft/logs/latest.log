@@ -1818,3 +1818,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [22Apr2025 03:33:52.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Mining 7]
 [22Apr2025 03:39:38.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Mining 5]
 [22Apr2025 03:40:54.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [They Have a Cave Troll!]
+[22Apr2025 03:42:14.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron fell from a high place
+[22Apr2025 03:42:37.534] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[22Apr2025 03:42:47.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 fell from a high place
+[22Apr2025 03:46:12.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Minotaurus
+[22Apr2025 03:48:11.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Combat 2]
+[22Apr2025 03:48:17.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mining 3]
+[22Apr2025 03:51:13.754] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Not Today, Thank You]
+[22Apr2025 03:51:26.660] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/34936, l='ServerLevel[world]', x=16.50, y=49.00, z=1187.50]
