@@ -429,6 +429,7 @@
       "bread": "2025-04-20 20:45:46 +0000",
       "golden_apple": "2025-04-20 22:53:42 +0000",
       "rotten_flesh": "2025-04-20 21:05:11 +0000",
+      "glow_berries": "2025-04-22 04:23:14 +0000",
       "melon_slice": "2025-04-22 04:00:04 +0000"
     },
     "done": false
@@ -4068,6 +4069,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-22 04:14:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_battleaxe": {
     "criteria": {
       "has_diamond": "2025-04-22 03:22:21 +0000"
@@ -4164,6 +4171,12 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-22 04:14:02 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_pike": {
     "criteria": {
       "has_diamond": "2025-04-22 03:22:21 +0000"
@@ -4176,9 +4189,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-22 04:14:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-22 03:19:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-22 04:14:02 +0000"
     },
     "done": true
   },
@@ -4272,6 +4297,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/myrmex_resin_jungle": {
+    "criteria": {
+      "has_item": "2025-04-22 04:31:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_helmet": {
     "criteria": {
       "has_diamond": "2025-04-22 03:22:21 +0000"
@@ -4329,6 +4360,12 @@
   "betterskills:mining_5": {
     "criteria": {
       "mining_5_0": "2025-04-22 03:39:38 +0000"
+    },
+    "done": true
+  },
+  "betterskills:mining_6": {
+    "criteria": {
+      "mining_6_0": "2025-04-22 04:03:39 +0000"
     },
     "done": true
   },
@@ -4740,6 +4777,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/lapis_lazuli": {
+    "criteria": {
+      "has_lapis_block": "2025-04-22 04:19:13 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_katana": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 03:52:55 +0000"
@@ -4779,6 +4822,12 @@
   "spartanweaponry:recipes/golden_tomahawk": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 03:52:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-22 04:14:02 +0000"
     },
     "done": true
   },

@@ -1832,3 +1832,19 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [22Apr2025 04:00:13.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Foraging 4]
 [22Apr2025 04:00:39.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
 [22Apr2025 04:02:14.711] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=1075, y=-36, z=3037}
+[22Apr2025 04:02:45.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[22Apr2025 04:03:39.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Mining 6]
+[22Apr2025 04:04:22.922] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/44315, l='ServerLevel[world]', x=20.50, y=55.00, z=1186.50]
+[22Apr2025 04:04:24.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Combat 2]
+[22Apr2025 04:06:16.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was slain by Minotaurus
+[22Apr2025 04:06:28.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Spriggan
+[22Apr2025 04:07:38.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Minotaurus
+[22Apr2025 04:11:31.683] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/49794, l='ServerLevel[world]', x=14.50, y=47.00, z=1184.50]
+[22Apr2025 04:11:35.964] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Foraging 5]
+[22Apr2025 04:12:00.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Foraging 3]
+[22Apr2025 04:13:47.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Foraging 4]
+[22Apr2025 04:17:24.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Foraging 5]
+[22Apr2025 04:20:16.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mining 4]
+[22Apr2025 04:28:58.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Best Friends Forever]
+[22Apr2025 04:32:04.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mining 5]
+[22Apr2025 04:32:28.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [A Bone to Pick]
