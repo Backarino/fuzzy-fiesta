@@ -1034,6 +1034,7 @@
       "cooked_beef": "2025-04-20 22:28:22 +0000",
       "apple": "2025-04-20 21:10:21 +0000",
       "bread": "2025-04-20 20:57:25 +0000",
+      "golden_apple": "2025-04-22 03:26:13 +0000",
       "cookie": "2025-04-20 22:30:47 +0000",
       "glow_berries": "2025-04-20 21:11:12 +0000",
       "melon_slice": "2025-04-22 03:02:52 +0000",
@@ -1983,7 +1984,10 @@
       "minecraft:spider": "2025-04-22 02:56:57 +0000",
       "minecraft:creeper": "2025-04-20 22:15:24 +0000",
       "minecraft:husk": "2025-04-20 23:38:19 +0000",
-      "minecraft:zombie": "2025-04-20 22:58:41 +0000"
+      "minecraft:enderman": "2025-04-22 03:32:08 +0000",
+      "minecraft:silverfish": "2025-04-22 03:36:16 +0000",
+      "minecraft:zombie": "2025-04-20 22:58:41 +0000",
+      "minecraft:zombie_villager": "2025-04-22 03:30:30 +0000"
     },
     "done": false
   },
@@ -3410,6 +3414,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/matango": {
+    "criteria": {
+      "kill": "2025-04-22 03:34:12 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
@@ -3419,6 +3429,12 @@
   "minecraft:recipes/redstone/birch_button": {
     "criteria": {
       "has_planks": "2025-04-22 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-22 03:32:58 +0000"
     },
     "done": true
   },
@@ -3482,9 +3498,21 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/toad": {
+    "criteria": {
+      "kill": "2025-04-22 03:34:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-04-22 02:59:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-22 03:22:30 +0000"
     },
     "done": true
   },
@@ -3497,6 +3525,12 @@
   "valhelsia_furniture:recipes/decorations/light_blue_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-22 03:22:30 +0000"
     },
     "done": true
   },
@@ -3572,6 +3606,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-04-22 03:31:51 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_4": {
+    "criteria": {
+      "foraging_4_0": "2025-04-22 03:17:59 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_5": {
+    "criteria": {
+      "foraging_5_0": "2025-04-22 03:20:16 +0000"
+    },
+    "done": true
+  },
   "betterskills:foraging_2": {
     "criteria": {
       "foraging_2_0": "2025-04-22 03:14:42 +0000"
@@ -3620,6 +3672,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-04-22 03:34:07 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
@@ -3650,6 +3708,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-22 03:32:58 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
@@ -3659,6 +3723,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-22 03:22:30 +0000"
     },
     "done": true
   },
@@ -3692,6 +3762,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-22 03:22:30 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/werecat": {
+    "criteria": {
+      "kill": "2025-04-22 03:29:15 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
@@ -3707,6 +3789,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-04-22 03:22:30 +0000"
     },
     "done": true
   },
@@ -3740,15 +3828,33 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-04-22 03:22:30 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-04-22 03:01:52 +0000"
     },
     "done": true
   },
+  "grimoireofgaia:main/sporeling": {
+    "criteria": {
+      "kill": "2025-04-22 03:34:20 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-04-22 03:34:07 +0000"
     },
     "done": true
   },
@@ -3761,6 +3867,18 @@
   "valhelsia_furniture:recipes/decorations/green_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-04-22 03:34:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/fermented_spider_eye": {
+    "criteria": {
+      "has_spider_eye": "2025-04-22 03:27:46 +0000"
     },
     "done": true
   },
@@ -3782,6 +3900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-22 03:22:30 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
@@ -3797,6 +3921,12 @@
   "minecraft:recipes/redstone/birch_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-22 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-22 03:22:30 +0000"
     },
     "done": true
   },

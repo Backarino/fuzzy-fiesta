@@ -2987,6 +2987,7 @@
       "minecraft:pillager": "2025-04-22 03:04:51 +0000",
       "minecraft:skeleton": "2025-04-20 22:33:25 +0000",
       "minecraft:spider": "2025-04-20 22:31:46 +0000",
+      "minecraft:creeper": "2025-04-22 03:26:53 +0000",
       "minecraft:cave_spider": "2025-04-20 21:39:16 +0000",
       "minecraft:zombie": "2025-04-20 21:24:45 +0000"
     },
@@ -4284,15 +4285,45 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-04-22 03:26:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef_from_smoking": {
     "criteria": {
       "has_beef": "2025-04-22 03:05:36 +0000"
     },
     "done": true
   },
+  "betterskills:mining_7": {
+    "criteria": {
+      "mining_7_0": "2025-04-22 03:33:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-22 03:26:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_beef": {
     "criteria": {
       "has_beef": "2025-04-22 03:05:36 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/experience_iron": {
+    "criteria": {
+      "has_iron_box": "2025-04-22 03:34:26 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-04-22 03:26:53 +0000"
     },
     "done": true
   },
@@ -4305,6 +4336,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-22 03:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-22 03:26:53 +0000"
     },
     "done": true
   },
