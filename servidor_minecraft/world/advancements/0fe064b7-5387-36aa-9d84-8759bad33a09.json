@@ -2071,6 +2071,7 @@
       "scrubland": "2025-04-20 21:51:14 +0000",
       "fungal_jungle": "2025-04-20 22:50:31 +0000",
       "lush_savanna": "2025-04-20 23:30:27 +0000",
+      "clover_patch": "2025-04-22 04:00:13 +0000",
       "old_growth_woodland": "2025-04-20 21:51:55 +0000",
       "mediterranean_forest": "2025-04-20 21:35:51 +0000",
       "wasteland": "2025-04-20 23:05:18 +0000",
@@ -3482,6 +3483,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_axe": "2025-04-22 03:54:57 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
@@ -3767,6 +3774,12 @@
   "iceandfire:recipes/combat/mountain_troll_leather_leggings": {
     "criteria": {
       "has_item": "2025-04-22 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_axe": "2025-04-22 03:54:57 +0000"
     },
     "done": true
   },
