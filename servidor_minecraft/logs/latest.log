@@ -1848,3 +1848,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [22Apr2025 04:28:58.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Best Friends Forever]
 [22Apr2025 04:32:04.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mining 5]
 [22Apr2025 04:32:28.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [A Bone to Pick]
+[22Apr2025 04:41:36.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Take Aim, Chaps!]
+[22Apr2025 04:46:51.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron burned to death
+[22Apr2025 04:48:26.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was killed by Cecaelia using magic
+[22Apr2025 04:48:59.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU was slain by Zombie
+[22Apr2025 04:49:48.571] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/73751, l='ServerLevel[world]', x=20.50, y=49.00, z=1179.50]
+[22Apr2025 04:50:16.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Foraging 3]
+[22Apr2025 04:52:41.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Foraging 4]
+[22Apr2025 04:55:19.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [We Just Want our Hat Back]
+[22Apr2025 04:55:34.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Smitty WerbenJagerManJensen]
+[22Apr2025 04:56:57.732] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2265ms or 45 ticks behind
+[22Apr2025 04:56:57.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved too quickly! -1.1156812661988056,0.0,-10.192126867665138
+[22Apr2025 04:57:14.458] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=706, y=54, z=2743} BlockPos{x=706, y=55, z=2743}
+[22Apr2025 04:58:24.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Old School Defense]
+[22Apr2025 04:59:57.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Old School Defense]
+[22Apr2025 05:02:37.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [En Garde!]

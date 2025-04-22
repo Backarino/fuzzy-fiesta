@@ -10,9 +10,11 @@
       "minecraft:birch_forest": "2025-04-20 22:57:31 +0000",
       "minecraft:bamboo_jungle": "2025-04-20 21:26:20 +0000",
       "minecraft:beach": "2025-04-20 17:42:36 +0000",
+      "minecraft:dark_forest": "2025-04-22 04:39:19 +0000",
       "minecraft:sparse_jungle": "2025-04-20 21:03:26 +0000",
       "minecraft:lukewarm_ocean": "2025-04-20 20:39:04 +0000",
       "minecraft:river": "2025-04-20 20:38:56 +0000",
+      "minecraft:grove": "2025-04-22 04:39:25 +0000",
       "minecraft:forest": "2025-04-20 21:02:20 +0000",
       "minecraft:jungle": "2025-04-20 21:27:34 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-20 22:55:13 +0000",
@@ -108,6 +110,7 @@
       "apple": "2025-04-22 03:38:58 +0000",
       "bread": "2025-04-20 20:38:53 +0000",
       "golden_apple": "2025-04-20 23:00:30 +0000",
+      "salmon": "2025-04-22 04:36:06 +0000",
       "melon_slice": "2025-04-20 21:08:55 +0000",
       "cooked_chicken": "2025-04-20 21:58:22 +0000",
       "carrot": "2025-04-20 23:03:16 +0000"
@@ -3031,6 +3034,8 @@
       "shrubland": "2025-04-20 23:08:13 +0000",
       "rocky_shrubland": "2025-04-20 22:57:38 +0000",
       "scrubland": "2025-04-22 04:19:24 +0000",
+      "fungal_jungle": "2025-04-22 04:38:40 +0000",
+      "highland": "2025-04-22 04:39:18 +0000",
       "jade_cliffs": "2025-04-20 22:54:49 +0000",
       "mystic_grove": "2025-04-20 22:55:08 +0000",
       "moor": "2025-04-20 22:54:44 +0000",
@@ -4294,9 +4299,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-22 04:41:30 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-04-22 03:26:53 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/food/cooked_bass": {
+    "criteria": {
+      "has_bass": "2025-04-22 04:37:03 +0000"
     },
     "done": true
   },
@@ -4324,6 +4341,12 @@
     },
     "done": true
   },
+  "betterskills:foraging_6": {
+    "criteria": {
+      "foraging_6_0": "2025-04-22 04:32:27 +0000"
+    },
+    "done": true
+  },
   "betterskills:foraging_4": {
     "criteria": {
       "foraging_4_0": "2025-04-22 04:13:47 +0000"
@@ -4339,6 +4362,12 @@
   "betterskills:foraging_3": {
     "criteria": {
       "foraging_3_0": "2025-04-22 04:12:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-22 04:35:53 +0000"
     },
     "done": true
   },
@@ -4384,9 +4413,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-22 04:35:53 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/snow": {
+    "criteria": {
+      "has_snowball": "2025-04-22 04:41:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
     "criteria": {
       "has_porkchop": "2025-04-22 03:48:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-22 04:40:09 +0000"
     },
     "done": true
   },
@@ -4408,9 +4455,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-22 04:41:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_planks": {
+    "criteria": {
+      "has_logs": "2025-04-22 04:40:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-22 04:35:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-04-22 03:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-22 04:41:37 +0000"
     },
     "done": true
   },
@@ -4435,6 +4506,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-22 03:26:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2025-04-22 04:41:30 +0000"
     },
     "done": true
   },

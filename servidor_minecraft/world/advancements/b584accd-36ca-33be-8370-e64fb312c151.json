@@ -58,9 +58,11 @@
       "minecraft:birch_forest": "2025-04-20 22:57:31 +0000",
       "minecraft:bamboo_jungle": "2025-04-20 21:13:47 +0000",
       "minecraft:beach": "2025-04-20 20:37:00 +0000",
+      "minecraft:dark_forest": "2025-04-22 04:38:37 +0000",
       "minecraft:sparse_jungle": "2025-04-20 21:03:31 +0000",
       "minecraft:lukewarm_ocean": "2025-04-20 20:38:58 +0000",
       "minecraft:river": "2025-04-20 20:38:51 +0000",
+      "minecraft:grove": "2025-04-22 04:38:43 +0000",
       "minecraft:forest": "2025-04-20 21:02:21 +0000",
       "minecraft:jungle": "2025-04-20 21:14:29 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-20 22:55:13 +0000",
@@ -2171,6 +2173,8 @@
       "shrubland": "2025-04-20 23:15:23 +0000",
       "rocky_shrubland": "2025-04-20 22:57:47 +0000",
       "scrubland": "2025-04-20 22:06:41 +0000",
+      "fungal_jungle": "2025-04-22 04:56:23 +0000",
+      "highland": "2025-04-22 04:38:33 +0000",
       "jade_cliffs": "2025-04-20 22:54:46 +0000",
       "mystic_grove": "2025-04-20 22:55:04 +0000",
       "old_growth_woodland": "2025-04-20 21:33:03 +0000",
@@ -3589,6 +3593,12 @@
     },
     "done": true
   },
+  "betterskills:foraging_6": {
+    "criteria": {
+      "foraging_6_0": "2025-04-22 04:43:59 +0000"
+    },
+    "done": true
+  },
   "betterskills:foraging_4": {
     "criteria": {
       "foraging_4_0": "2025-04-22 04:00:13 +0000"
@@ -3805,6 +3815,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-04-22 04:44:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/brown_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-22 03:31:42 +0000"
@@ -3901,6 +3917,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-04-22 04:44:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-04-22 04:15:53 +0000"
@@ -3940,6 +3962,12 @@
   "spartanweaponry:recipes/golden_boomerang": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 04:23:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-22 04:39:02 +0000"
     },
     "done": true
   },
@@ -3988,6 +4016,12 @@
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-22 03:29:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-22 04:39:02 +0000"
     },
     "done": true
   },

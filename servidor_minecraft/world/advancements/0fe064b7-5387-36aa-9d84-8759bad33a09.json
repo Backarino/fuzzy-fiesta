@@ -1033,6 +1033,7 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-04-20 22:28:30 +0000",
+      "cooked_mutton": "2025-04-22 04:50:02 +0000",
       "cooked_beef": "2025-04-20 22:28:22 +0000",
       "baked_potato": "2025-04-22 04:30:24 +0000",
       "apple": "2025-04-20 21:10:21 +0000",
@@ -1041,6 +1042,7 @@
       "cookie": "2025-04-20 22:30:47 +0000",
       "glow_berries": "2025-04-20 21:11:12 +0000",
       "melon_slice": "2025-04-22 03:02:52 +0000",
+      "golden_carrot": "2025-04-22 04:43:14 +0000",
       "carrot": "2025-04-20 23:27:06 +0000"
     },
     "done": false
@@ -1987,6 +1989,7 @@
       "minecraft:spider": "2025-04-22 02:56:57 +0000",
       "minecraft:creeper": "2025-04-20 22:15:24 +0000",
       "minecraft:husk": "2025-04-20 23:38:19 +0000",
+      "minecraft:cave_spider": "2025-04-22 04:37:33 +0000",
       "minecraft:enderman": "2025-04-22 03:32:08 +0000",
       "minecraft:silverfish": "2025-04-22 03:36:16 +0000",
       "minecraft:zombie": "2025-04-20 22:58:41 +0000",
@@ -2082,6 +2085,7 @@
       "volcano": "2025-04-20 23:30:02 +0000",
       "rocky_rainforest": "2025-04-20 22:49:04 +0000",
       "volcanic_plains": "2025-04-20 23:29:50 +0000",
+      "glowing_grotto": "2025-04-22 04:34:21 +0000",
       "rainforest": "2025-04-20 21:53:08 +0000"
     },
     "done": false
@@ -3479,6 +3483,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_battle_hammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-22 04:13:04 +0000"
@@ -3542,6 +3552,12 @@
   "minecraft:recipes/building_blocks/green_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-22 04:26:48 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_boomerang": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
     },
     "done": true
   },
@@ -3635,6 +3651,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_glaive": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-22 04:13:04 +0000"
@@ -3647,9 +3669,21 @@
     },
     "done": true
   },
+  "spartanshields:recipes/copper_tower_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/toad": {
     "criteria": {
       "kill": "2025-04-22 03:34:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
     },
     "done": true
   },
@@ -3797,6 +3831,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-22 04:13:04 +0000"
@@ -3869,6 +3909,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-22 04:14:25 +0000"
@@ -3914,6 +3960,12 @@
   "iceandfire:recipes/combat/mountain_troll_leather_chestplate": {
     "criteria": {
       "has_item": "2025-04-22 03:41:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:parrying_dagger": {
+    "criteria": {
+      "has_parrying_dagger": "2025-04-22 04:59:57 +0000"
     },
     "done": true
   },
@@ -3995,6 +4047,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/mountain_troll_leather_boots": {
     "criteria": {
       "has_item": "2025-04-22 03:41:03 +0000"
@@ -4043,6 +4101,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_heavy_crossbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
@@ -4067,6 +4131,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_flanged_mace": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_greatsword": {
     "criteria": {
       "has_silver_ingot": "2025-04-22 04:05:55 +0000"
@@ -4076,6 +4146,12 @@
   "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-22 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_scythe": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
     },
     "done": true
   },
@@ -4100,6 +4176,18 @@
   "betterskills:mining_4": {
     "criteria": {
       "mining_4_0": "2025-04-22 04:20:16 +0000"
+    },
+    "done": true
+  },
+  "betterskills:mining_5": {
+    "criteria": {
+      "mining_5_0": "2025-04-22 04:32:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-04-22 04:59:04 +0000"
     },
     "done": true
   },
@@ -4268,6 +4356,12 @@
   "spartanshields:recipes/lapis_lazuli_basic_shield": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-22 03:46:21 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/copper_basic_shield": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
     },
     "done": true
   },
@@ -4493,6 +4587,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_warhammer": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
       "has_string": "2025-04-22 03:22:30 +0000"
@@ -4553,6 +4653,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_battleaxe": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-22 04:26:48 +0000"
@@ -4562,6 +4668,18 @@
   "valhelsia_furniture:recipes/decorations/blue_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_quarterstaff": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_greatsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
     },
     "done": true
   },
@@ -4613,6 +4731,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_lance": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/birch_table": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
@@ -4622,6 +4746,12 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-22 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_javelin": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
     },
     "done": true
   },
@@ -4733,6 +4863,18 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_tomahawk": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/arachne": {
+    "criteria": {
+      "kill": "2025-04-22 04:37:22 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_ingot_from_blasting_raw_silver": {
     "criteria": {
       "has_raw_silver": "2025-04-22 03:41:14 +0000"
@@ -4742,6 +4884,12 @@
   "minecraft:recipes/redstone/dark_oak_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-22 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_pike": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
     },
     "done": true
   },
@@ -4772,6 +4920,12 @@
   "valhelsia_furniture:recipes/decorations/blue_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-22 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_spear": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
     },
     "done": true
   },
@@ -4808,6 +4962,24 @@
   "valhelsia_furniture:recipes/decorations/green_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_parrying_dagger": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_halberd": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_katana": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
     },
     "done": true
   },
@@ -4913,6 +5085,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_longbow": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/yellow_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-22 04:26:48 +0000"
@@ -4922,6 +5100,12 @@
   "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
     "criteria": {
       "has_item": "2025-04-22 04:29:32 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_longsword": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
     },
     "done": true
   },
@@ -4967,6 +5151,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_saber": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
@@ -4976,6 +5166,12 @@
   "minecraft:recipes/building_blocks/deepslate_bricks_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-22 04:18:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/copper_rapier": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
     },
     "done": true
   },
@@ -5009,6 +5205,12 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/copper_throwing_knife": {
+    "criteria": {
+      "has_copper_ingot": "2025-04-22 04:58:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tiles_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-22 04:18:14 +0000"
@@ -5030,6 +5232,12 @@
   "valhelsia_furniture:recipes/decorations/pink_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-22 04:13:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-04-22 04:58:23 +0000"
     },
     "done": true
   },

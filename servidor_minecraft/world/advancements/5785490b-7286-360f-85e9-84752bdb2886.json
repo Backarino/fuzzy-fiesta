@@ -425,6 +425,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_mutton": "2025-04-22 04:48:02 +0000",
       "cooked_beef": "2025-04-22 04:01:47 +0000",
       "bread": "2025-04-20 20:45:46 +0000",
       "golden_apple": "2025-04-20 22:53:42 +0000",
@@ -4123,6 +4124,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_slab": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:56:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-04-22 03:41:18 +0000"
@@ -4134,6 +4141,18 @@
       "has_gold_ingot": "2025-04-22 03:52:55 +0000"
     },
     "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-04-22 04:50:00 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_shipwreck": "2025-04-22 04:55:39 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/tools/diamond_hoe": {
     "criteria": {
@@ -4177,6 +4196,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-04-22 04:50:00 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_pike": {
     "criteria": {
       "has_diamond": "2025-04-22 03:22:21 +0000"
@@ -4186,6 +4211,12 @@
   "travelersbackpack:recipes/misc/diamond_tier_upgrade": {
     "criteria": {
       "has_diamond": "2025-04-22 03:22:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_fence": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:56:40 +0000"
     },
     "done": true
   },
@@ -4225,6 +4256,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:56:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-22 03:12:29 +0000"
@@ -4261,6 +4298,12 @@
     },
     "done": true
   },
+  "spartanweaponry:parrying_dagger": {
+    "criteria": {
+      "has_parrying_dagger": "2025-04-22 04:58:24 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_glaive": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 03:52:55 +0000"
@@ -4291,6 +4334,18 @@
     },
     "done": true
   },
+  "betterskills:foraging_4": {
+    "criteria": {
+      "foraging_4_0": "2025-04-22 04:52:41 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_3": {
+    "criteria": {
+      "foraging_3_0": "2025-04-22 04:50:16 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
     "criteria": {
       "has_item": "2025-04-22 03:55:43 +0000"
@@ -4300,6 +4355,12 @@
   "iceandfire:recipes/misc/myrmex_resin_jungle": {
     "criteria": {
       "has_item": "2025-04-22 04:31:56 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_button": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:56:40 +0000"
     },
     "done": true
   },
@@ -4369,6 +4430,12 @@
     },
     "done": true
   },
+  "spartanweaponry:root": {
+    "criteria": {
+      "has_handle": "2025-04-22 04:40:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gold_block": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 03:52:55 +0000"
@@ -4420,6 +4487,12 @@
   "spartanweaponry:recipes/diamond_battle_hammer": {
     "criteria": {
       "has_diamond": "2025-04-22 03:22:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_door": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:56:40 +0000"
     },
     "done": true
   },
@@ -4561,6 +4634,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/skelewag_skull": {
+    "criteria": {
+      "skull": "2025-04-22 04:55:34 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/building_blocks/runic_glass": {
     "criteria": {
       "has_rune": "2025-04-22 03:28:55 +0000"
@@ -4570,6 +4649,12 @@
   "forbidden_arcanus:recipes/tools/diamond_blacksmith_gavel": {
     "criteria": {
       "has_gems/diamond": "2025-04-22 03:22:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/mahogany_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:56:40 +0000"
     },
     "done": true
   },
@@ -4648,6 +4733,12 @@
   "forbidden_arcanus:recipes/misc/dark_rune": {
     "criteria": {
       "has_rune": "2025-04-22 03:28:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/mahogany_sign": {
+    "criteria": {
+      "has_mahogany_planks": "2025-04-22 04:56:40 +0000"
     },
     "done": true
   },
@@ -4741,6 +4832,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-04-22 04:32:28 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/deorum_ingot": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 03:52:55 +0000"
@@ -4783,6 +4880,12 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-04-22 04:41:36 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/golden_katana": {
     "criteria": {
       "has_gold_ingot": "2025-04-22 03:52:55 +0000"
@@ -4801,15 +4904,33 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/mahogany_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:56:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-04-22 03:20:31 +0000"
     },
     "done": true
   },
+  "grimoireofgaia:recipes/decorations/pearl_block": {
+    "criteria": {
+      "has_shiny_pearl": "2025-04-22 05:01:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_wool_from_string": {
     "criteria": {
       "has_string": "2025-04-22 03:41:18 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-22 04:56:40 +0000"
     },
     "done": true
   },
@@ -4828,6 +4949,12 @@
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
       "has_amethyst_shard": "2025-04-22 04:14:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed_by": "2025-04-22 04:55:19 +0000"
     },
     "done": true
   },
