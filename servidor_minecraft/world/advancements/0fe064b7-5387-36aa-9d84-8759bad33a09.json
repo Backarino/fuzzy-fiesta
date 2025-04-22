@@ -3572,6 +3572,18 @@
     },
     "done": true
   },
+  "betterskills:foraging_2": {
+    "criteria": {
+      "foraging_2_0": "2025-04-22 03:14:42 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_3": {
+    "criteria": {
+      "foraging_3_0": "2025-04-22 03:15:27 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-04-22 03:01:52 +0000"
@@ -3740,9 +3752,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-04-22 03:14:41 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/green_birch_chair": {
     "criteria": {
       "has_birch_planks": "2025-04-22 02:59:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-22 03:14:41 +0000"
     },
     "done": true
   },

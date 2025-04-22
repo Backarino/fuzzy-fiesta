@@ -3305,5 +3305,11 @@
     },
     "done": true
   },
+  "spartanweaponry:rapier": {
+    "criteria": {
+      "has_rapier": "2025-04-22 03:15:47 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
