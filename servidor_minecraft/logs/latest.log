@@ -1813,3 +1813,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [23Apr2025 04:06:46.166] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/41833, l='ServerLevel[world]', x=15.50, y=47.00, z=1184.50]
 [23Apr2025 04:10:35.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Cyclops
 [23Apr2025 04:12:50.471] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1368, y=50, z=2304}
+[23Apr2025 04:14:01.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was shot by Skeleton
+[23Apr2025 04:14:35.559] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Farming]
+[23Apr2025 04:20:06.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Tie me to the Mast]
+[23Apr2025 04:20:08.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was killed by Cecaelia using magic
+[23Apr2025 04:22:28.064] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/53284, l='ServerLevel[world]', x=17.50, y=50.00, z=1179.50]
+[23Apr2025 04:25:18.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was turned into KFC by Fire Dragon
+[23Apr2025 04:25:18.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved wrongly!
+[23Apr2025 04:27:56.633] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[23Apr2025 04:28:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was burnt to a crisp whilst fighting Fire Dragon
+[23Apr2025 04:30:57.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mine? Mine? Mine?]

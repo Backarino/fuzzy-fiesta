@@ -5067,6 +5067,12 @@
     },
     "done": true
   },
+  "betterskills:farming_1": {
+    "criteria": {
+      "farming_1_0": "2025-04-23 04:14:35 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/skeleton": {
     "criteria": {
       "has_arrow": "2025-04-23 03:19:03 +0000"

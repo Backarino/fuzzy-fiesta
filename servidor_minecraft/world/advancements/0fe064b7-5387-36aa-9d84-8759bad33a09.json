@@ -70,6 +70,7 @@
       "minecraft:lush_caves": "2025-04-22 03:44:59 +0000",
       "minecraft:desert": "2025-04-20 23:31:00 +0000",
       "minecraft:jungle": "2025-04-20 21:29:56 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-23 04:25:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-23 04:04:50 +0000",
       "minecraft:deep_dark": "2025-04-23 03:49:13 +0000",
       "minecraft:meadow": "2025-04-22 03:38:11 +0000",
@@ -1039,6 +1040,7 @@
       "cooked_beef": "2025-04-20 22:28:22 +0000",
       "baked_potato": "2025-04-22 04:30:24 +0000",
       "apple": "2025-04-20 21:10:21 +0000",
+      "mutton": "2025-04-23 04:16:48 +0000",
       "bread": "2025-04-20 20:57:25 +0000",
       "golden_apple": "2025-04-22 03:26:13 +0000",
       "cookie": "2025-04-20 22:30:47 +0000",
@@ -5299,15 +5301,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-23 04:16:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-23 04:06:39 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2025-04-23 04:18:37 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-04-23 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
     },
     "done": true
   },
@@ -5329,9 +5349,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/pink_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-23 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
     },
     "done": true
   },
@@ -5341,11 +5379,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/yellow_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/netherite_arrow": {
     "criteria": {
       "has_bow": "2025-04-23 03:51:12 +0000"
     },
     "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_ruin_warm": "2025-04-23 04:14:57 +0000",
+      "locate_underwater_warm_small_ruins": "2025-04-23 04:17:02 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
@@ -5356,6 +5407,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-23 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-04-23 04:30:12 +0000"
     },
     "done": true
   },
@@ -5383,6 +5440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/orange_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-23 04:06:39 +0000"
@@ -5407,6 +5470,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
+    },
+    "done": true
+  },
   "betterskills:mining_6": {
     "criteria": {
       "mining_6_0": "2025-04-23 03:37:39 +0000"
@@ -5416,6 +5485,12 @@
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-04-23 02:45:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
     },
     "done": true
   },
@@ -5437,6 +5512,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/brown_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-04-23 04:30:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2025-04-23 03:09:19 +0000"
@@ -5455,6 +5554,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-04-23 04:30:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-23 04:06:39 +0000"
@@ -5467,6 +5572,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-04-23 04:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_siren": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-23 04:20:06 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-23 04:06:39 +0000"
@@ -5476,6 +5599,36 @@
   "betterskills:combat_3": {
     "criteria": {
       "combat_3_0": "2025-04-23 03:49:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/prismarine_bricks": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-23 04:16:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-23 04:30:57 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/sponge": {
+    "criteria": {
+      "has_sponge": "2025-04-23 04:21:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine": {
+    "criteria": {
+      "has_prismarine_shard": "2025-04-23 04:16:14 +0000"
     },
     "done": true
   },
@@ -5515,6 +5668,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-04-23 04:17:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/glass_bottle": {
     "criteria": {
       "has_glass": "2025-04-23 04:06:39 +0000"
@@ -5533,11 +5692,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-23 04:20:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-23 03:51:03 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-23 04:17:13 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
@@ -5563,9 +5740,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-04-23 04:17:13 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/decorations/utrem_jar": {
     "criteria": {
       "has_glass/colorless": "2025-04-23 04:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
     },
     "done": true
   },
@@ -5578,6 +5767,12 @@
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-04-23 02:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_terracotta": {
+    "criteria": {
+      "has_terracotta": "2025-04-23 04:18:19 +0000"
     },
     "done": true
   },
