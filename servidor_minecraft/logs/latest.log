@@ -1800,3 +1800,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [23Apr2025 03:21:27.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Combat 2]
 [23Apr2025 03:23:17.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Cecaelia
 [23Apr2025 03:24:04.467] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/20942, l='ServerLevel[world]', x=14.50, y=48.00, z=1185.50]
+[23Apr2025 03:37:39.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mining 6]

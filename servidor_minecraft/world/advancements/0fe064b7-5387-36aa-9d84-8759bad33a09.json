@@ -5285,6 +5285,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-23 03:33:12 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/creeper": {
     "criteria": {
       "has_gunpowder": "2025-04-23 02:59:45 +0000"
@@ -5303,6 +5309,12 @@
     },
     "done": true
   },
+  "betterskills:mining_6": {
+    "criteria": {
+      "mining_6_0": "2025-04-23 03:37:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-04-23 02:45:45 +0000"
@@ -5312,6 +5324,12 @@
   "iceandfire:recipes/misc/chain": {
     "criteria": {
       "has_item": "2025-04-23 03:09:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/silver_pickaxe": {
+    "criteria": {
+      "has_the_recipe": "2025-04-23 03:28:18 +0000"
     },
     "done": true
   },
