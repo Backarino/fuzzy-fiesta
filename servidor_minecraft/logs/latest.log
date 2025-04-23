@@ -1823,3 +1823,52 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [23Apr2025 04:27:56.633] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
 [23Apr2025 04:28:13.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was burnt to a crisp whilst fighting Fire Dragon
 [23Apr2025 04:30:57.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mine? Mine? Mine?]
+[23Apr2025 04:33:58.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was slain by Fire Dragon
+[23Apr2025 04:34:18.998] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Vouzhul the Darkmaster'/61931, l='ServerLevel[world]', x=2014.50, y=15.88, z=2627.70] died: Vouzhul the Darkmaster tried to swim in lava
+[23Apr2025 04:36:53.730] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1919, y=48, z=2903}
+[23Apr2025 04:37:48.265] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=2109, y=28, z=2942} but found not block entity block Block{minecraft:water}[level=8] at location
+[23Apr2025 04:37:48.266] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=8] but failed at location BlockPos{x=2109, y=28, z=2942}
+[23Apr2025 04:37:57.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Take Aim]
+[23Apr2025 04:38:45.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was slain by Fire Dragon
+[23Apr2025 04:40:23.254] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:60983] logged in with entity id 69189 at (72.5972720004462, 103.0, 1171.4861565649292)
+[23Apr2025 04:40:23.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[23Apr2025 04:40:41.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron burned to death
+[23Apr2025 04:41:50.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by SILVERTAKU
+[23Apr2025 04:41:55.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was incinerated by Fire Dragon
+[23Apr2025 04:42:15.717] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[23Apr2025 04:42:51.088] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[23Apr2025 04:43:34.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron burned to death
+[23Apr2025 04:45:08.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was burnt to a crisp whilst fighting Fire Dragon
+[23Apr2025 04:45:36.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU hit the ground too hard whilst trying to escape SAURIO12
+[23Apr2025 04:46:44.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was frozen to death by Siren
+[23Apr2025 04:46:53.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 fell from a high place
+[23Apr2025 04:47:57.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was doomed to fall by Fire Dragon
+[23Apr2025 04:48:17.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Yomach the Toxic
+[23Apr2025 04:49:03.091] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Yomach the Toxic'/80816, l='ServerLevel[world]', x=896.92, y=95.00, z=3383.98] died: Yomach the Toxic was slain by DonTony09
+[23Apr2025 04:50:13.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was turned into KFC by Fire Dragon
+[23Apr2025 04:50:54.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [A Seedy Place]
+[23Apr2025 04:51:47.396] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1006, y=65, z=3240} BlockPos{x=1006, y=63, z=3240}
+[23Apr2025 04:51:47.444] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=1006, y=65, z=3239} BlockPos{x=1006, y=63, z=3240}
+[23Apr2025 04:52:53.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was turned into KFC by Fire Dragon
+[23Apr2025 04:53:11.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was shot by Skeleton
+[23Apr2025 04:53:11.652] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved wrongly!
+[23Apr2025 04:55:19.554] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Dragonslayer]
+[23Apr2025 04:56:07.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU was slain by Brog the Bulwark
+[23Apr2025 04:56:43.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Goblin Savage
+[23Apr2025 04:57:00.418] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/91755, l='ServerLevel[world]', x=17.50, y=52.00, z=1179.50]
+[23Apr2025 04:58:57.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Orc with Shield
+[23Apr2025 04:59:45.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was slain by Shaman
+[23Apr2025 05:00:10.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Farming]
+[23Apr2025 05:00:16.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Farming]
+[23Apr2025 05:01:10.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Fishy Business]
+[23Apr2025 05:02:16.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Fishing]
+[23Apr2025 05:03:31.828] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Minotaurus
+[23Apr2025 05:04:27.753] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Fishing 2]
+[23Apr2025 05:06:18.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: %1$s was slain by %2$s
+[23Apr2025 05:07:10.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Cover Me with Diamonds]
+[23Apr2025 05:07:50.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Fishing 3]
+[23Apr2025 05:08:45.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Combat 2]
+[23Apr2025 05:09:07.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Combat 3]
+[23Apr2025 05:11:25.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Mining 5]
+[23Apr2025 05:12:35.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved wrongly!
+[23Apr2025 05:12:46.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved wrongly!

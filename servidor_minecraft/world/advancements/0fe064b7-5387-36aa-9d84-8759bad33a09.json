@@ -65,6 +65,7 @@
       "minecraft:sparse_jungle": "2025-04-20 21:03:21 +0000",
       "minecraft:lukewarm_ocean": "2025-04-20 21:36:50 +0000",
       "minecraft:river": "2025-04-20 21:01:53 +0000",
+      "minecraft:stony_shore": "2025-04-23 04:34:02 +0000",
       "minecraft:dripstone_caves": "2025-04-20 22:32:32 +0000",
       "minecraft:forest": "2025-04-20 21:02:00 +0000",
       "minecraft:lush_caves": "2025-04-22 03:44:59 +0000",
@@ -2083,6 +2084,7 @@
       "fungal_jungle": "2025-04-20 22:50:31 +0000",
       "lush_savanna": "2025-04-20 23:30:27 +0000",
       "clover_patch": "2025-04-22 04:00:13 +0000",
+      "mystic_grove": "2025-04-23 04:52:01 +0000",
       "old_growth_woodland": "2025-04-20 21:51:55 +0000",
       "mediterranean_forest": "2025-04-20 21:35:51 +0000",
       "wasteland": "2025-04-20 23:05:18 +0000",
@@ -2091,6 +2093,7 @@
       "volcano": "2025-04-20 23:30:02 +0000",
       "rocky_rainforest": "2025-04-20 22:49:04 +0000",
       "volcanic_plains": "2025-04-20 23:29:50 +0000",
+      "grassland": "2025-04-23 04:42:44 +0000",
       "glowing_grotto": "2025-04-22 04:34:21 +0000",
       "rainforest": "2025-04-20 21:53:08 +0000"
     },
@@ -5289,6 +5292,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-23 05:08:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2025-04-23 03:33:12 +0000"
@@ -5298,6 +5307,18 @@
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-23 04:06:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-04-23 05:01:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2025-04-23 05:01:11 +0000"
     },
     "done": true
   },
@@ -5385,6 +5406,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-04-23 04:35:21 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_wood": {
+    "criteria": {
+      "has_log": "2025-04-23 04:38:34 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/netherite_arrow": {
     "criteria": {
       "has_bow": "2025-04-23 03:51:12 +0000"
@@ -5398,9 +5431,21 @@
     },
     "done": false
   },
+  "betterskills:farming_1": {
+    "criteria": {
+      "farming_1_0": "2025-04-23 05:00:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-23 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/mahogany_planks": {
+    "criteria": {
+      "has_logs": "2025-04-23 04:38:34 +0000"
     },
     "done": true
   },
@@ -5443,6 +5488,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-23 04:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2025-04-23 05:04:28 +0000"
     },
     "done": true
   },
@@ -5584,6 +5635,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2025-04-23 05:04:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_siren": {
     "criteria": {
       "killed_fire_dragon": "2025-04-23 04:20:06 +0000"
@@ -5593,6 +5650,24 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-23 04:06:39 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_2": {
+    "criteria": {
+      "fishing_2_0": "2025-04-23 05:04:27 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_1": {
+    "criteria": {
+      "fishing_1_0": "2025-04-23 05:02:16 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_3": {
+    "criteria": {
+      "fishing_3_0": "2025-04-23 05:07:50 +0000"
     },
     "done": true
   },
@@ -5644,6 +5719,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-23 05:08:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/glass_pane": {
     "criteria": {
       "has_glass": "2025-04-23 04:06:39 +0000"
@@ -5662,15 +5743,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-23 05:08:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-23 04:06:39 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ocelot": {
+    "criteria": {
+      "has_cod": "2025-04-23 05:01:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/decorated_pot_simple": {
     "criteria": {
       "has_brick": "2025-04-23 04:17:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2025-04-23 05:04:28 +0000"
     },
     "done": true
   },
@@ -5740,6 +5839,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2025-04-23 05:01:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/flower_pot": {
     "criteria": {
       "has_brick": "2025-04-23 04:17:13 +0000"
@@ -5755,6 +5860,12 @@
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-23 04:18:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2025-04-23 05:01:11 +0000"
     },
     "done": true
   },
