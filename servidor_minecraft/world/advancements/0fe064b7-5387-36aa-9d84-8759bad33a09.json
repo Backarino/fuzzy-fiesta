@@ -70,6 +70,7 @@
       "minecraft:lush_caves": "2025-04-22 03:44:59 +0000",
       "minecraft:desert": "2025-04-20 23:31:00 +0000",
       "minecraft:jungle": "2025-04-20 21:29:56 +0000",
+      "minecraft:deep_dark": "2025-04-23 03:49:13 +0000",
       "minecraft:meadow": "2025-04-22 03:38:11 +0000",
       "minecraft:savanna": "2025-04-20 20:57:15 +0000",
       "minecraft:plains": "2025-04-20 20:54:23 +0000"
@@ -5297,6 +5298,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-23 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-23 03:51:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-23 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-23 03:51:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-04-23 03:09:19 +0000"
@@ -5306,6 +5331,18 @@
   "minecraft:recipes/combat/chainmail_leggings": {
     "criteria": {
       "has_item": "2025-04-23 03:09:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-23 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-23 03:51:12 +0000"
     },
     "done": true
   },
@@ -5351,6 +5388,12 @@
     },
     "done": true
   },
+  "betterskills:combat_3": {
+    "criteria": {
+      "combat_3_0": "2025-04-23 03:49:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-04-23 03:09:19 +0000"
@@ -5375,9 +5418,33 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_mob_near_sculk_catalyst": {
+    "criteria": {
+      "kill_mob_near_sculk_catalyst": "2025-04-23 03:50:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-23 03:51:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-23 03:50:20 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2025-04-23 03:11:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-23 03:51:03 +0000"
     },
     "done": true
   },
