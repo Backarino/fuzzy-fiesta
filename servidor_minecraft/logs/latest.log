@@ -1872,3 +1872,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [23Apr2025 05:11:25.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Mining 5]
 [23Apr2025 05:12:35.591] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved wrongly!
 [23Apr2025 05:12:46.936] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved wrongly!
+[23Apr2025 05:15:17.955] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Let's Get To Work]
+[23Apr2025 05:17:13.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Getting an Upgrade]
+[23Apr2025 05:17:37.211] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/96659, l='ServerLevel[world]', x=486.51, y=67.00, z=275.70] died: Brog the Bulwark was slain by SILVERTAKU
+[23Apr2025 05:19:31.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Cecaelia
+[23Apr2025 05:20:31.939] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Disconnected
+[23Apr2025 05:20:31.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
