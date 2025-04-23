@@ -1793,3 +1793,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [23Apr2025 03:10:44.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU left the game
 [23Apr2025 03:11:08.446] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SILVERTAKU[/172.29.104.71:51560] logged in with entity id 12740 at (81.7378321754393, 103.0, 1169.068796460443)
 [23Apr2025 03:11:08.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
+[23Apr2025 03:14:46.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Spriggan
+[23Apr2025 03:15:02.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Spriggan
+[23Apr2025 03:19:48.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was slain by Minotaurus
+[23Apr2025 03:21:07.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU was slain by Shaman
+[23Apr2025 03:21:27.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Combat 2]
