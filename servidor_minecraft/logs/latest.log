@@ -1810,3 +1810,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [23Apr2025 03:54:26.463] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/35781, l='ServerLevel[world]', x=14.50, y=51.00, z=1184.50]
 [23Apr2025 03:58:39.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Take Aim]
 [23Apr2025 04:02:23.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Farming]
+[23Apr2025 04:06:46.166] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/41833, l='ServerLevel[world]', x=15.50, y=47.00, z=1184.50]
+[23Apr2025 04:10:35.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Cyclops
+[23Apr2025 04:12:50.471] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=1368, y=50, z=2304}
