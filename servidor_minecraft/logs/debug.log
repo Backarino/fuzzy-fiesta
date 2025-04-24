@@ -15441,3 +15441,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [24Apr2025 05:31:09.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [24Apr2025 05:31:51.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SAURIO12> ZZZZZZZZ
 [24Apr2025 05:32:11.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SILVERTAKU> zzzzz
+[24Apr2025 05:33:40.815] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 05:33:40.826] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 05:37:33.774] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 lost connection: Disconnected
+[24Apr2025 05:37:33.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 left the game
+[24Apr2025 05:38:40.810] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 05:38:40.820] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 05:40:04.470] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Disconnected
+[24Apr2025 05:40:04.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
