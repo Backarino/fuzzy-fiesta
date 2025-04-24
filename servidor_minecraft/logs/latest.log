@@ -1783,3 +1783,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [24Apr2025 02:02:58.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
 [24Apr2025 02:07:05.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:50562] logged in with entity id 6313 at (-417.77533080240784, 121.0, 1214.5737187246327)
 [24Apr2025 02:07:05.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[24Apr2025 02:12:54.014] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Chompy]
+[24Apr2025 02:14:54.233] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[24Apr2025 02:15:16.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Take Aim]
+[24Apr2025 02:17:29.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [My Name is Nobody]
+[24Apr2025 02:17:32.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved wrongly!
