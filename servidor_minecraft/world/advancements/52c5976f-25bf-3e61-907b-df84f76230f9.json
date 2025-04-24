@@ -113,6 +113,7 @@
       "golden_apple": "2025-04-20 23:00:30 +0000",
       "salmon": "2025-04-22 04:36:06 +0000",
       "melon_slice": "2025-04-20 21:08:55 +0000",
+      "golden_carrot": "2025-04-24 03:52:41 +0000",
       "cooked_chicken": "2025-04-20 21:58:22 +0000",
       "cod": "2025-04-23 04:49:04 +0000",
       "carrot": "2025-04-20 23:03:16 +0000"
@@ -5371,15 +5372,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/lapis_block": {
+  "grimoireofgaia:main/creep": {
     "criteria": {
-      "has_lapis_lazuli": "2025-04-24 02:23:46 +0000"
+      "kill": "2025-04-24 01:44:21 +0000"
     },
     "done": true
   },
-  "spartanshields:recipes/obsidian_basic_shield": {
+  "betterskills:combat_3": {
     "criteria": {
-      "has_obsidian": "2025-04-24 01:50:26 +0000"
+      "combat_3_0": "2025-04-24 01:45:21 +0000"
     },
     "done": true
   },
@@ -5389,15 +5390,45 @@
     },
     "done": true
   },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-04-24 01:50:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/form_obsidian": {
     "criteria": {
       "obsidian": "2025-04-24 01:50:26 +0000"
     },
     "done": true
   },
-  "grimoireofgaia:main/creep": {
+  "spartanshields:recipes/obsidian_tower_shield": {
     "criteria": {
-      "kill": "2025-04-24 01:44:21 +0000"
+      "has_obsidian": "2025-04-24 01:50:26 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2025-04-24 01:50:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-24 01:50:26 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/decorations/pearl_block": {
+    "criteria": {
+      "has_shiny_pearl": "2025-04-24 02:09:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-24 02:23:46 +0000"
     },
     "done": true
   },
@@ -5413,39 +5444,75 @@
     },
     "done": true
   },
-  "spartanshields:recipes/obsidian_tower_shield": {
-    "criteria": {
-      "has_obsidian": "2025-04-24 01:50:26 +0000"
-    },
-    "done": true
-  },
-  "betterskills:combat_3": {
-    "criteria": {
-      "combat_3_0": "2025-04-24 01:45:21 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/tools/obsidian_skull": {
-    "criteria": {
-      "has_obsidian": "2025-04-24 01:50:26 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:recipes/decorations/pearl_block": {
-    "criteria": {
-      "has_shiny_pearl": "2025-04-24 02:09:14 +0000"
-    },
-    "done": true
-  },
   "travelersbackpack:recipes/misc/lapis": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-24 02:23:46 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/enchanting_table": {
+  "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
     "criteria": {
-      "has_obsidian": "2025-04-24 01:50:26 +0000"
+      "has_arcane_crystal": "2025-04-24 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "betterskills:farming_2": {
+    "criteria": {
+      "farming_2_0": "2025-04-24 03:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-24 04:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-24 04:00:32 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
+    "criteria": {
+      "has_item": "2025-04-24 04:00:32 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2025-04-24 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-04-24 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2025-04-24 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2025-04-24 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-24 04:07:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-24 04:00:32 +0000"
     },
     "done": true
   },

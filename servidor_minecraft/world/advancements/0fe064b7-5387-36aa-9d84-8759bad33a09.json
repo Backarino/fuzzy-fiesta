@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-04-24 03:40:16 +0000",
       "minecraft:eroded_badlands": "2025-04-20 23:04:44 +0000",
       "minecraft:sunflower_plains": "2025-04-24 02:10:28 +0000",
       "minecraft:birch_forest": "2025-04-22 02:59:11 +0000",
@@ -72,6 +73,7 @@
       "minecraft:lush_caves": "2025-04-22 03:44:59 +0000",
       "minecraft:desert": "2025-04-20 23:31:00 +0000",
       "minecraft:jungle": "2025-04-20 21:29:56 +0000",
+      "minecraft:ocean": "2025-04-24 03:31:26 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-23 04:25:01 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-23 04:04:50 +0000",
       "minecraft:deep_dark": "2025-04-23 03:49:13 +0000",
@@ -1998,6 +2000,7 @@
       "minecraft:skeleton": "2025-04-20 21:19:05 +0000",
       "minecraft:spider": "2025-04-22 02:56:57 +0000",
       "minecraft:creeper": "2025-04-20 22:15:24 +0000",
+      "minecraft:phantom": "2025-04-24 03:53:13 +0000",
       "minecraft:husk": "2025-04-20 23:38:19 +0000",
       "minecraft:cave_spider": "2025-04-22 04:37:33 +0000",
       "minecraft:enderman": "2025-04-22 03:32:08 +0000",
@@ -2088,6 +2091,9 @@
       "scrubland": "2025-04-20 21:51:14 +0000",
       "fungal_jungle": "2025-04-20 22:50:31 +0000",
       "lush_savanna": "2025-04-20 23:30:27 +0000",
+      "highland": "2025-04-24 03:37:04 +0000",
+      "marsh": "2025-04-24 03:37:00 +0000",
+      "jade_cliffs": "2025-04-24 03:50:23 +0000",
       "clover_patch": "2025-04-22 04:00:13 +0000",
       "mystic_grove": "2025-04-23 04:52:01 +0000",
       "old_growth_woodland": "2025-04-20 21:51:55 +0000",
@@ -2098,6 +2104,7 @@
       "wasteland": "2025-04-20 23:05:18 +0000",
       "lush_desert": "2025-04-20 23:30:39 +0000",
       "wasteland_steppe": "2025-04-20 23:10:23 +0000",
+      "dune_beach": "2025-04-24 03:33:44 +0000",
       "volcano": "2025-04-20 23:30:02 +0000",
       "rocky_rainforest": "2025-04-20 22:49:04 +0000",
       "pasture": "2025-04-24 02:10:16 +0000",
@@ -2106,7 +2113,8 @@
       "grassland": "2025-04-23 04:42:44 +0000",
       "prairie": "2025-04-24 02:10:07 +0000",
       "glowing_grotto": "2025-04-22 04:34:21 +0000",
-      "rainforest": "2025-04-20 21:53:08 +0000"
+      "rainforest": "2025-04-20 21:53:08 +0000",
+      "crag": "2025-04-24 03:34:54 +0000"
     },
     "done": false
   },
@@ -5599,6 +5607,7 @@
   },
   "hopo:minecraft/adventure/locate_all_underwater_structures": {
     "criteria": {
+      "locate_shipwreck": "2025-04-24 03:20:14 +0000",
       "locate_ruin_warm": "2025-04-23 04:14:57 +0000",
       "locate_underwater_warm_small_ruins": "2025-04-23 04:17:02 +0000"
     },
@@ -6165,6 +6174,204 @@
   "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
     "criteria": {
       "has_logs": "2025-04-24 02:29:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2025-04-24 02:54:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
+    "criteria": {
+      "has_dragonscales_bronze": "2025-04-24 02:59:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_boots": {
+    "criteria": {
+      "has_item": "2025-04-24 02:59:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_leggings": {
+    "criteria": {
+      "has_item": "2025-04-24 02:59:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-24 02:59:51 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_bronze_helmet": {
+    "criteria": {
+      "has_item": "2025-04-24 02:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-24 03:14:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-24 03:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-24 03:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-24 03:16:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2025-04-24 03:16:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard_smithing": {
+    "criteria": {
+      "has_standard": "2025-04-24 03:35:54 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:standard_from_custom": {
+    "criteria": {
+      "has_backpack": "2025-04-24 03:35:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/lectern": {
+    "criteria": {
+      "bestiary": "2025-04-24 03:36:14 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_sunken_city": {
+    "criteria": {
+      "factory": "2025-04-24 03:40:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/gorgon_head": {
+    "criteria": {
+      "bestiary": "2025-04-24 03:46:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/black_sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-24 04:03:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:03:31 +0000"
     },
     "done": true
   },
