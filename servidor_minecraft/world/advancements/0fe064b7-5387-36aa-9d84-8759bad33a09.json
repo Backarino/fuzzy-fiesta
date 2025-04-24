@@ -2091,6 +2091,7 @@
       "clover_patch": "2025-04-22 04:00:13 +0000",
       "mystic_grove": "2025-04-23 04:52:01 +0000",
       "old_growth_woodland": "2025-04-20 21:51:55 +0000",
+      "orchard": "2025-04-24 02:31:34 +0000",
       "lavender_forest": "2025-04-24 02:19:40 +0000",
       "mediterranean_forest": "2025-04-20 21:35:51 +0000",
       "spider_nest": "2025-04-24 01:43:36 +0000",
@@ -5909,12 +5910,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/leather_helmet": {
-    "criteria": {
-      "has_leather": "2025-04-24 02:17:34 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-04-24 02:11:43 +0000"
@@ -5924,18 +5919,6 @@
   "valhelsia_furniture:recipes/decorations/spruce_desk_drawer": {
     "criteria": {
       "has_spruce_slab": "2025-04-24 02:11:43 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/leather_chestplate": {
-    "criteria": {
-      "has_leather": "2025-04-24 02:17:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/shoot_arrow": {
-    "criteria": {
-      "shot_arrow": "2025-04-24 02:15:16 +0000"
     },
     "done": true
   },
@@ -5963,18 +5946,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/leather_horse_armor": {
-    "criteria": {
-      "has_leather": "2025-04-24 02:17:34 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/horse": {
-    "criteria": {
-      "has_leather": "2025-04-24 02:17:34 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_spruce_stool": {
     "criteria": {
       "has_spruce_slab": "2025-04-24 02:11:43 +0000"
@@ -5987,9 +5958,57 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/item_frame": {
+  "valhelsia_furniture:recipes/decorations/spruce_stool": {
     "criteria": {
-      "has_leather": "2025-04-24 02:17:34 +0000"
+      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_spruce_stool": {
+    "criteria": {
+      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
     },
     "done": true
   },
@@ -5999,15 +6018,45 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/spruce_stool": {
+  "minecraft:adventure/shoot_arrow": {
     "criteria": {
-      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
+      "shot_arrow": "2025-04-24 02:15:16 +0000"
     },
     "done": true
   },
-  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+  "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
-      "has_item": "2025-04-24 02:20:12 +0000"
+      "killed_fire_dragon": "2025-04-24 02:17:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-24 02:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-24 02:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-24 02:17:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/horse": {
+    "criteria": {
+      "has_leather": "2025-04-24 02:17:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-24 02:17:34 +0000"
     },
     "done": true
   },
@@ -6035,45 +6084,9 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_spruce_stool": {
-    "criteria": {
-      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_cyclops": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-24 02:17:29 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/blue_upholstered_spruce_stool": {
-    "criteria": {
-      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/red_upholstered_spruce_stool": {
-    "criteria": {
-      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/black_upholstered_spruce_stool": {
-    "criteria": {
-      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
-    },
-    "done": true
-  },
   "spartanweaponry:recipes/leather_heavy_crossbow": {
     "criteria": {
       "has_leather": "2025-04-24 02:17:34 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/orange_upholstered_spruce_stool": {
-    "criteria": {
-      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
     },
     "done": true
   },
@@ -6083,21 +6096,75 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_stool": {
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
     "criteria": {
-      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
+      "has_item": "2025-04-24 02:20:12 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/cyan_upholstered_spruce_stool": {
+  "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
-      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
+      "has_item": "2025-04-24 02:25:04 +0000"
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/green_upholstered_spruce_stool": {
+  "iceandfire:iceandfire/kill_if_dragon": {
     "criteria": {
-      "has_spruce_slab": "2025-04-24 02:11:43 +0000"
+      "killed_fire_dragon": "2025-04-24 02:26:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_lavender": {
+    "criteria": {
+      "has_flower": "2025-04-24 02:27:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_leggings": {
+    "criteria": {
+      "has_item": "2025-04-24 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_helmet": {
+    "criteria": {
+      "has_item": "2025-04-24 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-24 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_green_to_dragonscale_green": {
+    "criteria": {
+      "has_dragonscales_green": "2025-04-24 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_green_boots": {
+    "criteria": {
+      "has_item": "2025-04-24 02:27:09 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-04-24 02:29:15 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 02:29:45 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/jacaranda_planks": {
+    "criteria": {
+      "has_logs": "2025-04-24 02:29:45 +0000"
     },
     "done": true
   },
