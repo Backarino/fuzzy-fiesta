@@ -6273,9 +6273,21 @@
     },
     "done": true
   },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy_0": "2025-04-24 04:21:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf_smithing": {
+    "criteria": {
+      "has_bookshelf": "2025-04-24 04:12:18 +0000"
     },
     "done": true
   },
@@ -6327,6 +6339,24 @@
     },
     "done": true
   },
+  "betterskills:combat_4": {
+    "criteria": {
+      "combat_4_0": "2025-04-24 04:21:37 +0000"
+    },
+    "done": true
+  },
+  "betterskills:combat_6": {
+    "criteria": {
+      "combat_6_0": "2025-04-24 04:27:42 +0000"
+    },
+    "done": true
+  },
+  "betterskills:combat_5": {
+    "criteria": {
+      "combat_5_0": "2025-04-24 04:25:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:03:31 +0000"
@@ -6336,6 +6366,12 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-24 04:20:44 +0000"
     },
     "done": true
   },
@@ -6360,6 +6396,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_open_casket": {
+    "criteria": {
+      "adv_open_casket": "2025-04-24 04:09:56 +0000"
     },
     "done": true
   },

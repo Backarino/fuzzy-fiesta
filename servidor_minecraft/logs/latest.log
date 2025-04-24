@@ -2231,3 +2231,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [24Apr2025 04:00:23.925] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:59551] logged in with entity id 106943 at (-169.99750935543565, 111.16241403220282, 4254.464978703534)
 [24Apr2025 04:00:23.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
 [24Apr2025 04:07:31.937] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Sneak 100]
+[24Apr2025 04:09:56.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Lucky Looter]
+[24Apr2025 04:10:14.134] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[24Apr2025 04:18:25.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was obliterated by a sonically-charged shriek
+[24Apr2025 04:20:19.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU was slain by Spriggan
+[24Apr2025 04:21:37.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Combat 4]
+[24Apr2025 04:21:52.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Economy]
+[24Apr2025 04:25:28.880] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Combat 5]
+[24Apr2025 04:27:42.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Combat 6]
