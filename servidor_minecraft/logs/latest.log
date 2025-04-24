@@ -1788,3 +1788,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [24Apr2025 02:15:16.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Take Aim]
 [24Apr2025 02:17:29.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [My Name is Nobody]
 [24Apr2025 02:17:32.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved wrongly!
+[24Apr2025 02:21:58.175] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Disconnected
+[24Apr2025 02:21:58.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[24Apr2025 02:22:38.360] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@a6f673b[id=<null>,name=DonTony09,properties={},legacy=false] (/172.29.215.146:51557) lost connection: Disconnected
+[24Apr2025 02:24:37.723] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:51991] logged in with entity id 13360 at (36.44877899394781, 66.0, 2316.801288073219)
+[24Apr2025 02:24:37.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[24Apr2025 02:26:31.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Fire Dragon
+[24Apr2025 02:26:45.395] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Dragonslayer]
+[24Apr2025 02:27:12.265] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron lost connection: Disconnected
+[24Apr2025 02:27:12.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron left the game

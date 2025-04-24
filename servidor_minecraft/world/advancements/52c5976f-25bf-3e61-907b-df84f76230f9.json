@@ -5371,6 +5371,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-24 02:23:46 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_basic_shield": {
     "criteria": {
       "has_obsidian": "2025-04-24 01:50:26 +0000"
@@ -5395,6 +5401,18 @@
     },
     "done": true
   },
+  "spartanshields:recipes/lapis_lazuli_basic_shield": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-24 02:23:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-24 02:23:46 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/obsidian_tower_shield": {
     "criteria": {
       "has_obsidian": "2025-04-24 01:50:26 +0000"
@@ -5416,6 +5434,12 @@
   "grimoireofgaia:recipes/decorations/pearl_block": {
     "criteria": {
       "has_shiny_pearl": "2025-04-24 02:09:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/lapis": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-04-24 02:23:46 +0000"
     },
     "done": true
   },
