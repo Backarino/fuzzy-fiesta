@@ -15356,3 +15356,81 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [24Apr2025 04:43:40.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Apr2025 04:48:40.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Apr2025 04:48:40.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 04:52:59.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 04:52:59.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Apr2025 04:53:03.339] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 04:53:03.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Apr2025 04:53:03.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 04:53:05.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 04:53:05.489] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Apr2025 04:53:40.847] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 04:53:40.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 04:56:06.532] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 04:57:44.878] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 04:57:44.878] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Apr2025 04:57:46.832] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 04:57:46.833] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Apr2025 04:57:48.432] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 04:57:48.433] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Apr2025 04:58:13.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Mining 7]
+[24Apr2025 04:58:40.832] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 04:58:40.844] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 05:00:35.479] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 05:00:35.479] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Apr2025 05:00:37.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 05:00:37.295] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Apr2025 05:00:40.832] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 05:00:40.832] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Apr2025 05:00:42.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 05:00:42.424] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Apr2025 05:03:40.835] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 05:03:40.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 05:05:10.193] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.332] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.382] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.425] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.474] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.530] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.580] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.624] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.677] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.733] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.778] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.828] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.876] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.929] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:17.978] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:18.025] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:18.079] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:18.128] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:18.183] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:18.232] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:18.277] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:18.327] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:18.377] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:18.425] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:18.473] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:18.529] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:18.582] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:18.625] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[24Apr2025 05:05:39.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 05:05:39.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[24Apr2025 05:05:41.631] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 05:05:41.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 05:05:43.690] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 05:05:44.180] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 05:08:40.836] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 05:08:40.848] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 05:08:57.600] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/150585, l='ServerLevel[world]', x=17.50, y=48.00, z=1185.50]
+[24Apr2025 05:13:40.849] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 05:13:40.862] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 05:14:27.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [A Bigger Blade]
+[24Apr2025 05:14:29.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Blade of the Samurai]
+[24Apr2025 05:15:18.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Blunt-force Trauma]
+[24Apr2025 05:15:23.845] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Tip of the Spear]
+[24Apr2025 05:15:57.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Halberdier]
+[24Apr2025 05:16:44.027] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Take Aim, Chaps!]
+[24Apr2025 05:16:56.533] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron lost connection: Disconnected
+[24Apr2025 05:16:56.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron left the game
+[24Apr2025 05:18:40.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 05:18:40.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

@@ -6273,15 +6273,57 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/brick_wall": {
+    "criteria": {
+      "has_bricks": "2025-04-24 05:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs": {
+    "criteria": {
+      "has_bricks": "2025-04-24 05:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-24 05:08:03 +0000"
+    },
+    "done": true
+  },
   "iter_rpg:economy": {
     "criteria": {
       "economy_0": "2025-04-24 04:21:52 +0000"
     },
     "done": true
   },
+  "spartanweaponry:halberd": {
+    "criteria": {
+      "has_halberd": "2025-04-24 05:15:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-24 05:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-04-24 05:08:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_stairs_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-24 05:08:17 +0000"
     },
     "done": true
   },
@@ -6303,9 +6345,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/deepslate_tile_wall": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-24 05:08:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:spear": {
+    "criteria": {
+      "has_spear": "2025-04-24 05:15:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-04-24 05:14:27 +0000"
     },
     "done": true
   },
@@ -6321,6 +6381,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mud_brick_stairs": {
+    "criteria": {
+      "has_mud_bricks": "2025-04-24 05:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab": {
+    "criteria": {
+      "has_bricks": "2025-04-24 05:08:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:03:31 +0000"
@@ -6333,9 +6405,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mud_brick_wall_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-04-24 05:08:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-04-24 05:14:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brick_slab_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-24 05:08:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mud_brick_wall": {
+    "criteria": {
+      "has_mud_bricks": "2025-04-24 05:08:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_stairs_from_mud_bricks_stonecutting": {
+    "criteria": {
+      "has_mud_bricks": "2025-04-24 05:08:13 +0000"
     },
     "done": true
   },
@@ -6357,6 +6459,12 @@
     },
     "done": true
   },
+  "spartanweaponry:warhammer": {
+    "criteria": {
+      "has_warhammer": "2025-04-24 05:15:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:03:31 +0000"
@@ -6366,6 +6474,24 @@
   "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-24 05:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-24 05:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mud_brick_slab": {
+    "criteria": {
+      "has_mud_bricks": "2025-04-24 05:08:13 +0000"
     },
     "done": true
   },
@@ -6381,6 +6507,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-24 05:08:03 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/black_sandstone": {
     "criteria": {
       "has_sand": "2025-04-24 04:03:10 +0000"
@@ -6393,9 +6525,21 @@
     },
     "done": true
   },
+  "spartanweaponry:longbow": {
+    "criteria": {
+      "has_longbow": "2025-04-24 05:16:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brick_wall_from_bricks_stonecutting": {
+    "criteria": {
+      "has_bricks": "2025-04-24 05:08:17 +0000"
     },
     "done": true
   },
@@ -6408,6 +6552,12 @@
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:03:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab": {
+    "criteria": {
+      "has_deepslate_tiles": "2025-04-24 05:08:03 +0000"
     },
     "done": true
   },

@@ -4835,6 +4835,12 @@
     },
     "done": true
   },
+  "betterskills:mining_7": {
+    "criteria": {
+      "mining_7_0": "2025-04-24 04:58:13 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_blue_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-04-24 03:50:21 +0000"
