@@ -431,6 +431,7 @@
       "bread": "2025-04-20 20:45:46 +0000",
       "golden_apple": "2025-04-20 22:53:42 +0000",
       "rotten_flesh": "2025-04-20 21:05:11 +0000",
+      "cookie": "2025-04-23 05:28:34 +0000",
       "glow_berries": "2025-04-22 04:23:14 +0000",
       "melon_slice": "2025-04-22 04:00:04 +0000"
     },
@@ -2046,11 +2047,13 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-04-23 05:30:51 +0000",
       "minecraft:skeleton": "2025-04-22 03:51:16 +0000",
       "minecraft:spider": "2025-04-20 21:18:50 +0000",
       "minecraft:creeper": "2025-04-23 03:39:52 +0000",
       "minecraft:cave_spider": "2025-04-22 03:50:20 +0000",
       "minecraft:silverfish": "2025-04-20 21:59:28 +0000",
+      "minecraft:enderman": "2025-04-23 05:24:54 +0000",
       "minecraft:zombie": "2025-04-20 22:53:33 +0000",
       "minecraft:drowned": "2025-04-20 22:55:21 +0000"
     },
@@ -5092,6 +5095,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/shoot_arrow": {
     "criteria": {
       "shot_arrow": "2025-04-23 03:58:39 +0000"
@@ -5110,9 +5119,27 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-23 05:30:51 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/decorations/light_gray_sleeping_bag": {
     "criteria": {
       "has_light_gray_wool": "2025-04-23 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
     },
     "done": true
   },
@@ -5128,15 +5155,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/packed_mud": {
+    "criteria": {
+      "has_mud": "2025-04-23 05:25:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-04-23 05:01:43 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-23 05:22:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-23 05:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
     },
     "done": true
   },
@@ -5218,6 +5263,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_helmet": {
     "criteria": {
       "has_item": "2025-04-23 05:16:28 +0000"
@@ -5227,6 +5278,12 @@
   "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-23 05:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
     },
     "done": true
   },
@@ -5278,9 +5335,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-23 05:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
     },
     "done": true
   },
@@ -5428,9 +5497,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_stool": {
     "criteria": {
       "has_light_gray_wool": "2025-04-23 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-23 05:25:20 +0000"
     },
     "done": true
   },
@@ -5602,6 +5683,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/acacia_table": {
     "criteria": {
       "has_acacia_planks": "2025-04-23 05:01:43 +0000"
@@ -5620,6 +5707,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-23 05:01:43 +0000"
@@ -5635,6 +5728,12 @@
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_jungle_stool": {
     "criteria": {
       "has_light_gray_wool": "2025-04-23 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
     },
     "done": true
   },
@@ -5674,6 +5773,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-23 05:25:10 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-23 05:01:43 +0000"
@@ -5686,9 +5797,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-23 05:22:59 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_cherry_chair": {
     "criteria": {
       "has_light_gray_wool": "2025-04-23 05:13:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
     },
     "done": true
   },
@@ -5698,9 +5821,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-23 05:25:20 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-04-23 05:01:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
     },
     "done": true
   },
@@ -5725,6 +5860,12 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2025-04-23 05:01:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-23 05:28:18 +0000"
     },
     "done": true
   },
