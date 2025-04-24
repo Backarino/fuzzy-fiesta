@@ -2082,6 +2082,7 @@
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "woodland": "2025-04-20 21:52:33 +0000",
+      "shrubland": "2025-04-24 02:00:47 +0000",
       "rocky_shrubland": "2025-04-24 01:42:45 +0000",
       "scrubland": "2025-04-20 21:51:14 +0000",
       "fungal_jungle": "2025-04-20 22:50:31 +0000",
@@ -5891,15 +5892,15 @@
     },
     "done": true
   },
-  "grimoireofgaia:main/deathword": {
-    "criteria": {
-      "kill": "2025-04-24 01:47:36 +0000"
-    },
-    "done": true
-  },
   "minecraft:story/shiny_gear": {
     "criteria": {
       "diamond_helmet": "2025-04-24 01:43:05 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/deathword": {
+    "criteria": {
+      "kill": "2025-04-24 01:47:36 +0000"
     },
     "done": true
   },

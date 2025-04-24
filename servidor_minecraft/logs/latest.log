@@ -1770,3 +1770,16 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [24Apr2025 01:45:21.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Combat 3]
 [24Apr2025 01:50:26.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Ice Bucket Challenge]
 [24Apr2025 01:53:51.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Teleported DonTony09 to BackedSrAaron]
+[24Apr2025 02:01:02.463] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Timed out
+[24Apr2025 02:01:02.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[24Apr2025 02:01:02.509] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Apr2025 02:01:22.182] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:56746] logged in with entity id 5591 at (-417.13801551717614, 121.0, 1213.239627521027)
+[24Apr2025 02:01:22.198] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[24Apr2025 02:02:27.326] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Disconnected
+[24Apr2025 02:02:27.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[24Apr2025 02:02:39.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:56790] logged in with entity id 5793 at (-415.99169873395033, 120.0, 1231.3401413607314)
+[24Apr2025 02:02:39.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[24Apr2025 02:02:58.210] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Disconnected
+[24Apr2025 02:02:58.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[24Apr2025 02:07:05.519] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:50562] logged in with entity id 6313 at (-417.77533080240784, 121.0, 1214.5737187246327)
+[24Apr2025 02:07:05.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
