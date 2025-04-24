@@ -15434,3 +15434,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [24Apr2025 05:16:56.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron left the game
 [24Apr2025 05:18:40.846] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Apr2025 05:18:40.859] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 05:23:40.821] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 05:23:40.834] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 05:28:40.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 05:28:40.825] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 05:31:09.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[24Apr2025 05:31:51.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SAURIO12> ZZZZZZZZ
+[24Apr2025 05:32:11.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SILVERTAKU> zzzzz
