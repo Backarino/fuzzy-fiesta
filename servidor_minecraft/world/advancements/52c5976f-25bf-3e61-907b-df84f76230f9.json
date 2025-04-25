@@ -3041,11 +3041,15 @@
       "fungal_jungle": "2025-04-22 04:38:40 +0000",
       "highland": "2025-04-22 04:39:18 +0000",
       "jade_cliffs": "2025-04-20 22:54:49 +0000",
+      "clover_patch": "2025-04-25 04:36:37 +0000",
       "mystic_grove": "2025-04-20 22:55:08 +0000",
       "old_growth_woodland": "2025-04-23 04:23:55 +0000",
+      "lavender_forest": "2025-04-25 04:33:56 +0000",
       "moor": "2025-04-20 22:54:44 +0000",
       "spider_nest": "2025-04-20 21:39:01 +0000",
+      "redwood_forest": "2025-04-25 04:35:53 +0000",
       "rocky_rainforest": "2025-04-20 22:54:21 +0000",
+      "lavender_field": "2025-04-25 04:35:47 +0000",
       "rainforest": "2025-04-20 21:32:49 +0000"
     },
     "done": false
@@ -5693,6 +5697,12 @@
   "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2025-04-25 04:14:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-04-25 04:38:58 +0000"
     },
     "done": true
   },
