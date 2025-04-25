@@ -5450,15 +5450,81 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/blackstone_wall": {
+  "betterskills:farming_2": {
     "criteria": {
-      "has_blackstone": "2025-04-24 04:38:26 +0000"
+      "farming_2_0": "2025-04-24 03:43:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-24 04:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-24 04:00:32 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
+    "criteria": {
+      "has_item": "2025-04-24 04:00:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-24 04:00:32 +0000"
     },
     "done": true
   },
   "forbidden_arcanus:recipes/tools/lens_of_veritatis": {
     "criteria": {
       "has_arcane_crystal": "2025-04-24 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
+    "criteria": {
+      "has_item": "2025-04-24 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-04-24 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
+    "criteria": {
+      "has_arcane_crystal": "2025-04-24 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
+    "criteria": {
+      "has_item": "2025-04-24 04:01:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-04-24 04:07:31 +0000"
+    },
+    "done": true
+  },
+  "betterskills:mining_8": {
+    "criteria": {
+      "mining_8_0": "2025-04-24 04:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-24 04:38:26 +0000"
     },
     "done": true
   },
@@ -5480,51 +5546,15 @@
     },
     "done": true
   },
-  "betterskills:farming_2": {
-    "criteria": {
-      "farming_2_0": "2025-04-24 03:43:55 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-04-24 04:00:32 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/raw_copper_block": {
-    "criteria": {
-      "has_raw_copper": "2025-04-24 04:00:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:38:26 +0000"
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
-    "criteria": {
-      "has_item": "2025-04-24 04:00:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:38:26 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_dust_from_smelting": {
-    "criteria": {
-      "has_item": "2025-04-24 04:01:58 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_dust_from_clibano_combusting": {
-    "criteria": {
-      "has_item": "2025-04-24 04:01:58 +0000"
     },
     "done": true
   },
@@ -5540,27 +5570,9 @@
     },
     "done": true
   },
-  "betterskills:mining_8": {
-    "criteria": {
-      "mining_8_0": "2025-04-24 04:31:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:38:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone": {
-    "criteria": {
-      "has_redstone_block": "2025-04-24 04:38:57 +0000"
-    },
-    "done": true
-  },
-  "forbidden_arcanus:recipes/misc/arcane_crystal_block_from_arcane_crystal": {
-    "criteria": {
-      "has_arcane_crystal": "2025-04-24 04:01:58 +0000"
     },
     "done": true
   },
@@ -5588,21 +5600,9 @@
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_dust_from_blasting": {
-    "criteria": {
-      "has_item": "2025-04-24 04:01:58 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:38:26 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/avoid_vibration": {
-    "criteria": {
-      "avoid_vibration": "2025-04-24 04:07:31 +0000"
     },
     "done": true
   },
@@ -5612,15 +5612,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
-    "criteria": {
-      "has_raw_copper": "2025-04-24 04:00:32 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-04-24 04:38:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-04-24 04:38:57 +0000"
     },
     "done": true
   },
