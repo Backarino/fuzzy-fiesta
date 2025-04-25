@@ -1761,3 +1761,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [25Apr2025 03:12:39.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron joined the game
 [25Apr2025 03:12:41.165] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2007ms or 40 ticks behind
 [25Apr2025 03:24:04.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Set the weather to clear]
+[25Apr2025 03:42:54.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Set the weather to clear]
+[25Apr2025 03:48:30.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SILVERTAKU[/172.29.104.71:49431] logged in with entity id 11239 at (78.70734745916438, 103.0, 1176.9781525747403)
+[25Apr2025 03:48:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
