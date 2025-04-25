@@ -1764,3 +1764,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [25Apr2025 03:42:54.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Set the weather to clear]
 [25Apr2025 03:48:30.894] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SILVERTAKU[/172.29.104.71:49431] logged in with entity id 11239 at (78.70734745916438, 103.0, 1176.9781525747403)
 [25Apr2025 03:48:30.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
+[25Apr2025 04:00:36.511] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/15874, l='ServerLevel[world]', x=17.50, y=48.00, z=1183.50]
