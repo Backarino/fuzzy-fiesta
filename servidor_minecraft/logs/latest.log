@@ -1787,3 +1787,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [25Apr2025 04:56:22.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [The Beginning of An Adventure]
 [25Apr2025 04:58:02.480] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [25Apr2025 04:58:03.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Apr2025 05:06:33.631] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron lost connection: Disconnected
+[25Apr2025 05:06:33.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron left the game
+[25Apr2025 05:08:07.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Saved the game]
+[25Apr2025 05:09:09.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Saved the game]
+[25Apr2025 05:09:29.877] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Disconnected
+[25Apr2025 05:09:29.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[25Apr2025 05:09:40.418] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SILVERTAKU lost connection: Disconnected
+[25Apr2025 05:09:40.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU left the game
+[25Apr2025 05:09:44.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[25Apr2025 05:09:44.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[25Apr2025 05:09:44.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[25Apr2025 05:09:44.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[25Apr2025 05:09:44.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[25Apr2025 05:09:44.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[25Apr2025 05:09:44.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[25Apr2025 05:09:44.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[25Apr2025 05:09:44.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[25Apr2025 05:09:44.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[25Apr2025 05:09:44.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[25Apr2025 05:09:45.067] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
