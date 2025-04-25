@@ -1780,3 +1780,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [25Apr2025 04:37:45.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BackedSrAaron> zzz
 [25Apr2025 04:37:47.495] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SILVERTAKU> zzzz
 [25Apr2025 04:38:49.474] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[25Apr2025 04:45:16.211] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/47437, l='ServerLevel[world]', x=14.50, y=49.00, z=1181.50]
+[25Apr2025 04:48:26.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Who You Gonna Call?]
+[25Apr2025 04:51:44.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Farming 3]
+[25Apr2025 04:56:22.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Patience Is The Road To Wisdom]
+[25Apr2025 04:56:22.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [The Beginning of An Adventure]
+[25Apr2025 04:58:02.480] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[25Apr2025 04:58:03.476] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
