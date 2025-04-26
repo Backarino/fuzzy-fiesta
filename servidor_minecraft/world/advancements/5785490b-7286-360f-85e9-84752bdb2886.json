@@ -6279,6 +6279,12 @@
     },
     "done": true
   },
+  "betterskills:farming_3": {
+    "criteria": {
+      "farming_3_0": "2025-04-25 04:51:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_blue_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-25 05:08:00 +0000"
@@ -6312,12 +6318,6 @@
   "forbidden_arcanus:recipes/building_blocks/dark_runic_glass": {
     "criteria": {
       "has_glass": "2025-04-25 05:08:00 +0000"
-    },
-    "done": true
-  },
-  "betterskills:farming_3": {
-    "criteria": {
-      "farming_3_0": "2025-04-25 04:51:44 +0000"
     },
     "done": true
   },
