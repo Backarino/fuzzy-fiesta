@@ -1797,3 +1797,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [26Apr2025 21:51:29.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has completed the challenge [Serious Dedication]
 [26Apr2025 21:58:51.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has completed the challenge [N O]
 [26Apr2025 22:00:33.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved too quickly! -8.2791498234634,1.2712241076924897,-5.8022025131546116
+[26Apr2025 22:10:35.958] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 was kicked for floating too long!
+[26Apr2025 22:10:36.011] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Flying is not enabled on this server
+[26Apr2025 22:10:36.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[26Apr2025 22:10:57.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:50480] logged in with entity id 60904 at (-1022.0996367336411, 70.20044357423423, 1116.3586442121414)
+[26Apr2025 22:10:57.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[26Apr2025 22:13:20.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Flexible Schedule]
