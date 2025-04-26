@@ -2210,7 +2210,8 @@
       "minecraft:creeper": "2025-04-23 05:04:55 +0000",
       "minecraft:phantom": "2025-04-26 04:39:06 +0000",
       "minecraft:cave_spider": "2025-04-20 21:39:33 +0000",
-      "minecraft:zombie": "2025-04-20 23:00:47 +0000"
+      "minecraft:zombie": "2025-04-20 23:00:47 +0000",
+      "minecraft:zombie_villager": "2025-04-26 23:10:07 +0000"
     },
     "done": false
   },
@@ -5137,15 +5138,33 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_chair": {
+  "grimoireofgaia:main/orc": {
     "criteria": {
-      "has_spruce_planks": "2025-04-26 22:54:47 +0000"
+      "kill": "2025-04-26 22:42:07 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+  "grimoireofgaia:main/spriggan": {
     "criteria": {
-      "has_gold_block": "2025-04-26 22:57:34 +0000"
+      "kill": "2025-04-26 22:45:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-04-26 22:46:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-04-26 22:46:45 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_spruce_chair": {
+    "criteria": {
+      "has_spruce_planks": "2025-04-26 22:54:47 +0000"
     },
     "done": true
   },
@@ -5158,12 +5177,6 @@
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-26 22:54:47 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/orc": {
-    "criteria": {
-      "kill": "2025-04-26 22:42:07 +0000"
     },
     "done": true
   },
@@ -5200,12 +5213,6 @@
   "valhelsia_furniture:recipes/decorations/pink_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-26 22:54:47 +0000"
-    },
-    "done": true
-  },
-  "netherdungeons:recipes/crafting/polished_netherrack": {
-    "criteria": {
-      "has_items": "2025-04-26 22:57:25 +0000"
     },
     "done": true
   },
@@ -5263,12 +5270,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-04-26 22:57:25 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-26 22:54:47 +0000"
@@ -5317,12 +5318,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/decorations/copper_pile": {
-    "criteria": {
-      "has_item": "2025-04-26 22:46:45 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/green_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-26 22:54:47 +0000"
@@ -5347,12 +5342,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
-    "criteria": {
-      "has_item": "2025-04-26 22:46:45 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/magenta_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-26 22:54:47 +0000"
@@ -5362,12 +5351,6 @@
   "valhelsia_furniture:recipes/decorations/orange_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-26 22:54:47 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/spriggan": {
-    "criteria": {
-      "kill": "2025-04-26 22:45:53 +0000"
     },
     "done": true
   },
@@ -5428,6 +5411,66 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_spruce_chair": {
     "criteria": {
       "has_spruce_planks": "2025-04-26 22:54:47 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/polished_netherrack": {
+    "criteria": {
+      "has_items": "2025-04-26 22:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-26 22:57:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-04-26 22:57:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-04-26 23:05:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crocodile": {
+    "criteria": {
+      "killed_by": "2025-04-26 23:09:26 +0000"
+    },
+    "done": true
+  },
+  "betterskills:combat_3": {
+    "criteria": {
+      "combat_3_0": "2025-04-26 23:11:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-04-26 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/rotten_egg": {
+    "criteria": {
+      "bestiary": "2025-04-26 23:15:53 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_ruin_warm": "2025-04-26 23:20:58 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-04-26 23:19:12 +0000"
     },
     "done": true
   },

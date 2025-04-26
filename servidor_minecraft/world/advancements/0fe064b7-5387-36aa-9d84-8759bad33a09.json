@@ -7060,6 +7060,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-04-26 23:06:04 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
     "criteria": {
       "has_dragonscales_copper": "2025-04-26 22:25:23 +0000"
@@ -7084,6 +7090,12 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/decorations/deorum_soul_lantern": {
+    "criteria": {
+      "has_soul_torch": "2025-04-26 23:06:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-04-26 22:13:39 +0000"
@@ -7099,6 +7111,12 @@
   "iceandfire:recipes/combat/forest_troll_leather_leggings": {
     "criteria": {
       "has_item": "2025-04-26 22:35:43 +0000"
+    },
+    "done": true
+  },
+  "betterskills:mining_9": {
+    "criteria": {
+      "mining_9_0": "2025-04-26 23:01:18 +0000"
     },
     "done": true
   },
@@ -7171,6 +7189,12 @@
   "travelersbackpack:recipes/misc/enderman": {
     "criteria": {
       "has_ender_pearl": "2025-04-26 22:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/recovery_compass": {
+    "criteria": {
+      "has_echo_shard": "2025-04-26 23:05:55 +0000"
     },
     "done": true
   },

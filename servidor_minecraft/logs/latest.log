@@ -1808,3 +1808,18 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [26Apr2025 22:34:43.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
 [26Apr2025 22:45:04.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mining 8]
 [26Apr2025 23:01:18.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mining 9]
+[26Apr2025 23:05:04.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [A Bigger Blade]
+[26Apr2025 23:09:26.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Chompy]
+[26Apr2025 23:11:38.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Combat 3]
+[26Apr2025 23:15:53.480] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Rotten to the Core]
+[26Apr2025 23:16:27.280] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 was kicked for floating too long!
+[26Apr2025 23:16:27.338] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 lost connection: Flying is not enabled on this server
+[26Apr2025 23:16:27.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 left the game
+[26Apr2025 23:17:02.834] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:56546] logged in with entity id 97730 at (-250.37603151788804, 81.70700168629948, 41.4267354253244)
+[26Apr2025 23:17:02.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[26Apr2025 23:17:41.732] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 was kicked for floating too long!
+[26Apr2025 23:17:41.792] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 lost connection: Flying is not enabled on this server
+[26Apr2025 23:17:41.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 left the game
+[26Apr2025 23:17:58.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:56549] logged in with entity id 99039 at (-140.34188379073814, 73.47604803400058, 77.81725441150186)
+[26Apr2025 23:17:58.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[26Apr2025 23:19:12.924] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Mine? Mine? Mine?]
