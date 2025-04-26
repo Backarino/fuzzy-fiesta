@@ -1751,3 +1751,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [26Apr2025 02:18:08.004] [Server thread/INFO] [com.cupboard.Cupboard/]: Loaded config for: brutalbosses.json
 [26Apr2025 02:21:19.734] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BackedSrAaron[/172.29.23.47:64113] logged in with entity id 135 at (-420.7663674813841, 120.0, 1244.1633049206987)
 [26Apr2025 02:21:19.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron joined the game
+[26Apr2025 02:30:19.063] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Who is Cutting Onions?]
+[26Apr2025 02:30:46.444] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:60387] logged in with entity id 1854 at (-416.30000001192093, 113.0, 1244.9164116214004)
+[26Apr2025 02:30:46.453] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[26Apr2025 02:31:37.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:65416] logged in with entity id 2203 at (209.77578889482598, 86.0, 3914.050698183701)
+[26Apr2025 02:31:37.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game

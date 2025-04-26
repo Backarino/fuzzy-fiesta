@@ -7,6 +7,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-04-26 02:25:42 +0000",
       "minecraft:birch_forest": "2025-04-20 22:57:31 +0000",
       "minecraft:bamboo_jungle": "2025-04-20 21:26:20 +0000",
       "minecraft:savanna_plateau": "2025-04-25 04:58:54 +0000",
@@ -15,6 +16,7 @@
       "minecraft:sparse_jungle": "2025-04-20 21:03:26 +0000",
       "minecraft:lukewarm_ocean": "2025-04-20 20:39:04 +0000",
       "minecraft:river": "2025-04-20 20:38:56 +0000",
+      "minecraft:dripstone_caves": "2025-04-26 02:26:03 +0000",
       "minecraft:grove": "2025-04-22 04:39:25 +0000",
       "minecraft:forest": "2025-04-20 21:02:20 +0000",
       "minecraft:jungle": "2025-04-20 21:27:34 +0000",
@@ -5854,6 +5856,54 @@
   "minecraft:recipes/building_blocks/dye_black_wool": {
     "criteria": {
       "has_needed_dye": "2025-04-25 05:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-26 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/polished_netherrack": {
+    "criteria": {
+      "has_items": "2025-04-26 02:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-04-26 02:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-04-26 02:30:19 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/magma_nether_bricks": {
+    "criteria": {
+      "has_items": "2025-04-26 02:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_helmet": "2025-04-26 02:27:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-04-26 02:27:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-04-26 02:30:19 +0000"
     },
     "done": true
   },
