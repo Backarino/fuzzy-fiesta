@@ -1791,3 +1791,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [26Apr2025 21:39:16.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Voluntary Exile]
 [26Apr2025 21:41:00.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has completed the challenge [Hero of the Village]
 [26Apr2025 21:41:00.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has completed the challenge [Hero of the Village]
+[26Apr2025 21:43:13.502] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Chicken['Evil Chicken'/50293, l='ServerLevel[world]', x=-505.20, y=71.00, z=551.80] died: Evil Chicken was slain by DonTony09
+[26Apr2025 21:46:05.108] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[26Apr2025 21:51:23.869] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/53565, l='ServerLevel[world]', x=-729.50, y=72.00, z=866.15] died: Corvin the Rotten was slain by DonTony09
+[26Apr2025 21:51:29.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has completed the challenge [Serious Dedication]
+[26Apr2025 21:58:51.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has completed the challenge [N O]
+[26Apr2025 22:00:33.749] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved too quickly! -8.2791498234634,1.2712241076924897,-5.8022025131546116

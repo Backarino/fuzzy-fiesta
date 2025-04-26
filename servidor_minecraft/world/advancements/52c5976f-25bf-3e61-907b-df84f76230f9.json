@@ -3001,9 +3001,11 @@
       "minecraft:skeleton": "2025-04-20 22:33:25 +0000",
       "minecraft:spider": "2025-04-20 22:31:46 +0000",
       "minecraft:creeper": "2025-04-22 03:26:53 +0000",
+      "minecraft:zombified_piglin": "2025-04-26 21:51:25 +0000",
       "minecraft:cave_spider": "2025-04-20 21:39:16 +0000",
       "minecraft:enderman": "2025-04-23 02:48:49 +0000",
-      "minecraft:zombie": "2025-04-20 21:24:45 +0000"
+      "minecraft:zombie": "2025-04-20 21:24:45 +0000",
+      "minecraft:drowned": "2025-04-26 21:48:36 +0000"
     },
     "done": false
   },
@@ -6240,6 +6242,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-26 21:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-26 21:53:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/spyglass": {
     "criteria": {
       "has_amethyst_shard": "2025-04-26 21:36:34 +0000"
@@ -6252,6 +6266,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-26 21:53:32 +0000"
+    },
+    "done": true
+  },
   "bosses_of_mass_destruction:recipes/void_lily": {
     "criteria": {
       "has_amethyst_shard": "2025-04-26 21:36:34 +0000"
@@ -6261,6 +6281,12 @@
   "minecraft:recipes/redstone/calibrated_sculk_sensor": {
     "criteria": {
       "has_amethyst_shard": "2025-04-26 21:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-26 21:54:12 +0000"
     },
     "done": true
   },
@@ -6294,6 +6320,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-26 21:53:32 +0000"
+    },
+    "done": true
+  },
   "betterskills:mining_9": {
     "criteria": {
       "mining_9_0": "2025-04-26 20:09:01 +0000"
@@ -6312,9 +6344,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-26 21:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-04-26 21:54:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-26 21:53:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/chainmail_boots": {
     "criteria": {
       "has_item": "2025-04-26 21:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-26 21:41:55 +0000"
     },
     "done": true
   },
@@ -6333,6 +6389,36 @@
   "minecraft:recipes/combat/chainmail_chestplate": {
     "criteria": {
       "has_item": "2025-04-26 21:36:39 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/polished_gilded_blackstone": {
+    "criteria": {
+      "has_items": "2025-04-26 21:54:37 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/spriggan": {
+    "criteria": {
+      "kill": "2025-04-26 21:43:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-26 21:43:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-26 21:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-04-26 21:54:12 +0000"
     },
     "done": true
   },
