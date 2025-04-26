@@ -1182,7 +1182,15 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "cartographytable": "2025-04-26 04:41:59 +0000",
+      "fletchingtable": "2025-04-26 04:41:57 +0000",
+      "grindstone": "2025-04-26 04:31:11 +0000",
+      "smoker": "2025-04-26 04:31:27 +0000",
+      "smithingtable": "2025-04-26 04:31:10 +0000",
+      "blastfurnace": "2025-04-26 04:31:17 +0000",
+      "loom": "2025-04-26 04:41:56 +0000",
       "lectern": "2025-04-20 21:05:45 +0000",
+      "stonecutter": "2025-04-26 04:31:03 +0000",
       "composter": "2025-04-26 03:53:45 +0000"
     },
     "done": false
@@ -2000,6 +2008,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-20 21:19:05 +0000",
+      "minecraft:guardian": "2025-04-26 04:39:15 +0000",
       "minecraft:magma_cube": "2025-04-25 04:54:28 +0000",
       "minecraft:spider": "2025-04-22 02:56:57 +0000",
       "minecraft:creeper": "2025-04-20 22:15:24 +0000",
@@ -5613,7 +5622,8 @@
     "criteria": {
       "locate_shipwreck": "2025-04-24 03:20:14 +0000",
       "locate_ruin_warm": "2025-04-23 04:14:57 +0000",
-      "locate_underwater_warm_small_ruins": "2025-04-23 04:17:02 +0000"
+      "locate_underwater_warm_small_ruins": "2025-04-23 04:17:02 +0000",
+      "locate_ruin_cold": "2025-04-26 04:37:14 +0000"
     },
     "done": false
   },
@@ -6631,6 +6641,12 @@
     },
     "done": true
   },
+  "seadwellers:adv_break_sea_lantern": {
+    "criteria": {
+      "adv_break_sea_lantern": "2025-04-26 04:39:21 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/food/cake": {
     "criteria": {
       "has_the_recipe": "2025-04-26 03:54:08 +0000"
@@ -6649,6 +6665,30 @@
     },
     "done": true
   },
+  "spartanweaponry:scythe": {
+    "criteria": {
+      "has_scythe": "2025-04-26 04:35:37 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2025-04-26 04:16:45 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/spectral_arrow_from_glow_goop": {
+    "criteria": {
+      "has_glow_goop": "2025-04-26 04:18:31 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/food/golden_apple_pie": {
+    "criteria": {
+      "has_golden_apple_pie_slice": "2025-04-26 04:14:55 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/netherite_bolt": {
     "criteria": {
       "has_heavy_crossbow": "2025-04-26 03:54:11 +0000"
@@ -6661,6 +6701,30 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-26 04:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-26 04:34:28 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting_raw_copper": {
+    "criteria": {
+      "has_item": "2025-04-26 04:34:28 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/diamond_shard_to_diamond": {
+    "criteria": {
+      "has_diamond_shard": "2025-04-26 04:14:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2025-04-26 03:12:49 +0000"
@@ -6670,6 +6734,12 @@
   "minecraft:story/follow_ender_eye": {
     "criteria": {
       "in_stronghold": "2025-04-26 03:57:03 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/minotaur": {
+    "criteria": {
+      "kill": "2025-04-26 04:14:54 +0000"
     },
     "done": true
   },
@@ -6703,15 +6773,51 @@
     },
     "done": true
   },
+  "grimoireofgaia:recipes/misc/experience_diamond": {
+    "criteria": {
+      "has_diamond_box": "2025-04-26 04:14:55 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/mimic": {
     "criteria": {
       "kill": "2025-04-26 03:39:07 +0000"
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/emerald_smithing": {
+    "criteria": {
+      "has_emerald": "2025-04-26 04:12:29 +0000"
+    },
+    "done": true
+  },
+  "betterskills:combat_7": {
+    "criteria": {
+      "combat_7_0": "2025-04-26 04:14:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/food/ambrosia": {
+    "criteria": {
+      "has_item": "2025-04-26 04:38:38 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/small_bolt_quiver": {
     "criteria": {
       "has_bolt": "2025-04-26 03:54:01 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/emerald_shard_to_emerald": {
+    "criteria": {
+      "has_emerald_shard": "2025-04-26 04:14:54 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/building_blocks/clibano_core": {
+    "criteria": {
+      "has_blast_furnace": "2025-04-26 04:31:17 +0000"
     },
     "done": true
   },
@@ -6742,6 +6848,12 @@
   "minecraft:recipes/decorations/scaffolding": {
     "criteria": {
       "has_bamboo": "2025-04-26 03:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-26 04:34:28 +0000"
     },
     "done": true
   },
