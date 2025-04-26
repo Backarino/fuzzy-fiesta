@@ -1770,3 +1770,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [26Apr2025 19:58:54.957] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Forester'/523, l='ServerLevel[world]', x=30.80, y=105.50, z=3102.53] died, message: 'Forester was pricked to death'
 [26Apr2025 20:00:04.060] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/872, l='ServerLevel[world]', x=38.95, y=104.50, z=3100.28] died, message: 'Hunter was pricked to death'
 [26Apr2025 20:09:01.995] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Mining 9]
+[26Apr2025 20:14:05.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Mining 9]
+[26Apr2025 20:14:37.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=130, z=1211} BlockPos{x=-404, y=130, z=1212}
+[26Apr2025 20:15:23.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Foraging 7]
