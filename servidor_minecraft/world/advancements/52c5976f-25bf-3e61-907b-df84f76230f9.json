@@ -3001,6 +3001,7 @@
       "minecraft:skeleton": "2025-04-20 22:33:25 +0000",
       "minecraft:spider": "2025-04-20 22:31:46 +0000",
       "minecraft:creeper": "2025-04-22 03:26:53 +0000",
+      "minecraft:phantom": "2025-04-26 22:27:29 +0000",
       "minecraft:zombified_piglin": "2025-04-26 21:51:25 +0000",
       "minecraft:cave_spider": "2025-04-20 21:39:16 +0000",
       "minecraft:enderman": "2025-04-23 02:48:49 +0000",
@@ -6254,6 +6255,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-04-26 22:25:23 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-26 21:53:32 +0000"
@@ -6422,9 +6429,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/pink_dye_from_peony": {
+    "criteria": {
+      "has_peony": "2025-04-26 22:24:41 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-04-26 22:44:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-04-26 21:54:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-04-26 22:25:23 +0000"
     },
     "done": true
   },
@@ -6455,6 +6480,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-04-26 21:41:55 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-04-26 22:25:23 +0000"
     },
     "done": true
   },
@@ -6506,6 +6537,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-26 22:25:23 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/spriggan": {
     "criteria": {
       "kill": "2025-04-26 21:43:31 +0000"
@@ -6548,6 +6585,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-26 22:44:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-26 22:44:01 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_horn": {
     "criteria": {
       "has_item": "2025-04-26 22:17:04 +0000"
@@ -6557,6 +6606,18 @@
   "iceandfire:recipes/misc/dragon_stick": {
     "criteria": {
       "has_item": "2025-04-26 22:17:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-26 22:44:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-04-26 22:25:23 +0000"
     },
     "done": true
   },

@@ -1803,3 +1803,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [26Apr2025 22:10:57.174] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:50480] logged in with entity id 60904 at (-1022.0996367336411, 70.20044357423423, 1116.3586442121414)
 [26Apr2025 22:10:57.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
 [26Apr2025 22:13:20.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Flexible Schedule]
+[26Apr2025 22:33:43.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved wrongly!
+[26Apr2025 22:34:43.522] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:56436] logged in with entity id 67806 at (-481.35746570728566, 69.0, 1012.1508569857227)
+[26Apr2025 22:34:43.528] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[26Apr2025 22:45:04.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mining 8]
