@@ -1182,7 +1182,8 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
-      "lectern": "2025-04-20 21:05:45 +0000"
+      "lectern": "2025-04-20 21:05:45 +0000",
+      "composter": "2025-04-26 03:53:45 +0000"
     },
     "done": false
   },
@@ -6630,6 +6631,12 @@
     },
     "done": true
   },
+  "naturalist:recipes/food/cake": {
+    "criteria": {
+      "has_the_recipe": "2025-04-26 03:54:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brown_dye": {
     "criteria": {
       "has_cocoa_beans": "2025-04-26 03:09:01 +0000"
@@ -6639,6 +6646,12 @@
   "minecraft:recipes/food/beetroot_soup": {
     "criteria": {
       "has_beetroot": "2025-04-26 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_bolt": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-04-26 03:54:11 +0000"
     },
     "done": true
   },
@@ -6654,6 +6667,18 @@
     },
     "done": true
   },
+  "minecraft:story/follow_ender_eye": {
+    "criteria": {
+      "in_stronghold": "2025-04-26 03:57:03 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/cake": {
+    "criteria": {
+      "has_egg": "2025-04-26 03:54:08 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/bug_net": {
     "criteria": {
       "has_bamboo": "2025-04-26 03:30:58 +0000"
@@ -6666,9 +6691,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cake": {
+    "criteria": {
+      "has_egg": "2025-04-26 03:54:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:heavy_crossbow": {
+    "criteria": {
+      "has_heavy_crossbow": "2025-04-26 03:54:11 +0000"
+    },
+    "done": true
+  },
   "grimoireofgaia:main/mimic": {
     "criteria": {
       "kill": "2025-04-26 03:39:07 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_bolt_quiver": {
+    "criteria": {
+      "has_bolt": "2025-04-26 03:54:01 +0000"
     },
     "done": true
   },
