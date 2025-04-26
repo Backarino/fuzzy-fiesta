@@ -1760,3 +1760,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [26Apr2025 02:48:37.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
 [26Apr2025 02:50:13.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [We Need to Go Deeper]
 [26Apr2025 02:50:15.149] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3395ms or 67 ticks behind
+[26Apr2025 03:01:18.560] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/16763, l='ServerLevel[world]', x=16.50, y=50.00, z=1183.50]
+[26Apr2025 03:03:18.557] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/17688, l='ServerLevel[world]', x=17.50, y=47.00, z=1182.50]
