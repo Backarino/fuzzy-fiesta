@@ -1773,3 +1773,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [26Apr2025 20:14:05.066] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Mining 9]
 [26Apr2025 20:14:37.841] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-403, y=130, z=1211} BlockPos{x=-404, y=130, z=1212}
 [26Apr2025 20:15:23.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Foraging 7]
+[26Apr2025 20:26:06.709] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:60894] logged in with entity id 12316 at (182.75652174789997, 86.0, 3899.659968775296)
+[26Apr2025 20:26:06.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[26Apr2025 20:35:52.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Voluntary Exile]
+[26Apr2025 20:43:47.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Mining 10]
+[26Apr2025 20:45:52.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Saved the game]
+[26Apr2025 20:48:34.887] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=93, y=-36, z=1955}
+[26Apr2025 20:55:58.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Set own game mode to Survival Mode]

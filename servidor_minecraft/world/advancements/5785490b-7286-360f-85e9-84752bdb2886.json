@@ -6503,6 +6503,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/deathword": {
+    "criteria": {
+      "kill": "2025-04-26 20:56:01 +0000"
+    },
+    "done": true
+  },
   "betterskills:mining_9": {
     "criteria": {
       "mining_9_0": "2025-04-26 20:14:05 +0000"
@@ -6512,6 +6518,12 @@
   "betterskills:mining_8": {
     "criteria": {
       "mining_8_0": "2025-04-26 19:52:36 +0000"
+    },
+    "done": true
+  },
+  "betterskills:mining_10": {
+    "criteria": {
+      "mining_10_0": "2025-04-26 20:43:47 +0000"
     },
     "done": true
   },

@@ -6237,6 +6237,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-04-26 20:35:52 +0000"
+    },
+    "done": true
+  },
   "betterskills:foraging_7": {
     "criteria": {
       "foraging_7_0": "2025-04-26 20:15:23 +0000"
