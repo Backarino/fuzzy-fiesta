@@ -84,7 +84,8 @@
   },
   "morevillagers:all_villages": {
     "criteria": {
-      "plains": "2025-04-20 20:36:02 +0000"
+      "plains": "2025-04-20 20:36:02 +0000",
+      "savanna": "2025-04-26 21:38:18 +0000"
     },
     "done": false
   },
@@ -1105,6 +1106,7 @@
     "criteria": {
       "cartographytable": "2025-04-20 21:05:27 +0000",
       "brewingstand": "2025-04-20 20:53:13 +0000",
+      "grindstone": "2025-04-26 21:37:29 +0000",
       "blastfurnace": "2025-04-20 20:48:58 +0000"
     },
     "done": false
@@ -3049,6 +3051,7 @@
       "old_growth_woodland": "2025-04-23 04:23:55 +0000",
       "lavender_forest": "2025-04-25 04:33:56 +0000",
       "moor": "2025-04-20 22:54:44 +0000",
+      "mediterranean_forest": "2025-04-26 21:38:17 +0000",
       "spider_nest": "2025-04-20 21:39:01 +0000",
       "redwood_forest": "2025-04-25 04:35:53 +0000",
       "rocky_rainforest": "2025-04-20 22:54:21 +0000",
@@ -6237,9 +6240,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 21:36:34 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/voluntary_exile": {
     "criteria": {
       "voluntary_exile": "2025-04-26 20:35:52 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 21:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 21:36:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 21:36:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:club": {
+    "criteria": {
+      "has_club": "2025-04-26 21:38:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-04-26 21:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-04-26 21:36:39 +0000"
     },
     "done": true
   },
@@ -6255,9 +6300,51 @@
     },
     "done": true
   },
+  "spartanweaponry:pike": {
+    "criteria": {
+      "has_pike": "2025-04-26 21:38:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-04-26 21:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-04-26 21:36:39 +0000"
+    },
+    "done": true
+  },
   "morevillagers:recipes/woodworking_table": {
     "criteria": {
       "has_leaves": "2025-04-26 20:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/hero_of_the_village": {
+    "criteria": {
+      "hero_of_the_village": "2025-04-26 21:41:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-26 21:36:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 21:36:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:quarterstaff": {
+    "criteria": {
+      "has_quarterstaff": "2025-04-26 21:38:37 +0000"
     },
     "done": true
   },

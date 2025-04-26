@@ -1780,3 +1780,14 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [26Apr2025 20:45:52.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Saved the game]
 [26Apr2025 20:48:34.887] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=93, y=-36, z=1955}
 [26Apr2025 20:55:58.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Set own game mode to Survival Mode]
+[26Apr2025 21:09:41.335] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=407, y=79, z=1624}
+[26Apr2025 21:16:37.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mining 7]
+[26Apr2025 21:31:41.104] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/48029, l='ServerLevel[world]', x=14.50, y=50.00, z=1180.50]
+[26Apr2025 21:32:57.417] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SILVERTAKU lost connection: Disconnected
+[26Apr2025 21:32:57.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU left the game
+[26Apr2025 21:38:25.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Pike Off!]
+[26Apr2025 21:38:30.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Going Clubbing]
+[26Apr2025 21:38:37.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [A not-so-pointy Stick!]
+[26Apr2025 21:39:16.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Voluntary Exile]
+[26Apr2025 21:41:00.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has completed the challenge [Hero of the Village]
+[26Apr2025 21:41:00.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has completed the challenge [Hero of the Village]
