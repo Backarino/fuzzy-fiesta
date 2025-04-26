@@ -1044,6 +1044,7 @@
       "cooked_beef": "2025-04-20 22:28:22 +0000",
       "baked_potato": "2025-04-22 04:30:24 +0000",
       "apple": "2025-04-20 21:10:21 +0000",
+      "potato": "2025-04-26 03:25:03 +0000",
       "cooked_cod": "2025-04-23 05:13:19 +0000",
       "mutton": "2025-04-23 04:16:48 +0000",
       "bread": "2025-04-20 20:57:25 +0000",
@@ -6626,6 +6627,78 @@
   "endrem:main/root": {
     "criteria": {
       "cryptic_eye": "2025-04-25 04:56:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/brown_dye": {
+    "criteria": {
+      "has_cocoa_beans": "2025-04-26 03:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-26 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cookie": {
+    "criteria": {
+      "has_cocoa": "2025-04-26 03:09:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-26 03:12:49 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/bug_net": {
+    "criteria": {
+      "has_bamboo": "2025-04-26 03:30:58 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-04-26 03:40:04 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/mimic": {
+    "criteria": {
+      "kill": "2025-04-26 03:39:07 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/flesh_lich": {
+    "criteria": {
+      "kill": "2025-04-26 03:39:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-04-26 03:11:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-04-26 03:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-04-26 03:30:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-04-26 03:30:58 +0000"
     },
     "done": true
   },
