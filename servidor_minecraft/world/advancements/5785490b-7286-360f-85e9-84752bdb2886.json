@@ -6553,6 +6553,12 @@
     },
     "done": true
   },
+  "minecraft:nether/brew_potion": {
+    "criteria": {
+      "potion": "2025-04-27 03:03:28 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_bricks_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-27 02:36:08 +0000"
@@ -6562,6 +6568,12 @@
   "minecraft:recipes/building_blocks/stone_slab": {
     "criteria": {
       "has_stone": "2025-04-27 02:36:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-27 03:15:27 +0000"
     },
     "done": true
   },
@@ -6607,6 +6619,18 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_from_smelting": {
+    "criteria": {
+      "has_item": "2025-04-27 02:58:52 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/gold_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-04-27 03:15:27 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_pickaxe": {
     "criteria": {
       "has_the_recipe": "2025-04-27 02:32:08 +0000"
@@ -6649,9 +6673,21 @@
     },
     "done": true
   },
+  "forbidden_arcanus:recipes/misc/blasting/arcane_crystal_from_blasting": {
+    "criteria": {
+      "has_item": "2025-04-27 02:58:52 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/diamond_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-04-27 02:42:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_horse_armor": "2025-04-27 03:15:27 +0000"
     },
     "done": true
   },
@@ -6670,6 +6706,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/rune_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-04-27 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/arcane_crystal_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-04-27 02:58:52 +0000"
     },
     "done": true
   },
@@ -6748,6 +6790,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-04-27 02:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-04-27 03:00:04 +0000"
     },
     "done": true
   },

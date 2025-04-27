@@ -58,6 +58,7 @@
       "minecraft:deep_ocean": "2025-04-24 03:40:16 +0000",
       "minecraft:eroded_badlands": "2025-04-20 23:04:44 +0000",
       "minecraft:sunflower_plains": "2025-04-24 02:10:28 +0000",
+      "minecraft:cherry_grove": "2025-04-27 03:14:12 +0000",
       "minecraft:birch_forest": "2025-04-22 02:59:11 +0000",
       "minecraft:bamboo_jungle": "2025-04-20 21:28:48 +0000",
       "minecraft:badlands": "2025-04-20 23:04:23 +0000",
@@ -7302,6 +7303,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-04-27 02:59:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/dragon_flute": {
     "criteria": {
       "bestiary": "2025-04-27 02:54:41 +0000"
@@ -7329,6 +7336,12 @@
   "spartanweaponry:battleaxe": {
     "criteria": {
       "has_battleaxe": "2025-04-27 01:56:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/diamond_smithing": {
+    "criteria": {
+      "has_diamond": "2025-04-27 03:01:10 +0000"
     },
     "done": true
   },
