@@ -7084,6 +7084,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 23:32:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2025-04-26 22:21:34 +0000"
@@ -7102,9 +7108,27 @@
     },
     "done": true
   },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 23:32:30 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/forest_troll_leather_boots": {
     "criteria": {
       "has_item": "2025-04-26 22:35:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 23:32:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 23:32:30 +0000"
     },
     "done": true
   },
@@ -7123,6 +7147,12 @@
   "betterskills:mining_8": {
     "criteria": {
       "mining_8_0": "2025-04-26 22:45:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_egg": {
+    "criteria": {
+      "egg": "2025-04-26 23:27:20 +0000"
     },
     "done": true
   },
@@ -7159,6 +7189,12 @@
   "iceandfire:recipes/combat/armor_copper_chestplate": {
     "criteria": {
       "has_item": "2025-04-26 22:25:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye_from_smelting": {
+    "criteria": {
+      "has_sea_pickle": "2025-04-26 23:27:28 +0000"
     },
     "done": true
   },
@@ -7210,9 +7246,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-26 23:32:30 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/building_blocks/arcane_chiseled_darkstone": {
     "criteria": {
       "has_darkstone": "2025-04-26 22:46:14 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_get_voidquartz": {
+    "criteria": {
+      "iter_get_voidquartz_0": "2025-04-26 23:41:35 +0000"
     },
     "done": true
   },

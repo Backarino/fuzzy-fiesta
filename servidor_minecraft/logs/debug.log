@@ -9154,3 +9154,1081 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [26Apr2025 23:23:40.379] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [26Apr2025 23:23:40.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
 [26Apr2025 23:23:54.055] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-621, y=-29, z=-655} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:24:03.853] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2003ms or 40 ticks behind
+[26Apr2025 23:24:04.995] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:24:05.199] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:24:05.376] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:24:05.503] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:24:06.155] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=-843, y=-17, z=-299} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:24:06.752] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:24:06.926] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:24:07.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:24:07.826] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:24:07.955] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:24:16.236] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:24:17.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:24:19.552] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:24:22.077] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3228ms or 64 ticks behind
+[26Apr2025 23:26:01.089] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:26:10.037] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-382, y=28, z=-753} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:26:13.108] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:26:13.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:26:13.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:26:24.422] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:26:24.433] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:26:24.927] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2078ms or 41 ticks behind
+[26Apr2025 23:26:26.515] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:26:26.844] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:26:36.485] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:26:36.704] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:26:37.182] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:26:47.492] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:26:47.590] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:26:53.261] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:26:56.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:26:59.946] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:27:00.435] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:27:01.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:27:18.386] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2086ms or 41 ticks behind
+[26Apr2025 23:27:20.701] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Mother of Dragons]
+[26Apr2025 23:27:23.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved wrongly!
+[26Apr2025 23:27:31.283] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:27:31.996] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:27:32.189] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-834, y=-9, z=-780} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:27:35.295] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:cavespiderboss at BlockPos{x=-980, y=-34, z=-744} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:27:45.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:28:04.675] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:28:06.873] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:28:09.327] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:28:15.128] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:28:15.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:28:16.077] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:28:24.025] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:28:26.960] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:28:27.340] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:28:34.727] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:28:35.076] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:28:35.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:28:57.527] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:12.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:12.279] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:12.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:12.573] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:12.827] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:13.280] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:13.431] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:13.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:13.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:14.726] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:15.127] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:15.822] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:18.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:19.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:46.602] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:47.091] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:47.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:49.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:50.373] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:50.802] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:52.265] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:52.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:53.066] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:29:54.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[26Apr2025 23:29:55.032] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-614, y=6, z=-857} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:30:09.746] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved wrongly!
+[26Apr2025 23:30:15.744] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved wrongly!
+[26Apr2025 23:30:19.760] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:30:20.473] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-477, y=49, z=-907} at Chest with:minecraft:chests/underwater_ruin_small
+[26Apr2025 23:30:22.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[26Apr2025 23:30:42.407] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:30:47.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:30:48.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[26Apr2025 23:30:48.744] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:30:49.140] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:30:49.823] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:31:00.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:31:14.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:31:26.987] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:31:26.996] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:31:28.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:31:56.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[26Apr2025 23:32:09.103] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=-423, y=-31, z=-951} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:32:11.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:32:23.491] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 moved too quickly! -10.824006179039202,1.4006365169363306,-0.4137814767512964
+[26Apr2025 23:32:30.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:32:41.422] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:32:42.086] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:32:43.148] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:32:43.774] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:32:47.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:33:13.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[26Apr2025 23:34:04.636] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=-557, y=-45, z=-1175} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:34:14.108] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:34:16.192] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:34:17.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:34:29.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:34:36.393] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=187.60, y=-8.56, z=1251.48]
+[26Apr2025 23:34:36.418] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=187.60, y=-8.56, z=1251.48]
+[26Apr2025 23:34:36.445] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=187.60, y=-8.56, z=1251.48]
+[26Apr2025 23:34:36.465] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=187.60, y=-8.56, z=1251.48]
+[26Apr2025 23:34:36.484] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=187.60, y=-8.56, z=1251.48]
+[26Apr2025 23:34:36.502] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=187.60, y=-8.56, z=1251.48]
+[26Apr2025 23:34:36.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=187.60, y=-8.56, z=1251.48]
+[26Apr2025 23:34:36.544] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=187.60, y=-8.56, z=1251.48]
+[26Apr2025 23:34:36.562] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=187.60, y=-8.56, z=1251.48]
+[26Apr2025 23:34:36.579] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=187.60, y=-8.56, z=1251.48]
+[26Apr2025 23:34:36.601] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=187.60, y=-8.56, z=1251.48]
+[26Apr2025 23:34:36.625] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=187.60, y=-8.56, z=1251.48]
+[26Apr2025 23:34:36.667] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=187.60, y=-8.56, z=1251.48]
+[26Apr2025 23:34:36.720] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=188.24, y=-8.56, z=1251.83]
+[26Apr2025 23:34:36.767] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:36.818] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:36.868] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:36.902] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:36.934] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:36.989] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:37.031] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:37.091] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:37.135] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:37.202] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:37.246] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:37.280] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:37.342] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:37.381] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:37.439] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=191.13, y=-8.56, z=1252.93]
+[26Apr2025 23:34:37.492] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=193.71, y=-6.62, z=1253.68]
+[26Apr2025 23:34:37.537] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=194.06, y=-6.62, z=1253.88]
+[26Apr2025 23:34:37.578] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=194.26, y=-6.62, z=1253.98]
+[26Apr2025 23:34:37.651] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=194.26, y=-6.62, z=1254.04]
+[26Apr2025 23:34:37.688] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=194.46, y=-6.62, z=1254.07]
+[26Apr2025 23:34:37.734] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=194.88, y=-6.62, z=1254.09]
+[26Apr2025 23:34:37.783] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.09]
+[26Apr2025 23:34:37.836] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:37.879] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:37.965] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.018] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.076] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.112] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.139] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.184] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.233] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.280] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.328] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.386] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.429] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.493] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.537] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.592] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.627] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.684] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.731] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.789] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.844] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.880] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.925] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:38.971] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.056] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.150] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.237] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.325] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.405] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.496] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.581] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.661] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.741] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.801] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.834] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.870] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.896] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.924] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.953] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:39.980] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.009] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:34:40.055] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.084] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.114] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.146] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.172] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.196] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.225] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.265] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.314] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.351] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.386] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.461] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.492] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.525] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.603] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.685] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.772] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.859] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:40.933] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:34:41.010] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: EntityDragonPart['Dragon Part'/123258, l='ServerLevel[world]', x=195.10, y=-6.62, z=1254.10]
+[26Apr2025 23:35:03.109] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-283, y=-48, z=-817} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:35:17.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:35:47.062] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-264, y=-11, z=-1179} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:35:48.776] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:36:26.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:36:26.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:39:18.116] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=-191, y=-17, z=-964} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:39:21.652] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[26Apr2025 23:39:35.785] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:39:35.982] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:39:36.137] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:39:36.331] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:39:37.690] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:39:37.690] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[26Apr2025 23:39:38.885] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:39:39.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:39:39.240] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:39:39.389] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:39:39.587] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:39:39.785] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:39:56.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[26Apr2025 23:40:52.469] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-172, y=-3, z=-1267} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:40:56.166] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-257, y=-45, z=-1324} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:41:05.446] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:41:05.659] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:41:05.800] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:41:07.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:41:16.167] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-150, y=-41, z=-1371} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:41:26.897] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:41:26.907] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:41:35.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Staring into the Void]
+[26Apr2025 23:42:17.763] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-149, y=47, z=-1394} but found not block entity block Block{minecraft:prismarine_bricks} at location
+[26Apr2025 23:42:17.763] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:prismarine_bricks} but failed at location BlockPos{x=-149, y=47, z=-1394}
+[26Apr2025 23:42:17.763] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-147, y=48, z=-1395} but found not block entity block Block{minecraft:water}[level=0] at location
+[26Apr2025 23:42:17.764] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:water}[level=0] but failed at location BlockPos{x=-147, y=48, z=-1395}
+[26Apr2025 23:42:17.764] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-149, y=47, z=-1395} but found not block entity block Block{minecraft:prismarine_bricks} at location
+[26Apr2025 23:42:17.764] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:prismarine_bricks} but failed at location BlockPos{x=-149, y=47, z=-1395}
+[26Apr2025 23:42:17.764] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-148, y=47, z=-1393} but found not block entity block Block{minecraft:prismarine_bricks} at location
+[26Apr2025 23:42:17.764] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:prismarine_bricks} but failed at location BlockPos{x=-148, y=47, z=-1393}
+[26Apr2025 23:42:49.338] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:42:51.475] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:42:51.475] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[26Apr2025 23:42:54.098] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:42:54.099] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[26Apr2025 23:42:55.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:42:55.887] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[26Apr2025 23:42:57.945] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:05.646] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:05.838] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:05.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:06.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:06.230] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:07.033] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:07.480] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:08.179] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:09.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:09.481] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:09.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:43:32.837] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:33.029] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:33.210] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:33.446] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:43.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 suffocated in a wall whilst fighting Lightning Dragon
+[26Apr2025 23:43:54.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:43:58.939] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:59.632] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:59.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:43:59.821] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:00.015] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:00.319] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:01.036] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:01.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:01.351] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:01.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:01.989] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:02.155] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:02.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:02.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:03.861] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:03.892] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:05.312] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:05.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:06.332] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:06.333] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:06.872] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:07.765] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:07.766] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:08.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:44:08.786] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:09.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:20.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:21.725] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:22.835] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:23.373] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:24.222] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:34.724] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:35.890] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:44:40.854] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 was kicked for floating too long!
+[26Apr2025 23:44:40.881] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 lost connection: Flying is not enabled on this server
+[26Apr2025 23:44:40.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 left the game
+[26Apr2025 23:44:57.081] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 37 messages to dispatch.
+[26Apr2025 23:44:57.126] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[26Apr2025 23:44:57.176] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[26Apr2025 23:44:57.231] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[26Apr2025 23:44:57.280] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:villager_profession' to 'fml:handshake' sequence 3
+[26Apr2025 23:44:57.296] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[26Apr2025 23:44:57.297] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[26Apr2025 23:44:57.297] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [taxva, betterskills, xenon, rubidium, embeddium, riskofrain_mobs, geckolib, realmrpg_demons, jei, visualworkbench, naturalist, ants_unleashed, valhelsia_furniture, realmrpg_skeletons, epicfight, journeymap, integrated_api, citadel, alexsmobs, travelersbackpack, mixinextras, mirabilis, hopour, grimoireofgaia, iceandfire, orcz, bosses_of_mass_destruction, swampier_swamps, morevanillashields, puzzlesaccessapi, cloth_config, forge, iter_rpg, zillagersweararmor, minecraft, morevillagers, terrablender, ambientsounds, bloodandmadness, netherdungeons, taxcp, biomesoplenty, endrem, justenoughbreeding, hoporp, creativecore, forbidden_arcanus, lionfishapi, philipsruins, cataclysm, curios, spartanshields, brutalbosses, gravestone, cerbons_api, seadwellers, endreborn, crittersandcompanions, spartanweaponry, mvs, cupboard, puzzleslib, smallships, valhelsia_core]
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of '1.0.0' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:version' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'travelersbackpack:network' : Version test of 'travelersbackpack:1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forbidden_arcanus:channel' : Version test of '1.0' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'crittersandcompanions:main' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_req' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cataclysm:main_channel' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:waypoint' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'lionfishapi:main_channel' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iter_rpg:iter_rpg' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'alexsmobs:main_channel' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'realmrpg_skeletons:realmrpg_skeletons' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'creativecore:main' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mirabilis:mirabilis' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:teleport_req' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'epicfight:network_manager' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ants_unleashed:ants_unleashed' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:common' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanweaponry:network' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'seadwellers:seadwellers' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'orcz:orcz' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'swampier_swamps:net' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'puzzleslib:1' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'taxva:taxva' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bosses_of_mass_destruction:packets' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'curios:main' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'worldinfo:world_id' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'betterskills:betterskills' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.298] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:mp_options_req' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'cerbons_api:packets' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spartanshields:network' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'bloodandmadness:main' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'realmrpg_demons:realmrpg_demons' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'brutalbosses:main' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:player_loc' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:admin_save' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of '1.0.0' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'smallships:default' : Version test of '1.0.0' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'journeymap:perm_req' : Version test of '1' from client : ACCEPTED
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Accepting channel list from client
+[26Apr2025 23:44:57.299] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Accepted client connection mod list
+[26Apr2025 23:44:57.318] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 2
+[26Apr2025 23:44:57.319] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 2 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:57.319] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:57.334] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:item' to 'fml:handshake' sequence 4
+[26Apr2025 23:44:57.366] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 3
+[26Apr2025 23:44:57.367] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 3 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:57.367] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:57.380] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:potion' to 'fml:handshake' sequence 5
+[26Apr2025 23:44:57.431] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block_entity_type' to 'fml:handshake' sequence 6
+[26Apr2025 23:44:57.487] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:display_contexts' to 'fml:handshake' sequence 7
+[26Apr2025 23:44:57.533] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:oil_effects' to 'fml:handshake' sequence 8
+[26Apr2025 23:44:57.581] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry spartanweaponry:weapon_traits' to 'fml:handshake' sequence 9
+[26Apr2025 23:44:57.613] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 4
+[26Apr2025 23:44:57.613] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 4 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:57.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:57.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 5
+[26Apr2025 23:44:57.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 5 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:57.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:57.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 6
+[26Apr2025 23:44:57.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 6 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:57.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:57.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 7
+[26Apr2025 23:44:57.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 7 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:57.614] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:57.619] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 8
+[26Apr2025 23:44:57.620] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 8 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:57.620] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:57.657] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:stat_type' to 'fml:handshake' sequence 10
+[26Apr2025 23:44:57.667] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 9
+[26Apr2025 23:44:57.668] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 9 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:57.668] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:57.725] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:menu' to 'fml:handshake' sequence 11
+[26Apr2025 23:44:57.743] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 10
+[26Apr2025 23:44:57.743] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 10 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:57.743] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:57.796] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forbidden_arcanus:ritual_result' to 'fml:handshake' sequence 12
+[26Apr2025 23:44:57.811] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 11
+[26Apr2025 23:44:57.811] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 11 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:57.811] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:57.861] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:fluid' to 'fml:handshake' sequence 13
+[26Apr2025 23:44:57.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 12
+[26Apr2025 23:44:57.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 12 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:57.885] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:57.925] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 14
+[26Apr2025 23:44:57.947] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 13
+[26Apr2025 23:44:57.947] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 13 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:57.947] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:57.991] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:sound_event' to 'fml:handshake' sequence 15
+[26Apr2025 23:44:58.012] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 14
+[26Apr2025 23:44:58.012] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 14 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.012] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.057] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:particle_type' to 'fml:handshake' sequence 16
+[26Apr2025 23:44:58.089] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 15
+[26Apr2025 23:44:58.089] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 15 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.089] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.124] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:epicfightanimation' to 'fml:handshake' sequence 17
+[26Apr2025 23:44:58.145] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 16
+[26Apr2025 23:44:58.145] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 16 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.145] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.195] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:painting_variant' to 'fml:handshake' sequence 18
+[26Apr2025 23:44:58.210] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 17
+[26Apr2025 23:44:58.210] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 17 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.210] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.270] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:skill_data_keys' to 'fml:handshake' sequence 19
+[26Apr2025 23:44:58.281] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 18
+[26Apr2025 23:44:58.281] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 18 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.281] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.362] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 19
+[26Apr2025 23:44:58.362] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 19 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.362] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.377] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:fluid_type' to 'fml:handshake' sequence 20
+[26Apr2025 23:44:58.442] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:block' to 'fml:handshake' sequence 21
+[26Apr2025 23:44:58.464] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 20
+[26Apr2025 23:44:58.464] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 20 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.464] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.509] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forge:entity_data_serializers' to 'fml:handshake' sequence 22
+[26Apr2025 23:44:58.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 21
+[26Apr2025 23:44:58.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 21 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.541] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.577] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:mob_effect' to 'fml:handshake' sequence 23
+[26Apr2025 23:44:58.595] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 22
+[26Apr2025 23:44:58.595] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 22 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.595] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.638] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forbidden_arcanus:mundabitur_interaction' to 'fml:handshake' sequence 24
+[26Apr2025 23:44:58.653] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry epicfight:conditions' to 'fml:handshake' sequence 25
+[26Apr2025 23:44:58.663] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 23
+[26Apr2025 23:44:58.663] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 23 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.663] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.677] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forbidden_arcanus:item_modifier' to 'fml:handshake' sequence 26
+[26Apr2025 23:44:58.690] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:enchantment' to 'fml:handshake' sequence 27
+[26Apr2025 23:44:58.703] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:entity_type' to 'fml:handshake' sequence 28
+[26Apr2025 23:44:58.719] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry forbidden_arcanus:hephaestus_forge/input_type' to 'fml:handshake' sequence 29
+[26Apr2025 23:44:58.724] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 24
+[26Apr2025 23:44:58.724] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 24 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.724] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.735] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config journeymap-server.toml' to 'fml:handshake' sequence 30
+[26Apr2025 23:44:58.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 25
+[26Apr2025 23:44:58.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 25 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.739] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.747] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config curios-server.toml' to 'fml:handshake' sequence 31
+[26Apr2025 23:44:58.758] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config gravestone-server.toml' to 'fml:handshake' sequence 32
+[26Apr2025 23:44:58.766] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 26
+[26Apr2025 23:44:58.766] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 26 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.766] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.775] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 27
+[26Apr2025 23:44:58.776] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 27 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.776] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.789] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config riskofrain_mobs-server.toml' to 'fml:handshake' sequence 33
+[26Apr2025 23:44:58.791] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 28
+[26Apr2025 23:44:58.791] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 28 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:44:58.791] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:44:58.857] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config morevanillashields-server.toml' to 'fml:handshake' sequence 34
+[26Apr2025 23:44:58.927] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config jei-server.toml' to 'fml:handshake' sequence 35
+[26Apr2025 23:44:58.967] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Config forge-server.toml' to 'fml:handshake' sequence 36
+[26Apr2025 23:45:01.432] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 29
+[26Apr2025 23:45:01.432] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 29 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:45:01.432] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:45:01.494] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 30
+[26Apr2025 23:45:01.494] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 30 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:45:01.494] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:45:01.500] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 31
+[26Apr2025 23:45:01.500] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 31 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:45:01.500] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:45:01.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 32
+[26Apr2025 23:45:01.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 32 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:45:01.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:45:01.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 33
+[26Apr2025 23:45:01.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 33 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:45:01.509] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:45:01.510] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 34
+[26Apr2025 23:45:01.510] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 34 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:45:01.510] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:45:01.510] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 35
+[26Apr2025 23:45:01.510] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 35 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:45:01.510] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:45:01.522] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 36
+[26Apr2025 23:45:01.522] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 36 of type net.minecraftforge.network.HandshakeMessages$C2SAcknowledge
+[26Apr2025 23:45:01.522] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received acknowledgement from client
+[26Apr2025 23:45:01.571] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Handshake complete!
+[26Apr2025 23:45:01.630] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:56684] logged in with entity id 138858 at (-560.5077538009041, 82.79742243660641, -1057.9123622001914)
+[26Apr2025 23:45:01.630] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@7ff2919d into net.minecraft.network.Connection@fb109e
+[26Apr2025 23:45:01.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[26Apr2025 23:45:02.325] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.349] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.366] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.390] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.410] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.429] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.445] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.465] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.483] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.508] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.529] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.553] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.571] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.594] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.617] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.642] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.661] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.678] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.698] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.723] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.742] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.774] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.843] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.885] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.952] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:02.990] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:03.039] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:03.089] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:03.146] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:03.191] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:03.238] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:03.285] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:03.343] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:03.396] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:03.424] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:03.495] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:29.931] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:30.630] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:30.688] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:30.727] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:30.781] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:30.831] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:30.891] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:30.928] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.008] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.009] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:31.035] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.085] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.131] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.185] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.227] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.296] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.330] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.386] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.427] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.495] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.527] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.583] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.623] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.693] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.725] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.787] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.826] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.889] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.925] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:31.987] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.037] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.087] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.127] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.183] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.225] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.286] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.329] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.388] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.427] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.427] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:32.500] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.540] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.583] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.626] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:32.687] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:45:46.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:46.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[26Apr2025 23:45:46.022] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:46.944] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:47.668] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:47.943] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:48.989] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:49.330] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:49.497] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:50.086] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:50.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:50.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:51.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:51.781] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:52.384] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:52.426] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:53.225] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:54.086] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:54.087] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:55.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:55.186] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:55.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Economy]
+[26Apr2025 23:45:56.287] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:56.892] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:58.042] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:58.583] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:59.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:45:59.436] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:46:00.935] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:46:16.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:46:23.750] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:46:24.396] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:46:25.011] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:46:26.876] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:46:27.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:46:27.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:46:27.494] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:46:27.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:47:01.581] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:02.177] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:02.973] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:03.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:23.816] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:47:32.644] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:33.386] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:34.230] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:35.518] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:36.119] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:36.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:37.884] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:37.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:47:37.946] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved wrongly!
+[26Apr2025 23:47:37.986] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:43.879] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:44.423] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:48.773] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:49.530] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:50.451] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:51.618] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:51.826] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:52.678] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:52.750] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:53.508] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:47:53.509] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:48:10.897] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:48:13.686] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:48:18.544] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:48:20.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[26Apr2025 23:48:41.791] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:48:52.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:49:04.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:49:04.567] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:49:14.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:49:22.821] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:49:23.316] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:49:24.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[26Apr2025 23:49:49.517] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:49:50.609] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:49:50.886] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:49:51.229] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:49:51.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:49:51.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:50:01.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:50:11.992] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:50:12.297] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:50:13.136] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:50:13.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:50:22.036] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:50:22.343] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:50:22.696] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:50:24.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:50:41.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:50:52.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:51:04.733] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:51:14.185] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:51:14.349] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:51:14.416] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:51:23.792] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:51:23.986] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:51:24.186] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:51:24.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:51:24.408] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:51:26.894] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:51:26.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:51:33.490] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:51:34.076] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:51:34.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:51:39.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 moved too quickly! -10.76625077120832,0.07150285958510239,-1.0599456286872737
+[26Apr2025 23:51:41.119] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:51:43.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:52:11.238] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evokersummoner at BlockPos{x=-853, y=-32, z=-1115} at Chest with:minecraft:chests/simple_dungeon
+[26Apr2025 23:52:16.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:52:26.845] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:27.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 suffocated in a wall whilst fighting Lightning Dragon
+[26Apr2025 23:52:28.359] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved wrongly!
+[26Apr2025 23:52:29.616] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:30.584] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:30.983] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:31.132] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:31.188] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:31.240] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:31.294] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:31.341] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:31.413] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:31.489] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:31.569] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.510] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.533] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.548] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.565] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:32.565] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.582] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.599] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.617] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.648] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.706] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.729] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.749] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.766] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.787] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.803] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.818] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.830] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.841] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.855] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.872] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.887] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.900] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:32.900] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.912] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.926] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.937] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.951] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.965] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.978] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:32.990] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.004] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.020] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.069] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.117] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.140] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.180] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.238] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.288] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.345] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.395] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.430] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.502] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:33.503] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.540] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.589] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.639] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.698] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.722] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.834] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.878] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.916] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.949] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:33.974] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.047] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:34.047] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.091] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.164] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.213] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.240] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.295] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.358] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.395] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:34.395] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.430] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.506] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.546] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.583] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.666] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.755] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.839] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:34.963] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.037] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.116] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.200] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.273] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.350] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.403] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.431] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.451] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.471] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.497] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.520] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.542] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.561] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.584] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.612] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.634] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.677] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.723] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.764] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.795] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:35.867] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:36.345] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[26Apr2025 23:52:37.192] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:37.262] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:37.307] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:37.332] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:37.364] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:37.404] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:37.426] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:37.474] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:37.527] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:37.570] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:37.614] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:37.679] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:37.715] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:38.103] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:38.315] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[26Apr2025 23:52:40.325] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:40.556] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:43.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:43.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:51.924] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:51.925] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[26Apr2025 23:52:52.719] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:52.980] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:53.342] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:53.342] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[26Apr2025 23:52:53.419] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:53.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:53.941] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[26Apr2025 23:52:54.130] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:54.988] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:54.988] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[26Apr2025 23:52:55.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:55.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:55.650] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:56.385] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:56.488] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:56.489] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:57.049] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:57.252] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:57.619] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:57.620] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:58.259] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:59.116] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:59.146] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:52:59.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:53:08.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:08.922] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:09.620] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:10.563] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:12.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:12.445] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:12.702] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:12.901] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:13.056] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:13.298] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:13.577] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:14.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:53:19.651] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:20.121] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:20.772] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:21.524] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:22.681] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:27.291] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:28.238] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:28.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:29.002] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:29.201] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:29.393] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:29.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:53:40.847] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:41.753] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:42.489] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:43.239] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:43.729] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:45.120] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:45.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:45.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:53:55.235] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:56.846] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:57.300] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:57.779] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:53:58.189] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[26Apr2025 23:54:11.671] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:54:11.869] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:54:13.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was doomed to fall by Lightning Dragon
+[26Apr2025 23:55:02.051] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:55:02.933] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:55:04.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:55:40.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Best Friends Forever]
+[26Apr2025 23:55:59.540] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:56:00.144] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:56:01.277] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:56:01.624] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:56:02.327] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:56:26.881] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:56:26.891] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:56:32.284] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:56:32.285] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved too quickly! -7.690887431446924,-0.2336320060424839,6.543779874170468
+[26Apr2025 23:56:32.362] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:56:33.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:57:04.105] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:04.105] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[26Apr2025 23:57:04.106] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[26Apr2025 23:57:04.109] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 11.5 Armor value: 19.0 Damage ignoring armor (50.0% damage): 5.75 Damage not ignoring armor: 5.75 Reduced Damage: 2.0412502 Result Damage: 7.79125
+[26Apr2025 23:57:04.459] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:04.459] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[26Apr2025 23:57:04.459] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[26Apr2025 23:57:04.459] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 8.986157 Armor value: 19.0 Damage ignoring armor (50.0% damage): 4.4930787 Damage not ignoring armor: 4.4930787 Reduced Damage: 1.482094 Result Damage: 5.975173
+[26Apr2025 23:57:04.944] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:04.944] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[26Apr2025 23:57:04.944] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[26Apr2025 23:57:04.944] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 8.986157 Armor value: 19.0 Damage ignoring armor (50.0% damage): 4.4930787 Damage not ignoring armor: 4.4930787 Reduced Damage: 1.482094 Result Damage: 5.975173
+[26Apr2025 23:57:06.400] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:06.400] [Server thread/DEBUG] [Spartan Weaponry/]: Set damage type to Armor Piercing
+[26Apr2025 23:57:06.401] [Server thread/DEBUG] [Spartan Weaponry/]: Found armor piercing damage source! Reducing armor value of target by 50.0%
+[26Apr2025 23:57:06.401] [Server thread/DEBUG] [Spartan Weaponry/]: Full damage: 11.5 Armor value: 19.0 Damage ignoring armor (50.0% damage): 5.75 Damage not ignoring armor: 5.75 Reduced Damage: 2.0412502 Result Damage: 7.79125
+[26Apr2025 23:57:08.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:57:21.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:57:21.301] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved wrongly!
+[26Apr2025 23:57:31.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:57:31.602] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved wrongly!
+[26Apr2025 23:57:43.205] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:45.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[26Apr2025 23:57:46.355] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:47.684] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:48.791] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:49.147] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:50.568] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:50.582] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:51.534] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:51.983] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:52.799] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:52.877] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:53.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:54.004] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:54.196] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:54.343] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:55.083] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:55.178] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:55.354] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:57:55.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:57:58.761] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:58:01.852] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 moved too quickly! 6.5682622561377,1.169619922044916,7.845249819011883
+[26Apr2025 23:58:03.196] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:58:03.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:58:04.701] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:58:05.274] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:58:05.596] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:58:06.053] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:58:15.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was doomed to fall by Lightning Dragon
+[26Apr2025 23:58:23.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[26Apr2025 23:58:47.129] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:58:47.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was doomed to fall by Lightning Dragon
+[26Apr2025 23:59:02.953] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:03.492] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:04.394] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:05.286] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:05.286] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved too quickly! 1.0622387188642222,-7.1137304443054195,10.309776290418085
+[26Apr2025 23:59:06.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was doomed to fall
+[26Apr2025 23:59:11.239] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:11.438] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:12.639] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:14.031] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:16.271] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:20.440] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:20.741] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved wrongly!
+[26Apr2025 23:59:30.529] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:31.225] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:31.933] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:33.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:33.771] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[26Apr2025 23:59:42.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[27Apr2025 00:00:05.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[27Apr2025 00:00:08.533] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:08.889] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:10.775] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:11.142] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:14.777] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by Lightning Dragon
+[27Apr2025 00:00:15.876] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved wrongly!
+[27Apr2025 00:00:24.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:24.978] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:25.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:26.747] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:26.977] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:30.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[27Apr2025 00:00:31.365] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:31.718] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:32.441] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:33.197] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:33.594] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:34.917] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:49.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[27Apr2025 00:00:51.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:52.942] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:54.921] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:55.381] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:56.028] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:57.773] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:00:58.824] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:22.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[27Apr2025 00:01:26.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 00:01:26.943] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 00:01:29.124] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:29.525] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:30.229] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:34.830] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:38.641] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3692ms or 73 ticks behind
+[27Apr2025 00:01:39.142] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:40.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[27Apr2025 00:01:41.714] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:42.363] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:44.528] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:47.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:54.166] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:54.264] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:55.103] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:55.126] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:55.602] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:55.640] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:56.159] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:56.633] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:56.710] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:57.046] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:01:57.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[27Apr2025 00:02:01.039] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:01.841] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:01.994] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:05.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 moved too quickly! -9.812682605176064,-1.251119903248366,2.8692358324854013
+[27Apr2025 00:02:06.574] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:11.779] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved too quickly! -9.278952591864595,-2.0,-3.666169155144871
+[27Apr2025 00:02:11.782] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 4833ms or 96 ticks behind
+[27Apr2025 00:02:11.811] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:12.392] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:12.883] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:13.313] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:13.748] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:14.208] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:14.613] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:14.641] [Server thread/DEBUG] [Spartan Weaponry/]: Player collision with arrow entity intercepted!
+[27Apr2025 00:02:15.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[27Apr2025 00:02:22.828] [Worker-Main-1/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:madcowboss at BlockPos{x=-1037, y=94, z=-1078} at Chest with:minecraft:chests/village/village_butcher
+[27Apr2025 00:02:34.516] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6317ms or 126 ticks behind
+[27Apr2025 00:02:38.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[27Apr2025 00:02:46.720] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:pillagerboss at BlockPos{x=-1078, y=-33, z=-791} at Chest with:minecraft:chests/simple_dungeon
+[27Apr2025 00:02:56.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:56.664] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved too quickly! -1.2931019698305306,0.9893499858739787,-10.005725418576048
+[27Apr2025 00:02:56.672] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6323ms or 126 ticks behind
+[27Apr2025 00:02:56.801] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:57.106] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:57.311] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:02:59.145] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[27Apr2025 00:02:59.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:03:11.896] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:03:11.897] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted EnchantmentHelper.getSweepingDamageRatio() method!
+[27Apr2025 00:03:12.649] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:03:14.055] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:03:18.223] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:03:19.570] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:03:20.746] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:03:20.927] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:03:21.634] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:03:36.882] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 00:03:39.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[27Apr2025 00:03:50.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was energized by Lightning Dragon
+[27Apr2025 00:04:12.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon
+[27Apr2025 00:04:42.524] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lightning Dragon

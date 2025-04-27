@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-04-26 23:42:00 +0000",
       "minecraft:birch_forest": "2025-04-20 22:57:31 +0000",
       "minecraft:bamboo_jungle": "2025-04-20 21:13:47 +0000",
       "minecraft:beach": "2025-04-20 20:37:00 +0000",
@@ -65,6 +66,8 @@
       "minecraft:grove": "2025-04-22 04:38:43 +0000",
       "minecraft:forest": "2025-04-20 21:02:21 +0000",
       "minecraft:jungle": "2025-04-20 21:14:29 +0000",
+      "minecraft:ocean": "2025-04-26 23:39:09 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-26 23:22:14 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-20 22:55:13 +0000",
       "minecraft:deep_dark": "2025-04-23 05:28:47 +0000",
       "minecraft:meadow": "2025-04-22 03:50:36 +0000",
@@ -2187,6 +2190,7 @@
       "mediterranean_forest": "2025-04-20 23:11:22 +0000",
       "spider_nest": "2025-04-20 21:39:16 +0000",
       "rocky_rainforest": "2025-04-20 22:54:23 +0000",
+      "grassland": "2025-04-26 23:52:25 +0000",
       "rainforest": "2025-04-20 21:32:58 +0000"
     },
     "done": false
@@ -5462,15 +5466,60 @@
     },
     "done": true
   },
-  "hopo:minecraft/adventure/locate_all_underwater_structures": {
-    "criteria": {
-      "locate_ruin_warm": "2025-04-26 23:20:58 +0000"
-    },
-    "done": false
-  },
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-04-26 23:19:12 +0000"
+    },
+    "done": true
+  },
+  "hopo:minecraft/adventure/locate_all_underwater_structures": {
+    "criteria": {
+      "locate_underwater_small_ruins": "2025-04-26 23:39:32 +0000",
+      "locate_ruin_warm": "2025-04-26 23:20:58 +0000",
+      "locate_monument": "2025-04-26 23:22:18 +0000",
+      "locate_underwater_warm_small_ruins": "2025-04-26 23:24:01 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-04-26 23:41:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/eye_armor_trim_smithing_template": {
+    "criteria": {
+      "has_eye_armor_trim_smithing_template": "2025-04-26 23:41:56 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/mummy": {
+    "criteria": {
+      "kill": "2025-04-26 23:44:03 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/gravemite": {
+    "criteria": {
+      "kill": "2025-04-26 23:44:03 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:economy": {
+    "criteria": {
+      "economy_0": "2025-04-26 23:45:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-04-26 23:55:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-26 23:51:14 +0000"
     },
     "done": true
   },
