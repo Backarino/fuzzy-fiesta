@@ -458,3 +458,11 @@
 [27Apr2025 00:23:02.562] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@56d593d9[id=<null>,name=SAURIO12,properties={},legacy=false] (/172.29.15.172:56728) lost connection: Disconnected
 [27Apr2025 00:23:18.832] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:56731] logged in with entity id 198467 at (-435.4637986862761, 91.0, 1141.464026190498)
 [27Apr2025 00:23:18.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[27Apr2025 00:26:08.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Hot Stuff]
+[27Apr2025 00:28:27.486] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 moved wrongly!
+[27Apr2025 00:30:32.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was turned to stone by Gorgon
+[27Apr2025 00:31:22.568] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 was kicked for floating too long!
+[27Apr2025 00:31:22.616] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 lost connection: Flying is not enabled on this server
+[27Apr2025 00:31:22.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 left the game
+[27Apr2025 00:31:40.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:56743] logged in with entity id 205425 at (-401.12081219593085, 66.87112733160977, 1159.9824001319018)
+[27Apr2025 00:31:40.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game

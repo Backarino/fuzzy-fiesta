@@ -7132,6 +7132,12 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-27 00:26:08 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/forest_troll_leather_leggings": {
     "criteria": {
       "has_item": "2025-04-26 22:35:43 +0000"
