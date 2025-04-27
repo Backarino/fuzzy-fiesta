@@ -5511,6 +5511,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-26 23:51:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/tame_an_animal": {
     "criteria": {
       "tamed_animal": "2025-04-26 23:55:40 +0000"
@@ -5520,12 +5526,6 @@
   "grimoireofgaia:main/shaman": {
     "criteria": {
       "kill": "2025-04-27 00:02:01 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/sea_lantern": {
-    "criteria": {
-      "has_prismarine_crystals": "2025-04-26 23:51:14 +0000"
     },
     "done": true
   },
