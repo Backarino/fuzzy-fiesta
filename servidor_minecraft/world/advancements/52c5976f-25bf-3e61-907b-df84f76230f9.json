@@ -20,6 +20,7 @@
       "minecraft:grove": "2025-04-22 04:39:25 +0000",
       "minecraft:forest": "2025-04-20 21:02:20 +0000",
       "minecraft:jungle": "2025-04-20 21:27:34 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-27 03:48:44 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-20 22:55:13 +0000",
       "minecraft:deep_dark": "2025-04-23 05:25:22 +0000",
       "minecraft:meadow": "2025-04-20 23:32:26 +0000",
@@ -3009,7 +3010,8 @@
       "minecraft:cave_spider": "2025-04-20 21:39:16 +0000",
       "minecraft:enderman": "2025-04-23 02:48:49 +0000",
       "minecraft:zombie": "2025-04-20 21:24:45 +0000",
-      "minecraft:drowned": "2025-04-26 21:48:36 +0000"
+      "minecraft:drowned": "2025-04-26 21:48:36 +0000",
+      "minecraft:zombie_villager": "2025-04-27 03:44:23 +0000"
     },
     "done": false
   },
@@ -3062,6 +3064,7 @@
       "redwood_forest": "2025-04-25 04:35:53 +0000",
       "rocky_rainforest": "2025-04-20 22:54:21 +0000",
       "lavender_field": "2025-04-25 04:35:47 +0000",
+      "grassland": "2025-04-27 03:51:22 +0000",
       "rainforest": "2025-04-20 21:32:49 +0000"
     },
     "done": false
@@ -6420,6 +6423,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/dragonarmor_gold_head": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 03:27:38 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragon_bone_block": {
     "criteria": {
       "has_dragonbone": "2025-04-26 22:17:04 +0000"
@@ -6534,6 +6543,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-04-27 03:41:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/pink_dye_from_peony": {
     "criteria": {
       "has_peony": "2025-04-26 22:24:41 +0000"
@@ -6549,6 +6564,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-04-26 21:54:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_neck": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 03:27:47 +0000"
     },
     "done": true
   },
@@ -6582,6 +6603,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonarmor": {
+    "criteria": {
+      "iron": "2025-04-27 03:27:39 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_electric_to_dragonscale_electric": {
     "criteria": {
       "has_dragonscales_electric": "2025-04-26 22:16:59 +0000"
@@ -6609,6 +6636,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-04-27 02:19:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_tail": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 03:28:02 +0000"
     },
     "done": true
   },
@@ -6795,6 +6828,12 @@
   "minecraft:recipes/misc/stick_from_bamboo_item": {
     "criteria": {
       "has_bamboo": "2025-04-26 22:44:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonarmor_gold_body": {
+    "criteria": {
+      "has_the_recipe": "2025-04-27 03:27:55 +0000"
     },
     "done": true
   },

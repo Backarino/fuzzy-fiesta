@@ -2531,6 +2531,7 @@
       "lavender_field": "2025-04-26 03:30:05 +0000",
       "grassland": "2025-04-20 22:16:01 +0000",
       "prairie": "2025-04-20 22:42:41 +0000",
+      "glowing_grotto": "2025-04-27 03:51:04 +0000",
       "rainforest": "2025-04-20 21:40:34 +0000",
       "crag": "2025-04-24 03:20:03 +0000"
     },
@@ -6601,6 +6602,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_blasting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-04-27 03:49:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/diamond_from_smelting_deepslate_diamond_ore": {
     "criteria": {
       "has_deepslate_diamond_ore": "2025-04-27 02:42:54 +0000"
@@ -6622,6 +6629,12 @@
   "forbidden_arcanus:recipes/misc/smelting/arcane_crystal_from_smelting": {
     "criteria": {
       "has_item": "2025-04-27 02:58:52 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/emerald_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-04-27 03:49:32 +0000"
     },
     "done": true
   },
@@ -6679,6 +6692,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald_from_smelting_emerald_ore": {
+    "criteria": {
+      "has_emerald_ore": "2025-04-27 03:49:32 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/diamond_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-04-27 02:42:54 +0000"
@@ -6724,6 +6743,12 @@
   "minecraft:recipes/redstone/redstone_from_smelting_deepslate_redstone_ore": {
     "criteria": {
       "has_deepslate_redstone_ore": "2025-04-27 02:50:57 +0000"
+    },
+    "done": true
+  },
+  "betterskills:combat_5": {
+    "criteria": {
+      "combat_5_0": "2025-04-27 03:29:20 +0000"
     },
     "done": true
   },
