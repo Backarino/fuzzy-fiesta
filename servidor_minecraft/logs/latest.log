@@ -535,3 +535,27 @@
 [27Apr2025 03:49:41.894] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [27Apr2025 03:53:41.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Suit Up]
 [27Apr2025 03:56:33.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Teleported DonTony09 to BackedSrAaron]
+[27Apr2025 04:05:34.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Pic-A-Nic Basket?]
+[27Apr2025 04:06:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Set the weather to clear]
+[27Apr2025 04:07:46.739] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron lost connection: Disconnected
+[27Apr2025 04:07:46.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron left the game
+[27Apr2025 04:07:56.034] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BackedSrAaron[/172.29.23.47:59087] logged in with entity id 326104 at (-436.5, 120.0, 1243.5)
+[27Apr2025 04:07:56.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron joined the game
+[27Apr2025 04:08:04.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Saved the game]
+[27Apr2025 04:08:09.728] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron lost connection: Disconnected
+[27Apr2025 04:08:09.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron left the game
+[27Apr2025 04:08:39.851] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/326546, l='ServerLevel[world]', x=16.50, y=47.00, z=1186.50]
+[27Apr2025 04:08:56.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Apr2025 04:08:56.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Apr2025 04:08:56.152] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Apr2025 04:08:56.172] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Server closed
+[27Apr2025 04:08:56.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[27Apr2025 04:08:56.182] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Apr2025 04:08:56.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Apr2025 04:08:56.883] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[27Apr2025 04:08:56.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[27Apr2025 04:08:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Apr2025 04:08:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Apr2025 04:08:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Apr2025 04:08:57.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Apr2025 04:08:57.706] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
