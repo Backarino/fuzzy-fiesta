@@ -5517,6 +5517,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/shaman": {
+    "criteria": {
+      "kill": "2025-04-27 00:02:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/sea_lantern": {
     "criteria": {
       "has_prismarine_crystals": "2025-04-26 23:51:14 +0000"
