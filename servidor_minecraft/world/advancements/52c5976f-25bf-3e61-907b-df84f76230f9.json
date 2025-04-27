@@ -6562,6 +6562,12 @@
     },
     "done": true
   },
+  "betterskills:combat_4": {
+    "criteria": {
+      "combat_4_0": "2025-04-27 01:08:33 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/dragonbone_axe": {
     "criteria": {
       "has_item": "2025-04-26 22:17:04 +0000"

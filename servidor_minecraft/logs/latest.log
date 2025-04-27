@@ -472,3 +472,4 @@
 [27Apr2025 00:56:04.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1010, y=59, z=-545} BlockPos{x=-1010, y=60, z=-545}
 [27Apr2025 00:57:10.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [You Will Pay For It!]
 [27Apr2025 01:06:14.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Sea? Not a Problem]
+[27Apr2025 01:08:33.218] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Combat 4]
