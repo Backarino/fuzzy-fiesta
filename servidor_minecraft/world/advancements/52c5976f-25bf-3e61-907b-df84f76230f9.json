@@ -3000,6 +3000,7 @@
     "criteria": {
       "minecraft:pillager": "2025-04-22 03:04:51 +0000",
       "minecraft:skeleton": "2025-04-20 22:33:25 +0000",
+      "minecraft:magma_cube": "2025-04-27 02:02:16 +0000",
       "minecraft:spider": "2025-04-20 22:31:46 +0000",
       "minecraft:creeper": "2025-04-22 03:26:53 +0000",
       "minecraft:phantom": "2025-04-26 22:27:29 +0000",
@@ -6553,6 +6554,12 @@
   "minecraft:recipes/decorations/glow_item_frame": {
     "criteria": {
       "has_item_frame": "2025-04-26 21:41:55 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-04-27 01:59:59 +0000"
     },
     "done": true
   },

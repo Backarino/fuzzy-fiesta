@@ -12326,3 +12326,17 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [27Apr2025 01:56:41.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [...And My Axe!]
 [27Apr2025 01:56:55.045] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Apr2025 01:56:55.055] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 01:59:15.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Teleported DonTony09 to BackedSrAaron]
+[27Apr2025 01:59:48.904] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 01:59:59.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [...And My Axe!]
+[27Apr2025 02:01:54.989] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 02:01:54.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 02:02:16.380] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[27Apr2025 02:02:58.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [We Need to Go Deeper]
+[27Apr2025 02:03:00.043] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved too quickly! -9.052931600722388,0.0,4.507016704287025
+[27Apr2025 02:03:00.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3068ms or 61 ticks behind
+[27Apr2025 02:04:25.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Teleported DonTony09 to BackedSrAaron]
+[27Apr2025 02:05:13.675] [Worker-Main-273/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:ghastboss at BlockPos{x=177, y=68, z=105} at Chest with:minecraft:chests/bastion_other
+[27Apr2025 02:05:22.758] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[27Apr2025 02:06:58.053] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 02:06:58.063] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

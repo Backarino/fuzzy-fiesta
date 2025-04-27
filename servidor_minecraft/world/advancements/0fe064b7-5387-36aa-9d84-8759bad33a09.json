@@ -2131,6 +2131,7 @@
       "grassland": "2025-04-23 04:42:44 +0000",
       "prairie": "2025-04-24 02:10:07 +0000",
       "glowing_grotto": "2025-04-22 04:34:21 +0000",
+      "undergrowth": "2025-04-27 02:05:12 +0000",
       "rainforest": "2025-04-20 21:53:08 +0000",
       "crag": "2025-04-24 03:34:54 +0000"
     },
@@ -7288,9 +7289,28 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2025-04-27 02:03:00 +0000",
+      "minecraft:nether_wastes": "2025-04-27 02:05:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-04-27 02:02:58 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:battleaxe": {
     "criteria": {
       "has_battleaxe": "2025-04-27 01:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-04-27 02:02:58 +0000"
     },
     "done": true
   },
