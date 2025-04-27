@@ -476,3 +476,6 @@
 [27Apr2025 01:27:40.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=120, z=1193} BlockPos{x=-300, y=119, z=1193}
 [27Apr2025 01:29:38.909] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 lost connection: Disconnected
 [27Apr2025 01:29:38.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 left the game
+[27Apr2025 01:56:03.831] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:63274] logged in with entity id 234706 at (198.0908301211692, 86.0, 3913.089963696974)
+[27Apr2025 01:56:03.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[27Apr2025 01:56:41.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [...And My Axe!]
