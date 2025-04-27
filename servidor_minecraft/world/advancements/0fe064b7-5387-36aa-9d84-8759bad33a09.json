@@ -7102,6 +7102,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-04-27 00:42:08 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/activator_rail": {
     "criteria": {
       "has_rail": "2025-04-26 22:13:39 +0000"
@@ -7243,6 +7249,12 @@
   "grimoireofgaia:recipes/misc/stone_coal_to_coal_block": {
     "criteria": {
       "has_stone_coal": "2025-04-26 22:37:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-04-27 00:42:08 +0000"
     },
     "done": true
   },

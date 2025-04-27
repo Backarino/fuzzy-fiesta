@@ -466,3 +466,9 @@
 [27Apr2025 00:31:22.617] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 left the game
 [27Apr2025 00:31:40.332] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:56743] logged in with entity id 205425 at (-401.12081219593085, 66.87112733160977, 1159.9824001319018)
 [27Apr2025 00:31:40.338] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[27Apr2025 00:51:10.772] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Disconnected
+[27Apr2025 00:51:10.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[27Apr2025 00:54:30.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Arghh, Where be Me Ship?]
+[27Apr2025 00:56:04.981] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-1010, y=59, z=-545} BlockPos{x=-1010, y=60, z=-545}
+[27Apr2025 00:57:10.735] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [You Will Pay For It!]
+[27Apr2025 01:06:14.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Sea? Not a Problem]
