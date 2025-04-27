@@ -486,3 +486,8 @@
 [27Apr2025 02:03:00.067] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3068ms or 61 ticks behind
 [27Apr2025 02:04:25.271] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Teleported DonTony09 to BackedSrAaron]
 [27Apr2025 02:05:22.758] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[27Apr2025 02:19:51.232] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SILVERTAKU[/172.29.104.71:63877] logged in with entity id 242785 at (77.47529928613898, 103.0, 1174.4295862929982)
+[27Apr2025 02:19:51.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
+[27Apr2025 02:24:42.001] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/245096, l='ServerLevel[world]', x=21.50, y=53.00, z=1179.50]
+[27Apr2025 02:36:26.825] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Mining 11]
+[27Apr2025 02:37:51.102] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/249560, l='ServerLevel[world]', x=15.50, y=49.00, z=1186.50]
