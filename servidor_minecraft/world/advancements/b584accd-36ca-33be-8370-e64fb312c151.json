@@ -6114,9 +6114,27 @@
     },
     "done": true
   },
+  "betterskills:fishing_2": {
+    "criteria": {
+      "fishing_2_0": "2025-04-28 04:17:53 +0000"
+    },
+    "done": true
+  },
   "betterskills:fishing_1": {
     "criteria": {
       "fishing_1_0": "2025-04-28 04:11:57 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_4": {
+    "criteria": {
+      "fishing_4_0": "2025-04-28 04:28:44 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_3": {
+    "criteria": {
+      "fishing_3_0": "2025-04-28 04:21:57 +0000"
     },
     "done": true
   },

@@ -7712,6 +7712,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/dragon_ice": {
+    "criteria": {
+      "has_item": "2025-04-28 04:23:08 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:dagger": {
     "criteria": {
       "has_dagger": "2025-04-28 04:09:23 +0000"
@@ -7763,6 +7769,24 @@
   "minecraft:recipes/building_blocks/blue_ice": {
     "criteria": {
       "has_packed_ice": "2025-04-28 04:03:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-04-28 04:23:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sea_lantern": {
+    "criteria": {
+      "has_prismarine_crystals": "2025-04-28 04:21:19 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_sword_ice": {
+    "criteria": {
+      "has_item": "2025-04-28 04:22:06 +0000"
     },
     "done": true
   },
