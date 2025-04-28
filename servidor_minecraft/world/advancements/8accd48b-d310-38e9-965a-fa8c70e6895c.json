@@ -2938,7 +2938,9 @@
     "criteria": {
       "shrubland": "2025-04-28 03:15:15 +0000",
       "rocky_shrubland": "2025-04-28 03:15:17 +0000",
-      "mediterranean_forest": "2025-04-28 02:51:26 +0000"
+      "highland": "2025-04-28 03:23:55 +0000",
+      "mediterranean_forest": "2025-04-28 02:51:26 +0000",
+      "grassland": "2025-04-28 03:23:42 +0000"
     },
     "done": false
   },
@@ -3188,6 +3190,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/minotaurus": {
+    "criteria": {
+      "kill": "2025-04-28 03:30:32 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_cherry_chair": {
     "criteria": {
       "has_white_wool": "2025-04-28 03:19:34 +0000"
@@ -3230,6 +3238,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-28 03:23:21 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_acacia_stool": {
     "criteria": {
       "has_white_wool": "2025-04-28 03:19:34 +0000"
@@ -3239,6 +3253,12 @@
   "valhelsia_furniture:recipes/decorations/white_upholstered_spruce_stool": {
     "criteria": {
       "has_white_wool": "2025-04-28 03:19:34 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_2": {
+    "criteria": {
+      "foraging_2_0": "2025-04-28 03:25:54 +0000"
     },
     "done": true
   },
@@ -3296,9 +3316,33 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/dullahan": {
+    "criteria": {
+      "kill": "2025-04-28 03:26:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-28 03:23:21 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_birch_chair": {
     "criteria": {
       "has_white_wool": "2025-04-28 03:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-04-28 03:20:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato": {
+    "criteria": {
+      "has_potato": "2025-04-28 03:20:26 +0000"
     },
     "done": true
   },
@@ -3374,6 +3418,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-04-28 03:20:26 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/white_upholstered_birch_chair": {
     "criteria": {
       "has_white_wool": "2025-04-28 03:19:34 +0000"
@@ -3383,6 +3433,12 @@
   "valhelsia_furniture:recipes/decorations/white_spruce_chair": {
     "criteria": {
       "has_white_wool": "2025-04-28 03:19:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-28 03:23:21 +0000"
     },
     "done": true
   },

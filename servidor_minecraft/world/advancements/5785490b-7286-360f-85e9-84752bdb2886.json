@@ -7058,6 +7058,12 @@
     },
     "done": true
   },
+  "endrem:main/lost_eye": {
+    "criteria": {
+      "lost_eye": "2025-04-28 03:23:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_blasting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-04-28 02:48:46 +0000"
@@ -7067,6 +7073,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/coal_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-04-28 02:48:46 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/root": {
+    "criteria": {
+      "lost_eye": "2025-04-28 03:23:22 +0000"
     },
     "done": true
   },

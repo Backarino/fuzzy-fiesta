@@ -6897,6 +6897,18 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-28 03:30:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-28 03:30:09 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/magic_wood": {
     "criteria": {
       "has_log": "2025-04-28 02:57:20 +0000"
@@ -6906,6 +6918,24 @@
   "biomesoplenty:recipes/building_blocks/magic_planks": {
     "criteria": {
       "has_logs": "2025-04-28 02:57:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/sea_serpent_scales_red_to_sea_serpent_scale_block_red": {
+    "criteria": {
+      "has_sea_serpent_scales_red": "2025-04-28 03:30:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-28 03:30:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_helmet": {
+    "criteria": {
+      "has_item": "2025-04-28 03:30:09 +0000"
     },
     "done": true
   },
