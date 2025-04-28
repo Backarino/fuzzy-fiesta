@@ -7703,5 +7703,11 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/valkyrie": {
+    "criteria": {
+      "kill": "2025-04-28 03:38:57 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
