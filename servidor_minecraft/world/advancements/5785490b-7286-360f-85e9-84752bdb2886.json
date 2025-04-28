@@ -7046,6 +7046,12 @@
     },
     "done": true
   },
+  "betterskills:mining_12": {
+    "criteria": {
+      "mining_12_0": "2025-04-28 03:17:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-04-28 02:48:46 +0000"
