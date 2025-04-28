@@ -7721,6 +7721,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/froststalker_kill": {
+    "criteria": {
+      "ex": "2025-04-28 04:03:13 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_gray_leggings": {
     "criteria": {
       "has_item": "2025-04-28 03:47:54 +0000"
@@ -7742,6 +7748,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_gray_to_dragonscale_gray": {
     "criteria": {
       "has_dragonscales_gray": "2025-04-28 03:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_ice": {
+    "criteria": {
+      "has_packed_ice": "2025-04-28 04:03:14 +0000"
     },
     "done": true
   },
