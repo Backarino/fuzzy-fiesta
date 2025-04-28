@@ -2875,6 +2875,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "grindstone": "2025-04-28 02:56:00 +0000",
       "smoker": "2025-04-20 22:16:02 +0000",
       "blastfurnace": "2025-04-23 04:52:42 +0000"
     },
@@ -5529,9 +5530,9 @@
     },
     "done": true
   },
-  "seadwellers:adv_break_sea_lantern": {
+  "endrem:main/black_eye": {
     "criteria": {
-      "adv_break_sea_lantern": "2025-04-27 00:57:10 +0000"
+      "black_eye": "2025-04-27 00:54:30 +0000"
     },
     "done": true
   },
@@ -5547,21 +5548,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/misc/dragon_bone_wall": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:22 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-04-27 00:54:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_flute": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:22 +0000"
     },
     "done": true
   },
@@ -5571,57 +5560,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_leggings": {
-    "criteria": {
-      "has_item": "2025-04-27 01:06:15 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/gray_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-04-27 00:54:57 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/nest": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_boots": {
-    "criteria": {
-      "has_item": "2025-04-27 01:06:15 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_helmet": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/dragonbone_bow": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:iceandfire/kill_sea_serpent": {
-    "criteria": {
-      "killed_fire_dragon": "2025-04-27 01:06:14 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_leggings": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:23 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/building_blocks/dragon_bone_block": {
-    "criteria": {
-      "has_dragonbone": "2025-04-27 01:16:22 +0000"
     },
     "done": true
   },
@@ -5643,39 +5584,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_hoe": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:22 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/chain": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:23 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/brown_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-04-27 00:54:57 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_boots": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:23 +0000"
-    },
-    "done": true
-  },
-  "endrem:main/black_eye": {
-    "criteria": {
-      "black_eye": "2025-04-27 00:54:30 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/tools/dragonbone_shovel": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:22 +0000"
     },
     "done": true
   },
@@ -5691,18 +5602,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_axe": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/chainmail_chestplate": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:23 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-04-27 00:54:57 +0000"
@@ -5715,21 +5614,45 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_pickaxe": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:22 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/pink_upholstered_oak_stool": {
     "criteria": {
       "has_oak_slab": "2025-04-27 00:54:57 +0000"
     },
     "done": true
   },
-  "travelersbackpack:recipes/misc/spider_smithing": {
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_stool": {
     "criteria": {
-      "has_spider": "2025-04-27 01:17:05 +0000"
+      "has_oak_slab": "2025-04-27 00:54:57 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_oak_stool": {
+    "criteria": {
+      "has_oak_slab": "2025-04-27 00:54:57 +0000"
+    },
+    "done": true
+  },
+  "seadwellers:adv_break_sea_lantern": {
+    "criteria": {
+      "adv_break_sea_lantern": "2025-04-27 00:57:10 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-04-27 01:06:14 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-27 01:06:15 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-27 01:06:15 +0000"
     },
     "done": true
   },
@@ -5751,27 +5674,9 @@
     },
     "done": true
   },
-  "iceandfire:recipes/tools/dragonbone_sword": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:22 +0000"
-    },
-    "done": true
-  },
-  "valhelsia_furniture:recipes/decorations/magenta_upholstered_oak_stool": {
-    "criteria": {
-      "has_oak_slab": "2025-04-27 00:54:57 +0000"
-    },
-    "done": true
-  },
   "iceandfire:recipes/combat/sea_serpent_arrow": {
     "criteria": {
       "has_item": "2025-04-27 01:06:15 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/misc/dragon_horn": {
-    "criteria": {
-      "has_item": "2025-04-27 01:16:22 +0000"
     },
     "done": true
   },
@@ -5781,9 +5686,261 @@
     },
     "done": true
   },
-  "valhelsia_furniture:recipes/decorations/orange_upholstered_oak_stool": {
+  "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
-      "has_oak_slab": "2025-04-27 00:54:57 +0000"
+      "has_item": "2025-04-27 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_flute": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/nest": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/dragonbone_bow": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragon_bone_block": {
+    "criteria": {
+      "has_dragonbone": "2025-04-27 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_hoe": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_shovel": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_axe": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_pickaxe": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/tools/dragonbone_sword": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_horn": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-27 01:16:23 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider_smithing": {
+    "criteria": {
+      "has_spider": "2025-04-27 01:17:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ash_to_charcoal": {
+    "criteria": {
+      "has_item": "2025-04-28 02:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-28 03:03:38 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_basic_shield": {
+    "criteria": {
+      "has_obsidian": "2025-04-28 02:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-28 03:03:02 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/ghost_chest": {
+    "criteria": {
+      "has_item": "2025-04-28 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/gold_ingot_from_clibano_combusting_raw_gold": {
+    "criteria": {
+      "has_item": "2025-04-28 03:03:38 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-04-28 02:53:57 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/void_lily": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-28 03:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-28 03:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-04-28 03:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-28 03:03:02 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:club": {
+    "criteria": {
+      "has_club": "2025-04-28 02:48:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-04-28 03:03:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2025-04-28 02:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-28 02:38:48 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/obsidian_tower_shield": {
+    "criteria": {
+      "has_obsidian": "2025-04-28 02:55:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "skeleton_skull": "2025-04-28 02:48:18 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/glow_item_frame": {
+    "criteria": {
+      "has_item_frame": "2025-04-28 02:51:13 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:battleaxe": {
+    "criteria": {
+      "has_battleaxe": "2025-04-28 02:58:38 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/woodworking_table": {
+    "criteria": {
+      "has_leaves": "2025-04-28 02:48:17 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/obsidian_skull": {
+    "criteria": {
+      "has_obsidian": "2025-04-28 02:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-04-28 02:53:57 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/graveyard_soil": {
+    "criteria": {
+      "has_item": "2025-04-28 03:03:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-28 03:03:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-04-28 02:55:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-28 02:38:48 +0000"
     },
     "done": true
   },

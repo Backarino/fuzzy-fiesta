@@ -6891,5 +6891,23 @@
     },
     "done": true
   },
+  "spartanweaponry:dagger": {
+    "criteria": {
+      "has_dagger": "2025-04-28 02:48:47 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_wood": {
+    "criteria": {
+      "has_log": "2025-04-28 02:57:20 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/magic_planks": {
+    "criteria": {
+      "has_logs": "2025-04-28 02:57:20 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
