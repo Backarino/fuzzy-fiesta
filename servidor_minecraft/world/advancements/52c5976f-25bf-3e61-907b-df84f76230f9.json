@@ -6898,30 +6898,6 @@
     },
     "done": true
   },
-  "iceandfire:recipes/combat/tide_red_leggings": {
-    "criteria": {
-      "has_item": "2025-04-28 03:30:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/trim_with_any_armor_pattern": {
-    "criteria": {
-      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-04-28 04:04:12 +0000"
-    },
-    "done": true
-  },
-  "betterskills:farming_3": {
-    "criteria": {
-      "farming_3_0": "2025-04-28 03:57:40 +0000"
-    },
-    "done": true
-  },
-  "iceandfire:recipes/combat/tide_red_boots": {
-    "criteria": {
-      "has_item": "2025-04-28 03:30:09 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/magic_wood": {
     "criteria": {
       "has_log": "2025-04-28 02:57:20 +0000"
@@ -6931,6 +6907,18 @@
   "biomesoplenty:recipes/building_blocks/magic_planks": {
     "criteria": {
       "has_logs": "2025-04-28 02:57:20 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_leggings": {
+    "criteria": {
+      "has_item": "2025-04-28 03:30:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/tide_red_boots": {
+    "criteria": {
+      "has_item": "2025-04-28 03:30:09 +0000"
     },
     "done": true
   },
@@ -6949,6 +6937,42 @@
   "iceandfire:recipes/combat/tide_red_helmet": {
     "criteria": {
       "has_item": "2025-04-28 03:30:09 +0000"
+    },
+    "done": true
+  },
+  "betterskills:farming_3": {
+    "criteria": {
+      "farming_3_0": "2025-04-28 03:57:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/trim_with_any_armor_pattern": {
+    "criteria": {
+      "armor_trimmed_minecraft:coast_armor_trim_smithing_template_smithing_trim": "2025-04-28 04:04:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2025-04-28 04:09:50 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_1": {
+    "criteria": {
+      "fishing_1_0": "2025-04-28 04:11:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/trapped_chest": {
+    "criteria": {
+      "has_tripwire_hook": "2025-04-28 04:14:51 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_2": {
+    "criteria": {
+      "fishing_2_0": "2025-04-28 04:15:42 +0000"
     },
     "done": true
   },
