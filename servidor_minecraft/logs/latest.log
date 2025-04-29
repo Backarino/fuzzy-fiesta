@@ -81,3 +81,7 @@
 [29Apr2025 03:02:14.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [Farming]
 [29Apr2025 03:05:08.857] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Disconnected
 [29Apr2025 03:05:08.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[29Apr2025 03:08:41.195] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [Ice Bucket Challenge]
+[29Apr2025 03:12:08.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [Hot Stuff]
+[29Apr2025 03:15:18.828] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/104332, l='ServerLevel[world]', x=14.50, y=50.00, z=1179.50]
+[29Apr2025 03:18:04.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 was slain by Banshee
