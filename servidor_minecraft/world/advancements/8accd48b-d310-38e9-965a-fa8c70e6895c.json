@@ -2944,6 +2944,7 @@
       "scrubland": "2025-04-29 00:01:57 +0000",
       "fungal_jungle": "2025-04-29 00:10:16 +0000",
       "highland": "2025-04-28 03:23:55 +0000",
+      "clover_patch": "2025-04-29 00:17:07 +0000",
       "mediterranean_forest": "2025-04-28 02:51:26 +0000",
       "spider_nest": "2025-04-29 00:09:47 +0000",
       "rocky_rainforest": "2025-04-29 00:10:26 +0000",
@@ -3516,6 +3517,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/building_blocks/ash": {
+    "criteria": {
+      "has_item": "2025-04-29 00:15:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2025-04-28 23:58:22 +0000"
@@ -3534,9 +3541,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2025-04-29 00:16:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2025-04-28 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "naturalist:recipes/naturalist/glow_goop": {
+    "criteria": {
+      "has_glow_berries": "2025-04-29 00:18:01 +0000"
     },
     "done": true
   },
@@ -3564,9 +3583,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-04-29 00:13:03 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/quiver_compartment": {
     "criteria": {
       "has_leather": "2025-04-28 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2025-04-29 00:13:03 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed": "2025-04-29 00:17:51 +0000"
     },
     "done": true
   },

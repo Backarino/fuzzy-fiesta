@@ -6982,5 +6982,11 @@
     },
     "done": true
   },
+  "betterskills:mining_10": {
+    "criteria": {
+      "mining_10_0": "2025-04-29 00:18:31 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
