@@ -64,6 +64,7 @@
       "minecraft:sparse_jungle": "2025-04-20 21:03:31 +0000",
       "minecraft:lukewarm_ocean": "2025-04-20 20:38:58 +0000",
       "minecraft:river": "2025-04-20 20:38:51 +0000",
+      "minecraft:dripstone_caves": "2025-04-29 02:24:28 +0000",
       "minecraft:grove": "2025-04-22 04:38:43 +0000",
       "minecraft:forest": "2025-04-20 21:02:21 +0000",
       "minecraft:jungle": "2025-04-20 21:14:29 +0000",
@@ -6390,6 +6391,18 @@
   "betterskills:fishing_5": {
     "criteria": {
       "fishing_5_0": "2025-04-29 01:00:54 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_ice_spikes": {
+    "criteria": {
+      "has_item": "2025-04-29 02:17:55 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/dullahan": {
+    "criteria": {
+      "kill": "2025-04-29 02:22:07 +0000"
     },
     "done": true
   },
