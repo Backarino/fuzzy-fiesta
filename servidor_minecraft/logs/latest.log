@@ -7,3 +7,21 @@
 [29Apr2025 00:18:31.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Mining 10]
 [29Apr2025 00:21:08.795] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [Foraging 3]
 [29Apr2025 00:24:46.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [Combat 2]
+[29Apr2025 00:26:30.534] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 was slain by Minotaurus
+[29Apr2025 00:27:41.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 was slain by Minotaurus
+[29Apr2025 00:28:32.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [Foraging 4]
+[29Apr2025 00:30:48.919] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:54216] logged in with entity id 15824 at (-289.86977946034983, 66.0, 1874.7004764600442)
+[29Apr2025 00:30:48.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[29Apr2025 00:32:46.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Dwarf
+[29Apr2025 00:38:46.290] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron lost connection: Disconnected
+[29Apr2025 00:38:46.291] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron left the game
+[29Apr2025 00:39:10.304] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BackedSrAaron[/172.29.23.47:64069] logged in with entity id 20127 at (-271.69999998807907, 76.0, 1705.300000011921)
+[29Apr2025 00:39:10.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron joined the game
+[29Apr2025 00:44:00.137] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 was kicked for floating too long!
+[29Apr2025 00:44:00.138] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 lost connection: Disconnected
+[29Apr2025 00:44:00.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 left the game
+[29Apr2025 00:44:00.185] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[29Apr2025 00:44:13.402] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:54223] logged in with entity id 22116 at (-189.86130038497888, 80.48982965963579, 1669.3424979229655)
+[29Apr2025 00:44:13.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[29Apr2025 00:47:41.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Farming 2]
+[29Apr2025 01:00:54.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Fishing 5]

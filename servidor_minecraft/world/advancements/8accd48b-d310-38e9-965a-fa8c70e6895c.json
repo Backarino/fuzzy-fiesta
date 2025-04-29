@@ -1397,6 +1397,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-04-26 03:46:46 +0000",
       "minecraft:cave_spider": "2025-04-26 03:48:40 +0000",
+      "minecraft:enderman": "2025-04-29 00:52:55 +0000",
       "minecraft:zombie": "2025-04-26 03:35:44 +0000"
     },
     "done": false
@@ -2947,6 +2948,7 @@
       "clover_patch": "2025-04-29 00:17:07 +0000",
       "mediterranean_forest": "2025-04-28 02:51:26 +0000",
       "spider_nest": "2025-04-29 00:09:47 +0000",
+      "redwood_forest": "2025-04-29 00:21:01 +0000",
       "rocky_rainforest": "2025-04-29 00:10:26 +0000",
       "grassland": "2025-04-28 03:23:42 +0000",
       "rainforest": "2025-04-29 00:03:14 +0000"
@@ -3493,9 +3495,81 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_rapier": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_helmet": {
     "criteria": {
       "has_leather": "2025-04-28 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_halberd": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/hunting_post": {
+    "criteria": {
+      "has_arrow": "2025-04-29 00:31:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_lance": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-29 00:33:11 +0000"
     },
     "done": true
   },
@@ -3517,9 +3591,57 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_battle_hammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/golden_blacksmith_gavel": {
+    "criteria": {
+      "has_ingots/gold": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_sign": {
+    "criteria": {
+      "has_redwood_planks": "2025-04-29 00:33:11 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_planks": {
+    "criteria": {
+      "has_logs": "2025-04-29 00:21:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/ash": {
     "criteria": {
       "has_item": "2025-04-29 00:15:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_pike": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/netherite_arrow": {
+    "criteria": {
+      "has_bow": "2025-04-29 00:20:39 +0000"
     },
     "done": true
   },
@@ -3529,9 +3651,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-29 00:33:11 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/horse": {
     "criteria": {
       "has_leather": "2025-04-28 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/tools/sanity_meter": {
+    "criteria": {
+      "has_ingots/gold": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_longsword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/skeleton": {
+    "criteria": {
+      "has_arrow": "2025-04-29 00:31:56 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_scythe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_glaive": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/medium_quiver_brace": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_4": {
+    "criteria": {
+      "foraging_4_0": "2025-04-29 00:28:32 +0000"
+    },
+    "done": true
+  },
+  "betterskills:foraging_3": {
+    "criteria": {
+      "foraging_3_0": "2025-04-29 00:21:08 +0000"
     },
     "done": true
   },
@@ -3541,9 +3723,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-29 00:20:39 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_tower_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-04-29 00:16:54 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_warhammer": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_longbow": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
     },
     "done": true
   },
@@ -3553,9 +3771,21 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_flanged_mace": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
   "naturalist:recipes/naturalist/glow_goop": {
     "criteria": {
       "has_glow_berries": "2025-04-29 00:18:01 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_heavy_crossbow": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
     },
     "done": true
   },
@@ -3571,9 +3801,81 @@
     },
     "done": true
   },
+  "spartanweaponry:recipes/golden_spear": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_battleaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/blindfold": {
     "criteria": {
       "has_item": "2025-04-28 23:58:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_throwing_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/redstone/redwood_button": {
+    "criteria": {
+      "has_planks": "2025-04-29 00:33:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_saber": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_greatsword": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "betterskills:combat_2": {
+    "criteria": {
+      "combat_2_0": "2025-04-29 00:24:46 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_quarterstaff": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/redwood_fence": {
+    "criteria": {
+      "has_planks": "2025-04-29 00:33:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/small_arrow_quiver": {
+    "criteria": {
+      "has_arrow": "2025-04-29 00:31:57 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_javelin": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
     },
     "done": true
   },
@@ -3583,9 +3885,57 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_door": {
+    "criteria": {
+      "has_planks": "2025-04-29 00:33:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_parrying_dagger": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/gold_chain": {
+    "criteria": {
+      "has_items": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_boomerang": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
   "travelersbackpack:recipes/misc/standard": {
     "criteria": {
       "has_chest": "2025-04-29 00:13:03 +0000"
+    },
+    "done": true
+  },
+  "spartanshields:recipes/golden_basic_shield": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_azure_bluet": {
+    "criteria": {
+      "has_azure_bluet": "2025-04-29 00:35:04 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_slab": {
+    "criteria": {
+      "has_planks": "2025-04-29 00:33:11 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/deorum_ingot": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
     },
     "done": true
   },
@@ -3601,9 +3951,57 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/redstone/redwood_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-29 00:33:11 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/grizzly_bear": {
     "criteria": {
       "killed": "2025-04-29 00:17:51 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/enderman": {
+    "criteria": {
+      "has_ender_pearl": "2025-04-29 00:52:57 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/redwood_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-29 00:33:11 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_katana": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/golden_tomahawk": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/gold_tier_upgrade": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-29 00:30:14 +0000"
     },
     "done": true
   },
