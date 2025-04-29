@@ -1396,7 +1396,9 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-04-26 03:46:46 +0000",
+      "minecraft:ghast": "2025-04-29 04:20:20 +0000",
       "minecraft:spider": "2025-04-29 01:29:47 +0000",
+      "minecraft:wither_skeleton": "2025-04-29 04:17:26 +0000",
       "minecraft:cave_spider": "2025-04-26 03:48:40 +0000",
       "minecraft:enderman": "2025-04-29 00:52:55 +0000",
       "minecraft:silverfish": "2025-04-29 02:42:32 +0000",
@@ -2953,6 +2955,7 @@
       "highland": "2025-04-28 03:23:55 +0000",
       "clover_patch": "2025-04-29 00:17:07 +0000",
       "old_growth_woodland": "2025-04-29 03:40:19 +0000",
+      "crystalline_chasm": "2025-04-29 04:09:32 +0000",
       "mediterranean_forest": "2025-04-28 02:51:26 +0000",
       "spider_nest": "2025-04-29 00:09:47 +0000",
       "redwood_forest": "2025-04-29 00:21:01 +0000",
@@ -4331,6 +4334,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-04-29 04:20:21 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_bone_wall": {
     "criteria": {
       "has_item": "2025-04-29 03:03:40 +0000"
@@ -4352,7 +4361,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-29 03:32:09 +0000",
-      "minecraft:nether_wastes": "2025-04-29 03:33:11 +0000"
+      "minecraft:nether_wastes": "2025-04-29 03:33:11 +0000",
+      "minecraft:soul_sand_valley": "2025-04-29 04:08:46 +0000"
     },
     "done": false
   },
@@ -4398,6 +4408,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-04-29 04:21:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_blasting": {
     "criteria": {
       "has_golden_hoe": "2025-04-29 03:02:56 +0000"
@@ -4407,6 +4423,12 @@
   "spartanweaponry:recipes/spectral_bolt": {
     "criteria": {
       "has_glowstone_dust": "2025-04-29 03:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
     },
     "done": true
   },
@@ -4464,6 +4486,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/misc/dragon_flute": {
     "criteria": {
       "has_item": "2025-04-29 03:03:40 +0000"
@@ -4500,9 +4534,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:03:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-04-29 03:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:03:46 +0000"
     },
     "done": true
   },
@@ -4548,6 +4600,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:03:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_stairs": {
     "criteria": {
       "has_planks": "2025-04-29 03:44:44 +0000"
@@ -4569,6 +4627,12 @@
   "iceandfire:recipes/misc/nest": {
     "criteria": {
       "has_item": "2025-04-29 03:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:03:46 +0000"
     },
     "done": true
   },
@@ -4608,15 +4672,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_helmet": {
+    "criteria": {
+      "has_item": "2025-04-29 04:18:41 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_bow": {
     "criteria": {
       "has_item": "2025-04-29 03:03:40 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/orange_upholstered_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-04-29 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_leggings": {
+    "criteria": {
+      "has_item": "2025-04-29 04:18:41 +0000"
     },
     "done": true
   },
@@ -4650,6 +4738,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:03:46 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/brown_upholstered_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-04-29 03:44:44 +0000"
@@ -4665,6 +4759,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-04-29 02:37:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
     },
     "done": true
   },
@@ -4692,6 +4792,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_scythe": {
     "criteria": {
       "has_copper_ingot": "2025-04-29 02:37:14 +0000"
@@ -4701,6 +4807,12 @@
   "betterskills:mining_8": {
     "criteria": {
       "mining_8_0": "2025-04-29 02:46:56 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-04-29 04:20:21 +0000"
     },
     "done": true
   },
@@ -4716,6 +4828,12 @@
     },
     "done": true
   },
+  "iceandfire:recipes/misc/chain": {
+    "criteria": {
+      "has_item": "2025-04-29 04:18:41 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/red_upholstered_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-04-29 03:44:44 +0000"
@@ -4725,6 +4843,12 @@
   "valhelsia_furniture:recipes/decorations/orange_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-04-29 03:36:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-04-29 04:21:11 +0000"
     },
     "done": true
   },
@@ -4782,6 +4906,18 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/succubus": {
+    "criteria": {
+      "kill": "2025-04-29 04:04:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/chainmail_boots": {
+    "criteria": {
+      "has_item": "2025-04-29 04:18:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/bookshelf": {
     "criteria": {
       "has_book": "2025-04-29 03:24:04 +0000"
@@ -4791,6 +4927,12 @@
   "valhelsia_furniture:recipes/decorations/brown_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-04-29 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
     },
     "done": true
   },
@@ -4821,6 +4963,12 @@
   "iceandfire:recipes/tools/dragonbone_shovel": {
     "criteria": {
       "has_item": "2025-04-29 03:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bowl": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-29 04:00:43 +0000"
     },
     "done": true
   },
@@ -4896,6 +5044,12 @@
     },
     "done": true
   },
+  "biomesoplenty:recipes/building_blocks/rose_quartz_block": {
+    "criteria": {
+      "has_rose_quartz_chunk": "2025-04-29 04:09:35 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall": {
     "criteria": {
       "has_diorite": "2025-04-29 02:37:40 +0000"
@@ -4962,9 +5116,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/chainmail_chestplate": {
+    "criteria": {
+      "has_item": "2025-04-29 04:18:41 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/pink_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-04-29 03:36:35 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-04-29 04:21:11 +0000"
     },
     "done": true
   },
@@ -4980,9 +5146,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_tomahawk": {
     "criteria": {
       "has_copper_ingot": "2025-04-29 02:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
     },
     "done": true
   },
@@ -4995,6 +5173,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-29 02:42:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:03:46 +0000"
     },
     "done": true
   },
@@ -5019,6 +5203,12 @@
   "valhelsia_furniture:recipes/decorations/lime_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-04-29 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:03:46 +0000"
     },
     "done": true
   },
@@ -5070,6 +5260,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/jungle_planks": {
     "criteria": {
       "has_logs": "2025-04-29 03:44:40 +0000"
@@ -5085,6 +5281,12 @@
   "spartanweaponry:recipes/copper_katana": {
     "criteria": {
       "has_copper_ingot": "2025-04-29 02:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-29 04:17:28 +0000"
     },
     "done": true
   },
@@ -5124,6 +5326,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:longbow": {
     "criteria": {
       "has_longbow": "2025-04-29 02:39:54 +0000"
@@ -5154,6 +5362,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_longsword": {
     "criteria": {
       "has_copper_ingot": "2025-04-29 02:37:14 +0000"
@@ -5175,6 +5389,12 @@
   "minecraft:recipes/redstone/jungle_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-29 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
     },
     "done": true
   },
@@ -5220,6 +5440,12 @@
     },
     "done": true
   },
+  "netherdungeons:recipes/crafting/ominous_quartz": {
+    "criteria": {
+      "has_items": "2025-04-29 04:03:46 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/yellow_upholstered_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-04-29 03:44:44 +0000"
@@ -5244,9 +5470,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_brown_mushroom": "2025-04-29 04:00:43 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-04-29 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-04-29 04:21:11 +0000"
     },
     "done": true
   },
@@ -5277,6 +5515,12 @@
   "valhelsia_furniture:recipes/decorations/green_jungle_chair": {
     "criteria": {
       "has_jungle_planks": "2025-04-29 03:44:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2025-04-29 04:02:09 +0000"
     },
     "done": true
   },

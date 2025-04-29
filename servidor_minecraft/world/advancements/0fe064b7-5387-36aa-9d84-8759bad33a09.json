@@ -2018,15 +2018,19 @@
       "minecraft:pillager": "2025-04-26 21:38:40 +0000",
       "minecraft:skeleton": "2025-04-20 21:19:05 +0000",
       "minecraft:ravager": "2025-04-26 21:40:12 +0000",
+      "minecraft:ghast": "2025-04-29 04:07:22 +0000",
+      "minecraft:hoglin": "2025-04-29 04:25:11 +0000",
       "minecraft:guardian": "2025-04-26 04:39:15 +0000",
       "minecraft:vindicator": "2025-04-26 21:38:41 +0000",
       "minecraft:magma_cube": "2025-04-25 04:54:28 +0000",
       "minecraft:spider": "2025-04-22 02:56:57 +0000",
+      "minecraft:piglin_brute": "2025-04-29 04:10:11 +0000",
       "minecraft:creeper": "2025-04-20 22:15:24 +0000",
       "minecraft:phantom": "2025-04-24 03:53:13 +0000",
       "minecraft:zombified_piglin": "2025-04-26 21:50:57 +0000",
       "minecraft:husk": "2025-04-20 23:38:19 +0000",
       "minecraft:cave_spider": "2025-04-22 04:37:33 +0000",
+      "minecraft:piglin": "2025-04-29 03:59:38 +0000",
       "minecraft:enderman": "2025-04-22 03:32:08 +0000",
       "minecraft:silverfish": "2025-04-22 03:36:16 +0000",
       "minecraft:zombie": "2025-04-20 22:58:41 +0000",
@@ -2114,6 +2118,7 @@
       "rocky_shrubland": "2025-04-24 01:42:45 +0000",
       "scrubland": "2025-04-20 21:51:14 +0000",
       "fungal_jungle": "2025-04-20 22:50:31 +0000",
+      "erupting_inferno": "2025-04-29 04:19:45 +0000",
       "lush_savanna": "2025-04-20 23:30:27 +0000",
       "highland": "2025-04-24 03:37:04 +0000",
       "marsh": "2025-04-24 03:37:00 +0000",
@@ -2121,6 +2126,7 @@
       "clover_patch": "2025-04-22 04:00:13 +0000",
       "mystic_grove": "2025-04-23 04:52:01 +0000",
       "old_growth_woodland": "2025-04-20 21:51:55 +0000",
+      "crystalline_chasm": "2025-04-29 04:16:54 +0000",
       "orchard": "2025-04-24 02:31:34 +0000",
       "lavender_forest": "2025-04-24 02:19:40 +0000",
       "moor": "2025-04-27 04:00:55 +0000",
@@ -7318,7 +7324,8 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-04-27 02:03:00 +0000",
-      "minecraft:nether_wastes": "2025-04-27 02:05:02 +0000"
+      "minecraft:nether_wastes": "2025-04-27 02:05:02 +0000",
+      "minecraft:soul_sand_valley": "2025-04-29 04:15:35 +0000"
     },
     "done": false
   },
@@ -7808,9 +7815,279 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/yellow_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/spectral_bolt": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_stairs_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-29 04:19:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:01:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:01:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:01:48 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_exorcist": {
+    "criteria": {
+      "iter_exorcist_0": "2025-04-29 03:59:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:01:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/quartz": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-29 04:09:55 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_brick_slab_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-29 04:19:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/spectral_arrow": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-29 04:10:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-04-29 04:02:26 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/succubus": {
+    "criteria": {
+      "kill": "2025-04-29 04:05:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-04-29 04:10:00 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/decorations/brimstone_brick_wall_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-29 04:19:46 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/chiseled_brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-29 04:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-29 04:10:46 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/wither_cow": {
+    "criteria": {
+      "kill": "2025-04-29 04:03:32 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-29 04:10:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-04-29 03:49:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:01:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-04-29 04:01:48 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_fabric_desk_lamp": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks_from_brimstone_stonecutting": {
+    "criteria": {
+      "has_brimstone": "2025-04-29 04:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-04-29 04:21:32 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-04-29 04:10:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glowstone": {
+    "criteria": {
+      "has_glowstone_dust": "2025-04-29 04:03:34 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/brimstone_bricks": {
+    "criteria": {
+      "has_brimstone": "2025-04-29 04:19:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-29 04:09:15 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/ominous_quartz": {
+    "criteria": {
+      "has_items": "2025-04-29 04:01:48 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-04-29 04:10:46 +0000"
     },
     "done": true
   },
