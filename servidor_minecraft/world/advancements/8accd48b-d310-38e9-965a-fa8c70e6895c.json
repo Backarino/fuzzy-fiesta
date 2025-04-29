@@ -4424,6 +4424,12 @@
     },
     "done": true
   },
+  "betterskills:mining_8": {
+    "criteria": {
+      "mining_8_0": "2025-04-29 02:46:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-29 02:37:40 +0000"
