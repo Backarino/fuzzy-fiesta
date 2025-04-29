@@ -541,3 +541,217 @@
 [29Apr2025 04:40:14.433] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-243, y=31, z=182} BlockPos{x=-242, y=32, z=182}
 [29Apr2025 04:40:14.434] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-243, y=30, z=182} BlockPos{x=-242, y=32, z=182}
 [29Apr2025 04:40:15.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-242, y=29, z=182} BlockPos{x=-242, y=29, z=181}
+[29Apr2025 04:40:45.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-237, y=29, z=184} BlockPos{x=-241, y=28, z=183}
+[29Apr2025 04:40:45.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-237, y=29, z=184} BlockPos{x=-241, y=28, z=183}
+[29Apr2025 04:40:45.848] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=27, z=182} BlockPos{x=-241, y=28, z=183}
+[29Apr2025 04:40:45.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=27, z=182} BlockPos{x=-241, y=28, z=183}
+[29Apr2025 04:40:46.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=27, z=182} BlockPos{x=-240, y=27, z=181}
+[29Apr2025 04:40:47.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=26, z=180} BlockPos{x=-240, y=25, z=179}
+[29Apr2025 04:40:48.651] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=25, z=179} BlockPos{x=-241, y=25, z=178}
+[29Apr2025 04:40:48.749] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=25, z=179} BlockPos{x=-241, y=26, z=178}
+[29Apr2025 04:40:48.802] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=25, z=179} BlockPos{x=-241, y=26, z=178}
+[29Apr2025 04:40:49.549] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=25, z=179} BlockPos{x=-242, y=27, z=180}
+[29Apr2025 04:40:49.650] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-240, y=25, z=179} BlockPos{x=-242, y=27, z=181}
+[29Apr2025 04:40:49.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-244, y=26, z=179} BlockPos{x=-242, y=27, z=181}
+[29Apr2025 04:40:49.901] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-244, y=27, z=180} BlockPos{x=-242, y=27, z=181}
+[29Apr2025 04:40:49.952] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-244, y=27, z=180} BlockPos{x=-242, y=27, z=181}
+[29Apr2025 04:40:50.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=26, z=180} BlockPos{x=-242, y=27, z=181}
+[29Apr2025 04:40:50.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=26, z=180} BlockPos{x=-244, y=27, z=181}
+[29Apr2025 04:40:51.247] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=27, z=181} BlockPos{x=-242, y=26, z=183}
+[29Apr2025 04:40:51.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=27, z=181} BlockPos{x=-241, y=26, z=184}
+[29Apr2025 04:40:51.547] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-243, y=26, z=182} BlockPos{x=-240, y=27, z=183}
+[29Apr2025 04:40:53.649] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=27, z=182} BlockPos{x=-243, y=26, z=185}
+[29Apr2025 04:40:53.748] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=27, z=182} BlockPos{x=-244, y=25, z=185}
+[29Apr2025 04:40:53.798] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=27, z=182} BlockPos{x=-244, y=25, z=185}
+[29Apr2025 04:40:54.747] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-244, y=26, z=187} BlockPos{x=-243, y=26, z=187}
+[29Apr2025 04:40:56.851] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=26, z=191} BlockPos{x=-246, y=26, z=190}
+[29Apr2025 04:40:56.950] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=26, z=191} BlockPos{x=-246, y=26, z=189}
+[29Apr2025 04:41:00.896] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=26, z=190} BlockPos{x=-245, y=23, z=192}
+[29Apr2025 04:41:00.948] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=26, z=190} BlockPos{x=-245, y=23, z=192}
+[29Apr2025 04:41:01.897] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=26, z=190} BlockPos{x=-245, y=21, z=194}
+[29Apr2025 04:41:01.998] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=26, z=190} BlockPos{x=-245, y=21, z=191}
+[29Apr2025 04:41:02.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-241, y=26, z=190} BlockPos{x=-245, y=21, z=191}
+[29Apr2025 04:41:02.097] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=20, z=190} BlockPos{x=-245, y=21, z=191}
+[29Apr2025 04:41:02.149] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=19, z=190} BlockPos{x=-245, y=21, z=191}
+[29Apr2025 04:41:02.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=19, z=191} BlockPos{x=-245, y=21, z=191}
+[29Apr2025 04:41:05.599] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=18, z=194} BlockPos{x=-245, y=17, z=193}
+[29Apr2025 04:41:05.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=18, z=194} BlockPos{x=-245, y=17, z=191}
+[29Apr2025 04:41:05.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=16, z=192} BlockPos{x=-245, y=17, z=191}
+[29Apr2025 04:41:12.298] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=11, z=195} BlockPos{x=-245, y=7, z=197}
+[29Apr2025 04:41:12.399] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=6, z=198} BlockPos{x=-245, y=7, z=198}
+[29Apr2025 04:41:13.047] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=6, z=199} BlockPos{x=-245, y=6, z=200}
+[29Apr2025 04:41:15.297] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=5, z=200} BlockPos{x=-245, y=4, z=199}
+[29Apr2025 04:41:15.349] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=5, z=200} BlockPos{x=-245, y=4, z=199}
+[29Apr2025 04:41:15.400] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=4, z=200} BlockPos{x=-245, y=4, z=199}
+[29Apr2025 04:41:15.446] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=4, z=201} BlockPos{x=-245, y=4, z=199}
+[29Apr2025 04:41:17.495] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=5, z=200} BlockPos{x=-245, y=5, z=202}
+[29Apr2025 04:41:23.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 fell from a high place
+[29Apr2025 04:41:25.750] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=5, z=214} BlockPos{x=-245, y=5, z=220}
+[29Apr2025 04:41:25.810] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=5, z=214} BlockPos{x=-245, y=5, z=220}
+[29Apr2025 04:41:29.771] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=7, z=223} BlockPos{x=-245, y=7, z=228}
+[29Apr2025 04:41:30.436] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=7, z=223} BlockPos{x=-245, y=6, z=229}
+[29Apr2025 04:41:31.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=7, z=229} BlockPos{x=-245, y=7, z=231}
+[29Apr2025 04:41:32.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=7, z=232} BlockPos{x=-245, y=8, z=229}
+[29Apr2025 04:41:32.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=7, z=232} BlockPos{x=-245, y=8, z=229}
+[29Apr2025 04:41:37.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-247, y=6, z=234} BlockPos{x=-244, y=7, z=234}
+[29Apr2025 04:41:37.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-247, y=6, z=234} BlockPos{x=-244, y=7, z=234}
+[29Apr2025 04:41:37.757] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-247, y=6, z=234} BlockPos{x=-244, y=7, z=234}
+[29Apr2025 04:41:39.615] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-247, y=6, z=234} BlockPos{x=-245, y=7, z=239}
+[29Apr2025 04:41:51.756] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=7, z=242} BlockPos{x=-245, y=5, z=263}
+[29Apr2025 04:41:52.656] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=5, z=264} BlockPos{x=-245, y=6, z=265}
+[29Apr2025 04:41:52.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-245, y=5, z=264} BlockPos{x=-245, y=6, z=265}
+[29Apr2025 04:42:01.259] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-244, y=6, z=280} BlockPos{x=-243, y=6, z=279}
+[29Apr2025 04:42:17.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-215, y=5, z=278} BlockPos{x=-216, y=5, z=282}
+[29Apr2025 04:42:20.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-215, y=6, z=282} BlockPos{x=-216, y=8, z=288}
+[29Apr2025 04:42:22.057] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-215, y=6, z=282} BlockPos{x=-216, y=7, z=290}
+[29Apr2025 04:42:35.604] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=9, z=296} BlockPos{x=-214, y=9, z=307}
+[29Apr2025 04:42:35.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=9, z=296} BlockPos{x=-214, y=9, z=307}
+[29Apr2025 04:42:35.708] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=9, z=296} BlockPos{x=-214, y=9, z=307}
+[29Apr2025 04:42:35.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-216, y=9, z=296} BlockPos{x=-214, y=9, z=307}
+[29Apr2025 04:42:45.835] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[29Apr2025 04:42:46.506] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-199, y=9, z=304} BlockPos{x=-190, y=9, z=302}
+[29Apr2025 04:42:46.705] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=9, z=303} BlockPos{x=-190, y=9, z=303}
+[29Apr2025 04:42:46.753] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=9, z=303} BlockPos{x=-190, y=9, z=303}
+[29Apr2025 04:42:49.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-189, y=9, z=303} BlockPos{x=-183, y=9, z=299}
+[29Apr2025 04:42:56.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 fell from a high place
+[29Apr2025 04:42:58.658] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-169, y=5, z=295} BlockPos{x=-168, y=4, z=295}
+[29Apr2025 04:42:59.539] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-167, y=3, z=295} BlockPos{x=-166, y=4, z=295}
+[29Apr2025 04:43:00.076] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=3, z=295} BlockPos{x=-164, y=4, z=295}
+[29Apr2025 04:43:00.717] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=3, z=295} BlockPos{x=-163, y=5, z=295}
+[29Apr2025 04:43:00.778] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=3, z=295} BlockPos{x=-163, y=5, z=295}
+[29Apr2025 04:43:03.482] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=3, z=295} BlockPos{x=-164, y=6, z=295}
+[29Apr2025 04:43:03.545] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=3, z=295} BlockPos{x=-164, y=6, z=295}
+[29Apr2025 04:43:03.583] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=3, z=295} BlockPos{x=-164, y=6, z=295}
+[29Apr2025 04:43:03.635] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=3, z=295} BlockPos{x=-164, y=6, z=295}
+[29Apr2025 04:43:03.720] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=3, z=295} BlockPos{x=-164, y=6, z=295}
+[29Apr2025 04:43:04.829] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-159, y=6, z=296} BlockPos{x=-157, y=6, z=295}
+[29Apr2025 04:43:04.873] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-158, y=7, z=295} BlockPos{x=-157, y=6, z=295}
+[29Apr2025 04:43:04.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=7, z=295} BlockPos{x=-157, y=6, z=295}
+[29Apr2025 04:43:05.938] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-157, y=7, z=295} BlockPos{x=-155, y=7, z=295}
+[29Apr2025 04:43:08.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-151, y=9, z=295} BlockPos{x=-150, y=8, z=295}
+[29Apr2025 04:43:14.014] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved wrongly!
+[29Apr2025 04:43:19.761] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-144, y=9, z=295} BlockPos{x=-139, y=7, z=295}
+[29Apr2025 04:43:21.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [War Pigs]
+[29Apr2025 04:43:25.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-135, y=9, z=295} BlockPos{x=-130, y=8, z=295}
+[29Apr2025 04:43:28.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-125, y=8, z=295} BlockPos{x=-124, y=9, z=295}
+[29Apr2025 04:43:53.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 walked into fire whilst fighting Succubus
+[29Apr2025 04:45:25.608] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 fell from a high place
+[29Apr2025 04:48:08.953] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Disconnected
+[29Apr2025 04:48:08.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[29Apr2025 04:49:19.897] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:51:27.792] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:51:27.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:51:27.991] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:51:28.091] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:51:28.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:51:59.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 burned to death
+[29Apr2025 04:52:10.694] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:10.791] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:10.890] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:10.991] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:11.093] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:11.192] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:11.291] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:11.391] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:11.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron lost connection: Disconnected
+[29Apr2025 04:52:11.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron left the game
+[29Apr2025 04:52:11.515] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:11.597] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:11.690] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:11.788] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:11.891] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:11.991] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:12.091] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:12.192] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:12.289] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:12.391] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:12.490] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:12.592] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:12.689] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:12.791] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:12.890] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:12.991] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:14.582] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[29Apr2025 04:52:15.290] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:15.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:15.489] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:15.589] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:15.690] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:15.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:15.889] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:15.990] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:16.091] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:16.189] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:16.291] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:16.388] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:16.490] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:16.591] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:16.699] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:16.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:16.890] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:16.993] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:19.389] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:19.490] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:19.591] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:19.693] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:19.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:19.890] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:19.990] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:20.091] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:20.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:20.291] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:20.389] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:20.489] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:20.590] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:20.689] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:23.188] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:23.289] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:23.390] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:23.494] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:23.590] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:23.689] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:23.789] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:23.890] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:23.988] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:24.089] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:52:42.884] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[29Apr2025 04:52:51.597] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=55, z=107} BlockPos{x=-345, y=55, z=108}
+[29Apr2025 04:52:51.647] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=55, z=107} BlockPos{x=-345, y=55, z=108}
+[29Apr2025 04:52:51.697] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=55, z=107} BlockPos{x=-345, y=55, z=108}
+[29Apr2025 04:52:51.745] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=55, z=107} BlockPos{x=-345, y=55, z=108}
+[29Apr2025 04:53:10.996] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=55, z=107} BlockPos{x=-326, y=37, z=118}
+[29Apr2025 04:53:11.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=55, z=107} BlockPos{x=-326, y=37, z=118}
+[29Apr2025 04:53:11.104] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=55, z=107} BlockPos{x=-326, y=37, z=118}
+[29Apr2025 04:53:11.146] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=55, z=107} BlockPos{x=-326, y=37, z=118}
+[29Apr2025 04:53:11.198] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-380, y=55, z=107} BlockPos{x=-326, y=37, z=118}
+[29Apr2025 04:53:11.246] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-324, y=37, z=118} BlockPos{x=-326, y=37, z=118}
+[29Apr2025 04:53:13.494] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-322, y=38, z=118} BlockPos{x=-319, y=38, z=118}
+[29Apr2025 04:53:19.096] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-318, y=38, z=119} BlockPos{x=-311, y=38, z=119}
+[29Apr2025 04:53:24.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-311, y=38, z=119} BlockPos{x=-296, y=38, z=119}
+[29Apr2025 04:53:24.130] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-311, y=38, z=119} BlockPos{x=-296, y=38, z=119}
+[29Apr2025 04:54:24.080] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:54:24.182] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:54:24.281] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:54:24.381] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:54:24.481] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:54:24.581] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:54:24.680] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:54:24.782] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:54:24.882] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:54:24.982] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:54:25.080] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[29Apr2025 04:55:18.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 was slain by Imp Guard
+[29Apr2025 04:55:24.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Bone Serpent
+[29Apr2025 04:55:37.456] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: JAZyb18 lost connection: Disconnected
+[29Apr2025 04:55:37.456] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 left the game
+[29Apr2025 04:56:02.432] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[29Apr2025 04:56:45.984] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 withered away
+[29Apr2025 04:56:56.715] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-179, y=49, z=144} BlockPos{x=-144, y=54, z=128}
+[29Apr2025 04:56:56.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-144, y=55, z=126} BlockPos{x=-144, y=54, z=128}
+[29Apr2025 04:56:56.915] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-144, y=55, z=126} BlockPos{x=-144, y=54, z=128}
+[29Apr2025 04:56:57.765] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-144, y=54, z=126} BlockPos{x=-145, y=53, z=123}
+[29Apr2025 04:57:13.751] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BackedSrAaron[/172.29.23.47:51149] logged in with entity id 179786 at (-435.71039958483067, 120.5625, 1243.6778449479305)
+[29Apr2025 04:57:13.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron joined the game
+[29Apr2025 04:57:32.513] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BackedSrAaron: Saved the game]
+[29Apr2025 04:59:19.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BackedSrAaron: Saved the game]
+[29Apr2025 04:59:23.835] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already

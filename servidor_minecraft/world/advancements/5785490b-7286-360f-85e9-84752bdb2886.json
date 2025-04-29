@@ -2059,6 +2059,7 @@
       "minecraft:skeleton": "2025-04-22 03:51:16 +0000",
       "minecraft:ravager": "2025-04-24 02:48:14 +0000",
       "minecraft:spider": "2025-04-20 21:18:50 +0000",
+      "minecraft:piglin_brute": "2025-04-29 04:42:55 +0000",
       "minecraft:creeper": "2025-04-23 03:39:52 +0000",
       "minecraft:phantom": "2025-04-27 02:30:53 +0000",
       "minecraft:witch": "2025-04-24 03:54:46 +0000",
@@ -7114,6 +7115,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-29 04:37:26 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/spectral_bolt": {
     "criteria": {
       "has_glowstone_dust": "2025-04-29 04:08:22 +0000"
@@ -7165,6 +7172,12 @@
   "minecraft:recipes/building_blocks/yellow_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-29 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-04-29 04:37:26 +0000"
     },
     "done": true
   },
@@ -7252,6 +7265,18 @@
     },
     "done": true
   },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_other": "2025-04-29 04:43:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-29 04:37:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-29 04:32:21 +0000"
@@ -7306,6 +7331,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-04-29 04:41:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lime_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-29 03:37:30 +0000"
@@ -7321,6 +7352,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-04-29 04:32:21 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/crimson_mosquito": {
+    "criteria": {
+      "killed": "2025-04-29 04:36:39 +0000"
     },
     "done": true
   },
@@ -7351,6 +7388,18 @@
   "valhelsia_furniture:recipes/decorations/black_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-04-29 04:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-04-29 04:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-04-29 04:37:26 +0000"
     },
     "done": true
   },
@@ -7387,6 +7436,12 @@
   "valhelsia_furniture:recipes/decorations/pink_fabric_desk_lamp": {
     "criteria": {
       "has_glowstone_dust": "2025-04-29 04:08:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-04-29 04:44:22 +0000"
     },
     "done": true
   },
@@ -7438,6 +7493,12 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/magma_cube": {
+    "criteria": {
+      "has_magma_cream": "2025-04-29 04:41:39 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/obtain_netherite_hoe": {
     "criteria": {
       "netherite_hoe": "2025-04-29 02:45:54 +0000"
@@ -7474,9 +7535,27 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/nether": {
+    "criteria": {
+      "has_nether_wart": "2025-04-29 04:44:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-29 03:37:30 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-04-29 04:37:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-29 04:37:38 +0000"
     },
     "done": true
   },
