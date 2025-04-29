@@ -7790,6 +7790,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:recipes/misc/experience_iron": {
+    "criteria": {
+      "has_iron_box": "2025-04-29 02:28:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/ward_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-04-29 03:00:11 +0000"
@@ -7802,9 +7808,9 @@
     },
     "done": true
   },
-  "grimoireofgaia:recipes/misc/experience_iron": {
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
-      "has_iron_box": "2025-04-29 02:28:00 +0000"
+      "has_allium": "2025-04-29 03:49:42 +0000"
     },
     "done": true
   },
