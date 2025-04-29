@@ -2222,6 +2222,7 @@
       "minecraft:creeper": "2025-04-23 05:04:55 +0000",
       "minecraft:phantom": "2025-04-26 04:39:06 +0000",
       "minecraft:cave_spider": "2025-04-20 21:39:33 +0000",
+      "minecraft:piglin": "2025-04-29 04:29:05 +0000",
       "minecraft:enderman": "2025-04-29 02:26:26 +0000",
       "minecraft:zombie": "2025-04-20 23:00:47 +0000",
       "minecraft:zombie_villager": "2025-04-26 23:10:07 +0000"
@@ -6733,6 +6734,12 @@
   "valhelsia_furniture:recipes/decorations/crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-04-29 04:25:12 +0000"
+    },
+    "done": true
+  },
+  "iter_rpg:iter_exorcist": {
+    "criteria": {
+      "iter_exorcist_0": "2025-04-29 04:26:06 +0000"
     },
     "done": true
   },

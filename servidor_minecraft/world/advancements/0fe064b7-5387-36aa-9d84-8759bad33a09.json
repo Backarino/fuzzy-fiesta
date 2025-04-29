@@ -2028,6 +2028,7 @@
       "minecraft:creeper": "2025-04-20 22:15:24 +0000",
       "minecraft:phantom": "2025-04-24 03:53:13 +0000",
       "minecraft:zombified_piglin": "2025-04-26 21:50:57 +0000",
+      "minecraft:wither_skeleton": "2025-04-29 04:30:51 +0000",
       "minecraft:husk": "2025-04-20 23:38:19 +0000",
       "minecraft:cave_spider": "2025-04-22 04:37:33 +0000",
       "minecraft:piglin": "2025-04-29 03:59:38 +0000",
@@ -2127,6 +2128,7 @@
       "mystic_grove": "2025-04-23 04:52:01 +0000",
       "old_growth_woodland": "2025-04-20 21:51:55 +0000",
       "crystalline_chasm": "2025-04-29 04:16:54 +0000",
+      "withered_abyss": "2025-04-29 04:29:36 +0000",
       "orchard": "2025-04-24 02:31:34 +0000",
       "lavender_forest": "2025-04-24 02:19:40 +0000",
       "moor": "2025-04-27 04:00:55 +0000",
@@ -2135,6 +2137,7 @@
       "wasteland": "2025-04-20 23:05:18 +0000",
       "lush_desert": "2025-04-20 23:30:39 +0000",
       "redwood_forest": "2025-04-25 03:26:04 +0000",
+      "visceral_heap": "2025-04-29 04:32:04 +0000",
       "wasteland_steppe": "2025-04-20 23:10:23 +0000",
       "dune_beach": "2025-04-24 03:33:44 +0000",
       "volcano": "2025-04-20 23:30:02 +0000",
@@ -7917,9 +7920,21 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/straddler": {
+    "criteria": {
+      "killed_by": "2025-04-29 04:30:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:nether/loot_bastion": {
     "criteria": {
       "loot_bastion_other": "2025-04-29 04:09:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-29 04:28:43 +0000"
     },
     "done": true
   },
@@ -8019,6 +8034,12 @@
     },
     "done": true
   },
+  "netherdungeons:recipes/crafting/polished_gilded_blackstone": {
+    "criteria": {
+      "has_items": "2025-04-29 04:34:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-04-29 03:49:42 +0000"
@@ -8088,6 +8109,12 @@
   "travelersbackpack:recipes/misc/nether": {
     "criteria": {
       "has_nether_wart": "2025-04-29 04:10:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-29 04:28:43 +0000"
     },
     "done": true
   },
