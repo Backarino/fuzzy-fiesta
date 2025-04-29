@@ -4359,6 +4359,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lectern": {
+    "criteria": {
+      "has_book": "2025-04-29 03:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-29 02:42:17 +0000"
@@ -4395,6 +4401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/writable_book": {
+    "criteria": {
+      "has_book": "2025-04-29 03:24:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-29 02:37:40 +0000"
@@ -4404,6 +4416,12 @@
   "betterskills:farming_1": {
     "criteria": {
       "farming_1_0": "2025-04-29 03:02:14 +0000"
+    },
+    "done": true
+  },
+  "betterskills:farming_2": {
+    "criteria": {
+      "farming_2_0": "2025-04-29 03:23:03 +0000"
     },
     "done": true
   },
@@ -4527,6 +4545,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-29 03:24:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-04-29 03:23:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
       "has_golden_hoe": "2025-04-29 03:02:56 +0000"
@@ -4569,6 +4599,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-29 03:24:04 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_quarterstaff": {
     "criteria": {
       "has_copper_ingot": "2025-04-29 02:37:14 +0000"
@@ -4608,6 +4644,12 @@
   "spartanweaponry:recipes/copper_javelin": {
     "criteria": {
       "has_copper_ingot": "2025-04-29 02:37:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone": {
+    "criteria": {
+      "has_redstone_block": "2025-04-29 03:19:07 +0000"
     },
     "done": true
   },
@@ -4671,6 +4713,12 @@
     },
     "done": true
   },
+  "morevillagers:recipes/blueprint_table": {
+    "criteria": {
+      "has_paper": "2025-04-29 03:23:59 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_halberd": {
     "criteria": {
       "has_copper_ingot": "2025-04-29 02:37:14 +0000"
@@ -4731,6 +4779,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-04-29 03:23:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-04-29 02:37:40 +0000"
@@ -4752,6 +4806,12 @@
   "minecraft:husbandry/plant_seed": {
     "criteria": {
       "wheat": "2025-04-29 02:14:31 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bookshelf": {
+    "criteria": {
+      "has_book": "2025-04-29 03:24:04 +0000"
     },
     "done": true
   },

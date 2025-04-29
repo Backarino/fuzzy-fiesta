@@ -85,3 +85,5 @@
 [29Apr2025 03:12:08.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [Hot Stuff]
 [29Apr2025 03:15:18.828] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/104332, l='ServerLevel[world]', x=14.50, y=50.00, z=1179.50]
 [29Apr2025 03:18:04.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 was slain by Banshee
+[29Apr2025 03:23:03.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [Farming 2]
+[29Apr2025 03:25:43.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [Enchanter]
