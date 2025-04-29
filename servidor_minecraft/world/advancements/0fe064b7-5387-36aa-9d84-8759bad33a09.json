@@ -7790,5 +7790,11 @@
     },
     "done": true
   },
+  "grimoireofgaia:recipes/misc/experience_iron": {
+    "criteria": {
+      "has_iron_box": "2025-04-29 02:28:00 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
