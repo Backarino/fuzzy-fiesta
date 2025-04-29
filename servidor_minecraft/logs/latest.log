@@ -66,3 +66,10 @@
 [29Apr2025 02:31:33.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 was slain by DonTony09
 [29Apr2025 02:35:16.236] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SILVERTAKU[/172.29.104.71:51059] logged in with entity id 67516 at (740.4454005033466, -48.0, 1246.3803773481231)
 [29Apr2025 02:35:16.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
+[29Apr2025 02:39:54.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [Take Aim, Chaps!]
+[29Apr2025 02:40:42.128] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/75034, l='ServerLevel[world]', x=798.50, y=59.00, z=1289.50]
+[29Apr2025 02:43:51.106] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Zombie['Corvin the Rotten'/67655, l='ServerLevel[world]', x=712.49, y=-9.00, z=1254.39] died: Corvin the Rotten was shot by SILVERTAKU
+[29Apr2025 02:45:54.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has completed the challenge [Serious Dedication]
+[29Apr2025 02:46:47.872] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 lost connection: Disconnected
+[29Apr2025 02:46:47.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 left the game
+[29Apr2025 02:46:56.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [Mining 8]
