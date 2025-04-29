@@ -87,3 +87,10 @@
 [29Apr2025 03:18:04.889] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 was slain by Banshee
 [29Apr2025 03:23:03.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [Farming 2]
 [29Apr2025 03:25:43.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [Enchanter]
+[29Apr2025 03:31:39.614] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:56755] logged in with entity id 112050 at (-368.3031984837737, 118.0, 1261.699999988079)
+[29Apr2025 03:31:39.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[29Apr2025 03:31:57.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JAZyb18 has made the advancement [We Need to Go Deeper]
+[29Apr2025 03:31:59.186] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2314ms or 46 ticks behind
+[29Apr2025 03:45:43.349] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:54937] logged in with entity id 118048 at (208.0799835172096, 86.0, 3912.3810609935413)
+[29Apr2025 03:45:43.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[29Apr2025 03:47:10.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Take Aim, Chaps!]
