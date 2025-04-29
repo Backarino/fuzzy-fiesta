@@ -25,3 +25,5 @@
 [29Apr2025 00:44:13.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
 [29Apr2025 00:47:41.895] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Farming 2]
 [29Apr2025 01:00:54.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Fishing 5]
+[29Apr2025 01:22:26.049] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 lost connection: Disconnected
+[29Apr2025 01:22:26.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 left the game
