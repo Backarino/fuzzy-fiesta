@@ -12627,3 +12627,30 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [29Apr2025 04:59:19.588] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [29Apr2025 04:59:19.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BackedSrAaron: Saved the game]
 [29Apr2025 04:59:23.835] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[29Apr2025 05:00:41.506] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 05:00:41.519] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 05:02:25.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 05:02:25.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 05:02:25.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BackedSrAaron: Saved the game]
+[29Apr2025 05:03:07.781] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 lost connection: Disconnected
+[29Apr2025 05:03:07.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 left the game
+[29Apr2025 05:03:19.530] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 05:03:19.541] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 05:03:19.634] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BackedSrAaron: Saved the game]
+[29Apr2025 05:03:24.233] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron lost connection: Disconnected
+[29Apr2025 05:03:24.234] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron left the game
+[29Apr2025 05:03:48.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[29Apr2025 05:03:48.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[29Apr2025 05:03:48.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[29Apr2025 05:03:48.784] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[29Apr2025 05:03:48.929] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[29Apr2025 05:03:49.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[29Apr2025 05:03:49.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[29Apr2025 05:03:49.182] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[29Apr2025 05:03:49.191] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[29Apr2025 05:03:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[29Apr2025 05:03:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[29Apr2025 05:03:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[29Apr2025 05:03:49.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[29Apr2025 05:03:49.350] [Server thread/DEBUG] [net.minecraftforge.fml.config.ConfigTracker/CONFIG]: Unloading configs type SERVER
+[29Apr2025 05:03:49.351] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
