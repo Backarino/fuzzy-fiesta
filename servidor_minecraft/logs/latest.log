@@ -1757,3 +1757,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [30Apr2025 04:11:14.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
 [30Apr2025 04:17:12.211] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BackedSrAaron[/172.29.23.47:51664] logged in with entity id 1266 at (-435.8939006669274, 121.5, 1241.8809967873217)
 [30Apr2025 04:17:12.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron joined the game
+[30Apr2025 04:18:34.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Hot Stuff]
+[30Apr2025 04:22:20.527] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved wrongly!
+[30Apr2025 04:23:34.075] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was doomed to fall by Stone Golem
+[30Apr2025 04:25:31.857] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:49719] logged in with entity id 4379 at (-418.1462739972742, 120.0, 1238.987500011921)
+[30Apr2025 04:25:31.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
