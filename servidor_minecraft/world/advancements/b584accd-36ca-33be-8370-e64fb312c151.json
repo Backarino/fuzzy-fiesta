@@ -2221,7 +2221,9 @@
       "minecraft:hoglin": "2025-04-29 04:59:05 +0000",
       "minecraft:spider": "2025-04-20 22:55:51 +0000",
       "minecraft:creeper": "2025-04-23 05:04:55 +0000",
+      "minecraft:evoker": "2025-04-30 04:57:38 +0000",
       "minecraft:phantom": "2025-04-26 04:39:06 +0000",
+      "minecraft:wither_skeleton": "2025-04-30 04:56:53 +0000",
       "minecraft:cave_spider": "2025-04-20 21:39:33 +0000",
       "minecraft:piglin": "2025-04-29 04:29:05 +0000",
       "minecraft:enderman": "2025-04-29 02:26:26 +0000",
@@ -6993,6 +6995,42 @@
   "netherdungeons:recipes/campfire_cooking/cooked_hoglin_leg": {
     "criteria": {
       "has_beef": "2025-04-29 04:59:05 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-04-30 04:59:51 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/building_blocks/orange_sandstone": {
+    "criteria": {
+      "has_sand": "2025-04-30 04:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-04-30 04:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_copper_ore": {
+    "criteria": {
+      "has_copper_ore": "2025-04-30 04:59:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-30 04:50:13 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_6": {
+    "criteria": {
+      "fishing_6_0": "2025-04-30 04:53:32 +0000"
     },
     "done": true
   },

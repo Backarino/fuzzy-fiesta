@@ -1770,3 +1770,20 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [30Apr2025 04:48:19.595] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@39e7f67d[id=<null>,name=SILVERTAKU,properties={},legacy=false] (/172.29.104.71:61583) lost connection: Disconnected
 [30Apr2025 04:48:31.456] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SILVERTAKU[/172.29.104.71:61618] logged in with entity id 12431 at (145.29866528360847, 83.37173273223318, 1243.0539686433394)
 [30Apr2025 04:48:31.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
+[30Apr2025 04:53:26.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was slain by Minotaur
+[30Apr2025 04:57:38.945] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Evoker['Vouzhul the Darkmaster'/11141, l='ServerLevel[world]', x=141.72, y=62.48, z=1017.95] died: Vouzhul the Darkmaster was slain by SAURIO12
+[30Apr2025 05:02:55.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [BackedSrAaron: Saved the game]
+[30Apr2025 05:02:59.232] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron lost connection: Disconnected
+[30Apr2025 05:02:59.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron left the game
+[30Apr2025 05:03:10.098] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[30Apr2025 05:03:10.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[30Apr2025 05:03:10.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[30Apr2025 05:03:10.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[30Apr2025 05:03:10.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[30Apr2025 05:03:10.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[30Apr2025 05:03:10.592] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[30Apr2025 05:03:10.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[30Apr2025 05:03:10.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[30Apr2025 05:03:10.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[30Apr2025 05:03:10.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[30Apr2025 05:03:10.757] [Server thread/INFO] [journeymap/]: Loading JourneyMap Forge Configs
