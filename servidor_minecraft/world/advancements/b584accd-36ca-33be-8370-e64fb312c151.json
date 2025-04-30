@@ -6642,9 +6642,21 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+  "alexsmobs:alexsmobs/crimson_mosquito": {
     "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
+      "killed_by": "2025-04-29 04:21:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_planks": {
+    "criteria": {
+      "has_logs": "2025-04-29 04:25:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/crimson_hyphae": {
+    "criteria": {
+      "has_log": "2025-04-29 04:25:03 +0000"
     },
     "done": true
   },
@@ -6678,21 +6690,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/crimson_planks": {
-    "criteria": {
-      "has_logs": "2025-04-29 04:25:03 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/green_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-04-29 04:25:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
     },
     "done": true
   },
@@ -6720,12 +6720,6 @@
     },
     "done": true
   },
-  "netherdungeons:recipes/smelting/cooked_hoglin_leg": {
-    "criteria": {
-      "has_beef": "2025-04-29 04:59:05 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/brown_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-04-29 04:25:12 +0000"
@@ -6735,12 +6729,6 @@
   "minecraft:recipes/redstone/crimson_door": {
     "criteria": {
       "has_planks": "2025-04-29 04:25:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
     },
     "done": true
   },
@@ -6759,12 +6747,6 @@
   "valhelsia_furniture:recipes/decorations/crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-04-29 04:25:12 +0000"
-    },
-    "done": true
-  },
-  "iter_rpg:iter_exorcist": {
-    "criteria": {
-      "iter_exorcist_0": "2025-04-29 04:26:06 +0000"
     },
     "done": true
   },
@@ -6804,12 +6786,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/crimson_fence": {
     "criteria": {
       "has_planks": "2025-04-29 04:25:12 +0000"
@@ -6822,27 +6798,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/crimson_button": {
     "criteria": {
       "has_planks": "2025-04-29 04:25:12 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/crimson_mosquito": {
-    "criteria": {
-      "killed_by": "2025-04-29 04:21:54 +0000"
     },
     "done": true
   },
@@ -6861,12 +6819,6 @@
   "minecraft:recipes/building_blocks/crimson_stairs": {
     "criteria": {
       "has_planks": "2025-04-29 04:25:12 +0000"
-    },
-    "done": true
-  },
-  "netherdungeons:recipes/smoking/cooked_hoglin_leg": {
-    "criteria": {
-      "has_beef": "2025-04-29 04:59:05 +0000"
     },
     "done": true
   },
@@ -6906,12 +6858,6 @@
     },
     "done": true
   },
-  "netherdungeons:recipes/campfire_cooking/cooked_hoglin_leg": {
-    "criteria": {
-      "has_beef": "2025-04-29 04:59:05 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-04-29 04:25:12 +0000"
@@ -6942,18 +6888,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
-    "criteria": {
-      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/crimson_hyphae": {
-    "criteria": {
-      "has_log": "2025-04-29 04:25:03 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/crimson_table": {
     "criteria": {
       "has_crimson_planks": "2025-04-29 04:25:12 +0000"
@@ -6972,12 +6906,6 @@
     },
     "done": true
   },
-  "minecraft:nether/find_bastion": {
-    "criteria": {
-      "bastion": "2025-04-29 04:37:42 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/black_crimson_chair": {
     "criteria": {
       "has_crimson_planks": "2025-04-29 04:25:12 +0000"
@@ -6990,9 +6918,81 @@
     },
     "done": true
   },
+  "iter_rpg:iter_exorcist": {
+    "criteria": {
+      "iter_exorcist_0": "2025-04-29 04:26:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_bastion": {
+    "criteria": {
+      "bastion": "2025-04-29 04:37:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_polished_blackstone_bricks": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_polished_blackstone_bricks_stonecutting": {
+    "criteria": {
+      "has_polished_blackstone_bricks": "2025-04-29 04:47:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/mojang_banner_pattern": {
     "criteria": {
       "has_enchanted_golden_apple": "2025-04-29 04:53:36 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/smelting/cooked_hoglin_leg": {
+    "criteria": {
+      "has_beef": "2025-04-29 04:59:05 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/smoking/cooked_hoglin_leg": {
+    "criteria": {
+      "has_beef": "2025-04-29 04:59:05 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/campfire_cooking/cooked_hoglin_leg": {
+    "criteria": {
+      "has_beef": "2025-04-29 04:59:05 +0000"
     },
     "done": true
   },
