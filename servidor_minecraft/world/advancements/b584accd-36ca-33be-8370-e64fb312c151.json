@@ -6998,15 +6998,27 @@
     },
     "done": true
   },
-  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting": {
-    "criteria": {
-      "has_item": "2025-04-30 04:59:51 +0000"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/orange_sandstone": {
     "criteria": {
       "has_sand": "2025-04-30 04:50:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-04-30 04:50:13 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_6": {
+    "criteria": {
+      "fishing_6_0": "2025-04-30 04:53:32 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/copper_ingot_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-04-30 04:59:51 +0000"
     },
     "done": true
   },
@@ -7022,15 +7034,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/glass": {
+  "iceandfire:iceandfire/dragon_egg": {
     "criteria": {
-      "has_smelts_to_glass": "2025-04-30 04:50:13 +0000"
-    },
-    "done": true
-  },
-  "betterskills:fishing_6": {
-    "criteria": {
-      "fishing_6_0": "2025-04-30 04:53:32 +0000"
+      "egg": "2025-05-02 02:07:04 +0000"
     },
     "done": true
   },
