@@ -2231,6 +2231,7 @@
       "minecraft:piglin": "2025-04-29 04:29:05 +0000",
       "minecraft:enderman": "2025-04-29 02:26:26 +0000",
       "minecraft:zombie": "2025-04-20 23:00:47 +0000",
+      "minecraft:drowned": "2025-05-02 03:30:35 +0000",
       "minecraft:zombie_villager": "2025-04-26 23:10:07 +0000"
     },
     "done": false
@@ -7067,9 +7068,27 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_horn": {
+    "criteria": {
+      "bestiary": "2025-05-02 03:27:44 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-05-02 03:28:34 +0000"
+    },
+    "done": true
+  },
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-05-02 02:24:36 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_7": {
+    "criteria": {
+      "fishing_7_0": "2025-05-02 03:32:01 +0000"
     },
     "done": true
   },

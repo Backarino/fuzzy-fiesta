@@ -444,6 +444,7 @@
       "melon_slice": "2025-04-22 04:00:04 +0000",
       "golden_carrot": "2025-04-24 04:30:20 +0000",
       "cooked_chicken": "2025-04-29 03:38:13 +0000",
+      "enchanted_golden_apple": "2025-05-02 03:32:51 +0000",
       "carrot": "2025-05-02 02:38:30 +0000"
     },
     "done": false
@@ -7596,9 +7597,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_acacia_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-02 03:31:42 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/fire_stew": {
     "criteria": {
       "has_item": "2025-05-02 03:17:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_spruce_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-02 03:31:42 +0000"
     },
     "done": true
   },
@@ -7626,6 +7639,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_crimson_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-02 03:31:42 +0000"
+    },
+    "done": true
+  },
   "betterskills:farming_4": {
     "criteria": {
       "farming_4_0": "2025-05-02 02:38:09 +0000"
@@ -7635,6 +7654,18 @@
   "iceandfire:iceandfire/bestiary": {
     "criteria": {
       "bestiary": "2025-05-02 03:15:24 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_oak_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-02 03:31:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_dark_oak_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-02 03:31:42 +0000"
     },
     "done": true
   },
@@ -7650,6 +7681,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_warped_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-02 03:31:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_jungle_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-02 03:31:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/orange_glazed_terracotta": {
     "criteria": {
       "has_orange_terracotta": "2025-05-02 03:02:58 +0000"
@@ -7662,9 +7705,33 @@
     },
     "done": true
   },
+  "betterskills:combat_6": {
+    "criteria": {
+      "combat_6_0": "2025-05-02 03:27:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/food/ambrosia": {
     "criteria": {
       "has_item": "2025-05-02 02:49:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_birch_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-02 03:31:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_mangrove_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-02 03:31:42 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_cherry_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-02 03:31:42 +0000"
     },
     "done": true
   },
