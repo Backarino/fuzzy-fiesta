@@ -7596,9 +7596,21 @@
     },
     "done": true
   },
+  "iceandfire:recipes/food/fire_stew": {
+    "criteria": {
+      "has_item": "2025-05-02 03:17:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:saber": {
     "criteria": {
       "has_saber": "2025-05-02 02:53:08 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:dagger": {
+    "criteria": {
+      "has_dagger": "2025-05-02 03:15:36 +0000"
     },
     "done": true
   },
@@ -7617,6 +7629,12 @@
   "betterskills:farming_4": {
     "criteria": {
       "farming_4_0": "2025-05-02 02:38:09 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/bestiary": {
+    "criteria": {
+      "bestiary": "2025-05-02 03:15:24 +0000"
     },
     "done": true
   },

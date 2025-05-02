@@ -2152,3 +2152,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [02May2025 03:08:59.444] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Mason'/44435, l='ServerLevel[world]', x=731.99, y=71.00, z=61.52] died, message: 'Mason was slain by Lightning Dragon'
 [02May2025 03:10:19.867] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SILVERTAKU moved wrongly!
 [02May2025 03:10:20.510] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SILVERTAKU moved wrongly!
+[02May2025 03:14:29.860] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SILVERTAKU moved wrongly!
+[02May2025 03:14:30.560] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SILVERTAKU moved wrongly!
+[02May2025 03:14:31.762] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SILVERTAKU moved wrongly!
+[02May2025 03:14:32.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU was killed by Witch using magic
+[02May2025 03:14:37.505] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Hunter'/48091, l='ServerLevel[world]', x=781.61, y=113.02, z=51.28] died, message: 'Hunter was struck with lightning by Lightning Dragon'
+[02May2025 03:15:24.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Book of Monsters]
+[02May2025 03:15:36.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [A Rogue's Best Friend]
+[02May2025 03:16:56.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU was slain by Ghost
