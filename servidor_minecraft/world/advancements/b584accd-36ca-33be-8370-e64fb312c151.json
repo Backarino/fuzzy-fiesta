@@ -7055,6 +7055,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-05-02 02:53:34 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_planks": {
     "criteria": {
       "has_logs": "2025-05-02 02:27:30 +0000"
