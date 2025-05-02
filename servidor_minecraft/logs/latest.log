@@ -2764,3 +2764,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [02May2025 03:39:48.487] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Skeleton['Brog the Bulwark'/55886, l='ServerLevel[world]', x=714.30, y=76.01, z=70.51] died: Brog the Bulwark was burnt to a crisp whilst fighting DonTony09
 [02May2025 03:45:15.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Economy]
 [02May2025 03:49:32.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [En Garde!]
+[02May2025 03:58:12.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Dragon Growth Hormone]
+[02May2025 04:01:13.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [The Song of the Dragons]
+[02May2025 04:05:18.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Welcome To The Jungle]
+[02May2025 04:05:32.006] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.

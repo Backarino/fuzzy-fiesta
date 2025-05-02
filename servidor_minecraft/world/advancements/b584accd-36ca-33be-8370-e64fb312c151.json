@@ -7050,6 +7050,12 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-05-02 03:58:12 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/building_blocks/mahogany_wood": {
     "criteria": {
       "has_log": "2025-05-02 02:27:30 +0000"
@@ -7059,6 +7065,12 @@
   "minecraft:recipes/misc/conduit": {
     "criteria": {
       "has_nautilus_shell": "2025-05-02 02:53:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_flute": {
+    "criteria": {
+      "bestiary": "2025-05-02 04:01:13 +0000"
     },
     "done": true
   },

@@ -11352,3 +11352,71 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [02May2025 03:54:54.249] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [02May2025 03:54:55.053] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
 [02May2025 03:54:55.113] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:55:37.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:55:39.623] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:55:40.372] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:55:43.451] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:46.663] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:47.416] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:48.012] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:48.013] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:48.892] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:48.936] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:49.661] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:50.317] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:50.368] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:51.215] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:51.959] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:51.960] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:52.011] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:54.359] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:55.107] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:55.158] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:56:55.858] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:57:01.376] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:57:02.026] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:57:02.660] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:57:03.408] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:57:04.057] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:57:05.569] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 03:58:12.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [Dragon Growth Hormone]
+[02May2025 03:58:38.878] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 03:58:38.889] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 03:59:45.767] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:01:13.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 has made the advancement [The Song of the Dragons]
+[02May2025 04:02:38.815] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:02:39.609] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:skeletonshieldboss at BlockPos{x=1239, y=-21, z=-41} at Chest with:minecraft:chests/simple_dungeon
+[02May2025 04:02:52.881] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:02:53.610] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:02:54.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:02:54.273] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:02:55.151] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:02:55.920] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:02:56.586] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:02:57.567] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:02:58.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:02:58.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:02:58.377] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:02:59.653] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:02:59.653] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:03:06.524] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:03:08.001] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:03:08.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:03:08.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:03:08.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:03:08.040] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:03:08.687] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:03:32.601] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:03:34.798] [Server thread/DEBUG] [Spartan Weaponry/]: Intercepted DamageSource.playerAttack() method!
+[02May2025 04:03:39.056] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[02May2025 04:03:39.070] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[02May2025 04:03:44.914] [Worker-Main-55/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-802, y=-13, z=3610} at Chest with:minecraft:chests/simple_dungeon
+[02May2025 04:04:16.275] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:strayboss at BlockPos{x=-978, y=-31, z=3316} at Chest with:minecraft:chests/simple_dungeon
+[02May2025 04:04:24.128] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:huskboss at BlockPos{x=-1062, y=-22, z=3464} at Chest with:minecraft:chests/simple_dungeon
+[02May2025 04:04:33.104] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-950, y=28, z=3219} at Chest with:minecraft:chests/simple_dungeon
+[02May2025 04:04:42.381] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:guardianboss at BlockPos{x=-1164, y=50, z=3166} at Chest with:minecraft:chests/underwater_ruin_big
+[02May2025 04:04:55.251] [Worker-Main-3/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:evilchickenboss at BlockPos{x=-1243, y=-27, z=3271} at Chest with:minecraft:chests/simple_dungeon
+[02May2025 04:05:18.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Welcome To The Jungle]
+[02May2025 04:05:32.006] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[02May2025 04:05:44.700] [Worker-Main-2/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:witchboss at BlockPos{x=-1185, y=-13, z=2968} at Chest with:minecraft:chests/simple_dungeon
+[02May2025 04:05:54.753] [Worker-Main-11/DEBUG] [com.brutalbosses.BrutalBosses/]: Spawning brutalbosses:zombietoxicboss at BlockPos{x=-1682, y=-9, z=3084} at Chest with:minecraft:chests/simple_dungeon

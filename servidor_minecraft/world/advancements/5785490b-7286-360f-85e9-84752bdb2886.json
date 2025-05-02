@@ -7761,6 +7761,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template": {
+    "criteria": {
+      "has_wild_armor_trim_smithing_template": "2025-05-02 03:58:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wild_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-05-02 03:58:45 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_birch_table": {
     "criteria": {
       "has_blue_carpet": "2025-05-02 03:31:42 +0000"
