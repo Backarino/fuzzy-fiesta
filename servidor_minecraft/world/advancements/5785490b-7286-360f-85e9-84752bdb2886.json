@@ -5673,6 +5673,7 @@
   },
   "morevillagers:all_workstations_get": {
     "criteria": {
+      "blueprinttable": "2025-05-02 04:10:10 +0000",
       "brewingstand": "2025-04-26 04:07:42 +0000",
       "grindstone": "2025-04-23 05:15:17 +0000",
       "gardeningtable": "2025-05-02 02:50:23 +0000",
@@ -7614,6 +7615,12 @@
   "iceandfire:recipes/food/fire_stew": {
     "criteria": {
       "has_item": "2025-05-02 03:17:41 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/rogue_eye": {
+    "criteria": {
+      "rogue_eye": "2025-05-02 04:05:18 +0000"
     },
     "done": true
   },

@@ -58,6 +58,7 @@
       "minecraft:snowy_slopes": "2025-04-27 03:44:17 +0000",
       "minecraft:deep_ocean": "2025-04-24 03:40:16 +0000",
       "minecraft:eroded_badlands": "2025-04-20 23:04:44 +0000",
+      "minecraft:frozen_river": "2025-05-02 04:15:44 +0000",
       "minecraft:sunflower_plains": "2025-04-24 02:10:28 +0000",
       "minecraft:cherry_grove": "2025-04-27 03:14:12 +0000",
       "minecraft:birch_forest": "2025-04-22 02:59:11 +0000",
@@ -70,6 +71,7 @@
       "minecraft:lukewarm_ocean": "2025-04-20 21:36:50 +0000",
       "minecraft:river": "2025-04-20 21:01:53 +0000",
       "minecraft:stony_shore": "2025-04-23 04:34:02 +0000",
+      "minecraft:snowy_plains": "2025-05-02 04:14:58 +0000",
       "minecraft:dripstone_caves": "2025-04-20 22:32:32 +0000",
       "minecraft:grove": "2025-04-28 02:38:21 +0000",
       "minecraft:cold_ocean": "2025-04-28 04:13:59 +0000",
@@ -80,6 +82,7 @@
       "minecraft:deep_frozen_ocean": "2025-04-28 04:12:07 +0000",
       "minecraft:jungle": "2025-04-20 21:29:56 +0000",
       "minecraft:ocean": "2025-04-24 03:31:26 +0000",
+      "minecraft:snowy_beach": "2025-05-02 04:13:41 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-23 04:25:01 +0000",
       "minecraft:frozen_peaks": "2025-04-28 02:38:56 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-23 04:04:50 +0000",
@@ -2034,6 +2037,7 @@
       "minecraft:piglin": "2025-04-29 03:59:38 +0000",
       "minecraft:enderman": "2025-04-22 03:32:08 +0000",
       "minecraft:silverfish": "2025-04-22 03:36:16 +0000",
+      "minecraft:stray": "2025-05-02 04:15:11 +0000",
       "minecraft:zombie": "2025-04-20 22:58:41 +0000",
       "minecraft:drowned": "2025-04-22 04:09:42 +0000",
       "minecraft:zombie_villager": "2025-04-22 03:30:30 +0000"
@@ -2133,6 +2137,7 @@
       "lavender_forest": "2025-04-24 02:19:40 +0000",
       "moor": "2025-04-27 04:00:55 +0000",
       "mediterranean_forest": "2025-04-20 21:35:51 +0000",
+      "coniferous_forest": "2025-05-02 04:05:36 +0000",
       "spider_nest": "2025-04-24 01:43:36 +0000",
       "wasteland": "2025-04-20 23:05:18 +0000",
       "lush_desert": "2025-04-20 23:30:39 +0000",
@@ -2147,6 +2152,7 @@
       "lavender_field": "2025-04-24 02:20:04 +0000",
       "grassland": "2025-04-23 04:42:44 +0000",
       "prairie": "2025-04-24 02:10:07 +0000",
+      "snowy_coniferous_forest": "2025-05-02 04:13:06 +0000",
       "glowing_grotto": "2025-04-22 04:34:21 +0000",
       "undergrowth": "2025-04-27 02:05:12 +0000",
       "rainforest": "2025-04-20 21:53:08 +0000",
@@ -8130,6 +8136,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/sharko": {
+    "criteria": {
+      "kill": "2025-05-02 04:08:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
     "criteria": {
       "has_dark_prismarine": "2025-05-02 03:45:34 +0000"
@@ -8139,6 +8151,12 @@
   "valhelsia_furniture:recipes/decorations/cyan_upholstered_warped_stool": {
     "criteria": {
       "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_sea_serpent": {
+    "criteria": {
+      "killed_fire_dragon": "2025-05-02 04:08:00 +0000"
     },
     "done": true
   },
@@ -8208,6 +8226,12 @@
     },
     "done": true
   },
+  "grimoireofgaia:main/kobold": {
+    "criteria": {
+      "kill": "2025-05-02 04:13:23 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_stool": {
     "criteria": {
       "has_warped_slab": "2025-05-02 03:43:25 +0000"
@@ -8235,6 +8259,12 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/coal_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-05-02 02:00:50 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/fur_to_leather": {
+    "criteria": {
+      "has_fur": "2025-05-02 04:13:24 +0000"
     },
     "done": true
   },
