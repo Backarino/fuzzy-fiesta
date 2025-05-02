@@ -8118,15 +8118,111 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/iron_golem_smithing": {
+    "criteria": {
+      "has_iron_golem": "2025-05-02 03:39:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-02 03:45:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-05-02 03:38:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab_from_dark_prismarine_stonecutting": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-02 03:45:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/warped_desk_drawer": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/coal_from_smelting_coal_ore": {
     "criteria": {
       "has_coal_ore": "2025-05-02 02:00:50 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:recipes/misc/purple_dye_from_violet": {
     "criteria": {
       "has_flower": "2025-05-02 03:30:12 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_stairs": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-02 03:45:34 +0000"
     },
     "done": true
   },
@@ -8139,6 +8235,54 @@
   "forbidden_arcanus:recipes/misc/clibano_combustion/coal_from_clibano_combusting": {
     "criteria": {
       "has_item": "2025-05-02 02:00:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_prismarine_slab": {
+    "criteria": {
+      "has_dark_prismarine": "2025-05-02 03:45:34 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/gray_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-05-02 03:38:24 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_warped_stool": {
+    "criteria": {
+      "has_warped_slab": "2025-05-02 03:43:25 +0000"
     },
     "done": true
   },
