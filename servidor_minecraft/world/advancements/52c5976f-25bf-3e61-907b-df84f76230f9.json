@@ -1113,7 +1113,8 @@
       "cartographytable": "2025-04-20 21:05:27 +0000",
       "brewingstand": "2025-04-20 20:53:13 +0000",
       "grindstone": "2025-04-26 21:37:29 +0000",
-      "blastfurnace": "2025-04-20 20:48:58 +0000"
+      "blastfurnace": "2025-04-20 20:48:58 +0000",
+      "stonecutter": "2025-05-03 04:59:00 +0000"
     },
     "done": false
   },
@@ -3071,6 +3072,7 @@
       "spider_nest": "2025-04-20 21:39:01 +0000",
       "redwood_forest": "2025-04-25 04:35:53 +0000",
       "rocky_rainforest": "2025-04-20 22:54:21 +0000",
+      "volcanic_plains": "2025-05-03 04:50:44 +0000",
       "lavender_field": "2025-04-25 04:35:47 +0000",
       "grassland": "2025-04-27 03:51:22 +0000",
       "undergrowth": "2025-04-29 04:06:56 +0000",
@@ -7235,6 +7237,198 @@
   "iceandfire:recipes/misc/dragon_ice": {
     "criteria": {
       "has_item": "2025-05-02 02:10:10 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_jungle_stool": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-05-03 05:05:10 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_birch_chair": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_cherry_chair": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_warped_chair": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/orc": {
+    "criteria": {
+      "kill": "2025-05-03 05:05:28 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_crimson_chair": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_acacia_chair": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_crimson_stool": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_banner": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_curtain": {
+    "criteria": {
+      "has_item": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_warped_chair": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-05-03 05:04:58 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_warped_stool": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_chair": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-05-03 04:55:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/magenta_sleeping_bag": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_stool": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_birch_stool": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_birch_chair": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_bed": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_fabric_desk_lamp": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:recipes/misc/fur_to_leather": {
+    "criteria": {
+      "has_fur": "2025-05-03 05:00:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_carpet": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_mangrove_chair": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_crimson_chair": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-05-03 04:55:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_cherry_stool": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_cherry_chair": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_magenta_wool": "2025-05-03 05:01:14 +0000"
     },
     "done": true
   },

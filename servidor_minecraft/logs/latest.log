@@ -1754,3 +1754,169 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [03May2025 04:18:40.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BackedSrAaron[/172.29.23.47:61288] logged in with entity id 118 at (-424.53737012896073, 140.0, 1344.7829682379047)
 [03May2025 04:18:40.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron joined the game
 [03May2025 04:18:43.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2613ms or 52 ticks behind
+[03May2025 04:22:03.832] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@35960dfb[id=<null>,name=SILVERTAKU,properties={},legacy=false] (/172.29.104.71:61764) lost connection: Disconnected
+[03May2025 04:23:10.621] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SILVERTAKU[/172.29.104.71:61836] logged in with entity id 674 at (1342.9328072827896, 131.0, 125.35212542593705)
+[03May2025 04:23:10.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
+[03May2025 04:30:42.852] [Worker-Main-29/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[03May2025 04:31:37.870] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:50497] logged in with entity id 3003 at (-1923.3733462264104, 69.0, 2093.442521971405)
+[03May2025 04:31:37.892] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[03May2025 04:32:40.153] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Phantom['Chrz the quick'/3065, l='ServerLevel[world]', x=-1881.36, y=61.05, z=2153.40] died: Chrz the quick was slain by DonTony09
+[03May2025 04:38:08.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SILVERTAKU moved too quickly! 4.924540878054813,-4.920295357670753,7.235024766856554
+[03May2025 04:38:17.234] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:17.335] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:17.438] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:17.537] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:17.639] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:17.737] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:17.832] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:17.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:18.044] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:18.133] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:18.238] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:18.350] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:18.435] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:18.533] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:18.639] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:18.736] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:18.834] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:18.933] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:19.034] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:19.136] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:19.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:19.337] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:19.435] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:19.536] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:19.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:19.736] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:19.832] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:19.935] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:20.034] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:20.134] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:20.265] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:20.423] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:20.524] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:20.583] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:20.650] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:20.735] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:20.836] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:20.940] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:21.032] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:21.134] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:21.237] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:21.336] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:21.433] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:21.535] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:21.636] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:21.735] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:21.836] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:21.938] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:22.036] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:22.136] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:22.240] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:22.335] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:22.445] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:22.534] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:22.634] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:22.735] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:22.835] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:22.934] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:23.034] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:23.134] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:23.235] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:23.334] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:23.434] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:23.539] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:23.638] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:23.739] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:23.835] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:23.935] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:24.034] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:24.133] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:24.235] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:24.334] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:38:24.434] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:39:29.221] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! -7.755433860626908,0.0,-7.856972813054654
+[03May2025 04:39:29.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! -8.643513655900506,0.0,-8.703320722643639
+[03May2025 04:39:29.222] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! -9.53690857629158,0.0,-9.544100702980813
+[03May2025 04:40:24.092] [Worker-Main-28/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[03May2025 04:40:25.795] [Worker-Main-27/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03May2025 04:40:25.795] [Worker-Main-27/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/short_oak_pathway
+[03May2025 04:40:40.711] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:41:03.311] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[03May2025 04:48:22.730] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved too quickly! -2.1942030786872238,-0.06526981341113469,-10.883686685816997
+[03May2025 04:48:22.735] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved too quickly! -2.6333791606537034,-0.07408688214403014,-13.06208800265756
+[03May2025 04:48:22.736] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved too quickly! -3.0726376198999787,-0.08186353676643421,-15.240897927302967
+[03May2025 04:48:22.781] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved too quickly! -2.196243540179694,-0.03949905557067268,-10.893807783447869
+[03May2025 04:48:22.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved too quickly! -2.196374596860778,-0.03815557432548644,-10.894330438396196
+[03May2025 04:48:33.582] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=784, y=76, z=-540}
+[03May2025 04:49:22.136] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=780, y=67, z=-540}
+[03May2025 04:49:22.136] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=780, y=67, z=-536}
+[03May2025 04:49:53.080] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Set the weather to clear]
+[03May2025 04:50:11.905] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.37692130591536
+[03May2025 04:50:11.967] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.7682237561193546
+[03May2025 04:50:12.002] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.9776018954943311
+[03May2025 04:51:04.309] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.3456741003979005
+[03May2025 04:51:04.350] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 1.4380863297635642
+[03May2025 04:51:04.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 2.5305050080467026
+[03May2025 04:51:04.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.8078325394835701
+[03May2025 04:51:04.849] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.900258662379656
+[03May2025 04:51:04.904] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 1.9926847748138243
+[03May2025 04:51:04.957] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.8078336545522689
+[03May2025 04:51:05.006] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.8078342672631607
+[03May2025 04:51:05.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.8078345951125812
+[03May2025 04:51:05.095] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.807834770538193
+[03May2025 04:51:05.149] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.8078348644050948
+[03May2025 04:51:05.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.8078349146312576
+[03May2025 04:51:05.250] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.8078349415063713
+[03May2025 04:51:05.306] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.8078349558866194
+[03May2025 04:51:05.373] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.8078349635811719
+[03May2025 04:51:05.405] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.8078349676984544
+[03May2025 04:51:05.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.807834969901478
+[03May2025 04:51:05.501] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.8078349710801831
+[03May2025 04:51:05.581] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.807834971711145
+[03May2025 04:51:05.582] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.8078349720485676
+[03May2025 04:51:05.648] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.8078349722291023
+[03May2025 04:51:05.708] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.7995487865935047
+[03May2025 04:51:05.758] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 1.8792224382316363
+[03May2025 04:51:05.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.7927238813047097
+[03May2025 04:51:05.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.7914631431226553
+[03May2025 04:51:05.902] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.7907885472575344
+[03May2025 04:51:05.970] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.28253575908024686
+[03May2025 04:53:38.617] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.38599757534484525
+[03May2025 04:53:38.695] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 1.2239078042640585
+[03May2025 04:53:38.748] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.6803751379388814
+[03May2025 04:53:38.800] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 1.4887768724256603
+[03May2025 04:53:38.853] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.6645857309039229
+[03May2025 04:53:38.915] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.6616291977945821
+[03May2025 04:53:38.918] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.6600472158746697
+[03May2025 04:53:38.968] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.6592007288905961
+[03May2025 04:53:39.018] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.6587477905825381
+[03May2025 04:53:39.068] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.6585054323245458
+[03May2025 04:53:39.119] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.6583757512528337
+[03May2025 04:53:39.169] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.6583063614968978
+[03May2025 04:53:39.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.416744252232661
+[03May2025 04:53:39.269] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.28748918379426414
+[03May2025 04:53:39.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.5818327716199292
+[03May2025 04:56:12.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has completed the challenge [Hero of the Village]
+[03May2025 04:57:01.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Combat 8]
+[03May2025 04:57:35.665] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.25882015426009275
+[03May2025 04:57:35.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.533705135531136
+[03May2025 04:57:40.719] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 0.4567072086366579
+[03May2025 04:57:40.766] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 1.3382631548540758
+[03May2025 04:57:40.816] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved wrongly! 2.2565678604570194
+[03May2025 04:57:42.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [First Trade]
+[03May2025 04:57:42.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [What a Deal!]
+[03May2025 04:59:52.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Mother of Dragons]
+[03May2025 04:59:56.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Set the weather to rain & thunder]
+[03May2025 05:01:05.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 fell from a high place
+[03May2025 05:01:49.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 fell from a high place
+[03May2025 05:03:41.594] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SILVERTAKU lost connection: Disconnected
+[03May2025 05:03:41.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU left the game
+[03May2025 05:03:41.616] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SILVERTAKU[/172.29.104.71:63958] logged in with entity id 38058 at (746.2291567929949, 72.0, -486.471479647421)
+[03May2025 05:03:41.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
+[03May2025 05:04:24.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved too quickly! -3.0771942295441477,0.0,10.58354749815203
+[03May2025 05:04:24.818] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of BackedSrAaron) moved too quickly! -3.788415555021288,0.0,12.672435580433472
+[03May2025 05:04:58.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [We do a little trolling...]
+[03May2025 05:05:10.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [It's an Emu!!!]
+[03May2025 05:07:42.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Combat 5]
+[03May2025 05:11:10.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [A Nice-y Look]
