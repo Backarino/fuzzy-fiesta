@@ -5653,6 +5653,7 @@
     "criteria": {
       "locate_shipwreck": "2025-04-24 03:20:14 +0000",
       "locate_ruin_warm": "2025-04-23 04:14:57 +0000",
+      "locate_underwater_small_ruins": "2025-05-03 06:02:02 +0000",
       "locate_underwater_warm_small_ruins": "2025-04-23 04:17:02 +0000",
       "locate_ruin_cold": "2025-04-26 04:37:14 +0000"
     },
@@ -8336,15 +8337,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/raw_gold": {
+    "criteria": {
+      "has_raw_gold_block": "2025-05-03 05:40:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-05-03 05:37:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-03 05:41:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/amphithere_macuahuitl": {
     "criteria": {
       "has_item": "2025-05-03 04:52:13 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-03 05:41:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/tide_teal_boots": {
     "criteria": {
       "has_item": "2025-05-03 04:57:10 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/black_eye": {
+    "criteria": {
+      "black_eye": "2025-05-03 05:40:56 +0000"
     },
     "done": true
   },
@@ -8378,9 +8409,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-03 05:41:43 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/sea_serpent_scales_teal_to_sea_serpent_scale_block_teal": {
     "criteria": {
       "has_sea_serpent_scales_teal": "2025-05-03 04:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2025-05-03 05:41:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-05-03 05:42:06 +0000"
     },
     "done": true
   },
