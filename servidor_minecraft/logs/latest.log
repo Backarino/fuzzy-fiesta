@@ -1764,3 +1764,4 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [04May2025 23:14:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
 [04May2025 23:25:14.943] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/6616, l='ServerLevel[world]', x=-269.50, y=53.00, z=1392.50]
 [04May2025 23:30:17.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash has made the advancement [Mining]
+[04May2025 23:54:24.548] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-374, y=-52, z=1361} BlockPos{x=-374, y=-53, z=1362}
