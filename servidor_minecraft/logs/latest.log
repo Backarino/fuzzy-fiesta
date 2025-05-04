@@ -1794,3 +1794,24 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [04May2025 03:27:23.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Crimson Mosquito
 [04May2025 03:28:17.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Piglin
 [04May2025 03:29:20.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Piglin
+[04May2025 03:35:31.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was slain by Deathword
+[04May2025 03:36:43.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was slain by Bone Knight
+[04May2025 03:39:12.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Piglin
+[04May2025 03:41:01.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-297, y=39, z=790} BlockPos{x=-296, y=39, z=790}
+[04May2025 03:41:05.233] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has completed the challenge [N O]
+[04May2025 03:41:50.470] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-437, y=77, z=866} BlockPos{x=-440, y=78, z=908}
+[04May2025 03:43:34.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was blown up by Creeper
+[04May2025 03:46:05.903] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[04May2025 03:47:37.132] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.heightproviders.UniformHeight/]: Empty height range: [-33 absolute--50 absolute]
+[04May2025 03:49:20.081] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-607, y=56, z=806} BlockPos{x=-607, y=54, z=805}
+[04May2025 03:49:33.399] [Worker-Main-1/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
+[04May2025 03:49:35.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Who is Cutting Onions?]
+[04May2025 03:49:38.342] [Worker-Main-2/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:mine_with_campsite/side_pool which is being called from mvs:other_decoration/mine_with_campsite
+[04May2025 03:50:09.639] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wheat_grain_bin
+[04May2025 03:51:44.316] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[04May2025 03:51:44.317] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[04May2025 03:51:44.317] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[04May2025 03:51:44.317] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[04May2025 03:51:44.317] [Worker-Main-3/WARN] [com.finndog.mvs.MVSCommon/]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:nature/long_oak_pathway
+[04May2025 03:52:36.644] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:fletching_table} but failed at location BlockPos{x=-2755, y=-36, z=2941}
+[04May2025 03:53:32.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Hidden in the Depths]
