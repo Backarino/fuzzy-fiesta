@@ -1760,3 +1760,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [04May2025 23:03:08.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash joined the game
 [04May2025 23:04:00.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash has made the advancement [Sweet Dreams]
 [04May2025 23:05:32.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash has made the advancement [Halberdier]
+[04May2025 23:14:30.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:60800] logged in with entity id 3689 at (-425.8092028108633, 140.0, 1325.300000011921)
+[04May2025 23:14:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
