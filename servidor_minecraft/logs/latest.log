@@ -1786,3 +1786,11 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [04May2025 03:18:13.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BackedSrAaron> uuu
 [04May2025 03:18:20.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BackedSrAaron> ya voy jaja
 [04May2025 03:21:08.590] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/15311, l='ServerLevel[world]', x=14.50, y=49.00, z=1184.50]
+[04May2025 03:22:55.154] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved too quickly! -0.03607565971691429,-0.6754387601294809,10.271268061017281
+[04May2025 03:23:30.907] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity realmrpg_demons:demon_lord but it was marked as removed already
+[04May2025 03:25:35.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Ancient Demon Lord
+[04May2025 03:26:06.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was doomed to fall by Crimson Mosquito
+[04May2025 03:26:43.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Lemurian
+[04May2025 03:27:23.625] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Crimson Mosquito
+[04May2025 03:28:17.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Piglin
+[04May2025 03:29:20.858] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Piglin
