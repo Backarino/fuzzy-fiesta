@@ -8469,6 +8469,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_scrap_from_blasting": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-04 03:53:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_ancient_debris": {
+    "criteria": {
+      "ancient_debris": "2025-05-04 03:53:32 +0000"
+    },
+    "done": true
+  },
   "netherdungeons:recipes/smelting/cooked_hoglin_leg": {
     "criteria": {
       "has_beef": "2025-05-04 03:29:12 +0000"
@@ -8478,6 +8490,12 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template": {
     "criteria": {
       "has_snout_armor_trim_smithing_template": "2025-05-04 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:nether/warm_reception": {
+    "criteria": {
+      "requirement": "2025-05-04 03:57:13 +0000"
     },
     "done": true
   },
@@ -8496,6 +8514,12 @@
   "netherdungeons:recipes/smoking/cooked_hoglin_leg": {
     "criteria": {
       "has_beef": "2025-05-04 03:29:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_scrap": {
+    "criteria": {
+      "has_ancient_debris": "2025-05-04 03:53:32 +0000"
     },
     "done": true
   },
@@ -8520,6 +8544,18 @@
   "minecraft:recipes/misc/snout_armor_trim_smithing_template_smithing_trim": {
     "criteria": {
       "has_smithing_trim_template": "2025-05-04 03:47:00 +0000"
+    },
+    "done": true
+  },
+  "endrem:main/cursed_eye": {
+    "criteria": {
+      "cursed_eye": "2025-05-04 04:00:53 +0000"
+    },
+    "done": true
+  },
+  "forbidden_arcanus:recipes/misc/clibano_combustion/netherite_scrap_from_clibano_combusting": {
+    "criteria": {
+      "has_item": "2025-05-04 03:53:32 +0000"
     },
     "done": true
   },

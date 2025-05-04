@@ -7578,15 +7578,15 @@
     },
     "done": false
   },
-  "orcz:magiccancellation": {
-    "criteria": {
-      "magiccancellation": "2025-05-04 03:41:05 +0000"
-    },
-    "done": true
-  },
   "betterskills:farming_4": {
     "criteria": {
       "farming_4_0": "2025-05-04 02:59:53 +0000"
+    },
+    "done": true
+  },
+  "orcz:magiccancellation": {
+    "criteria": {
+      "magiccancellation": "2025-05-04 03:41:05 +0000"
     },
     "done": true
   },

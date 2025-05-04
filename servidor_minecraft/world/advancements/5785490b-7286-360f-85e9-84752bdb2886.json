@@ -2540,9 +2540,11 @@
       "old_growth_woodland": "2025-04-20 21:40:29 +0000",
       "crystalline_chasm": "2025-04-29 04:12:20 +0000",
       "orchard": "2025-04-20 23:11:54 +0000",
+      "field": "2025-05-04 04:08:39 +0000",
       "lavender_forest": "2025-04-20 23:10:56 +0000",
       "moor": "2025-04-20 22:16:47 +0000",
       "mediterranean_forest": "2025-05-02 02:45:02 +0000",
+      "coniferous_forest": "2025-05-04 04:08:36 +0000",
       "spider_nest": "2025-04-22 03:07:22 +0000",
       "redwood_forest": "2025-04-20 23:12:14 +0000",
       "seasonal_orchard": "2025-05-04 03:40:47 +0000",
@@ -2556,6 +2558,8 @@
       "pumpkin_patch": "2025-05-04 03:40:38 +0000",
       "grassland": "2025-04-20 22:16:01 +0000",
       "prairie": "2025-04-20 22:42:41 +0000",
+      "snowy_coniferous_forest": "2025-05-04 04:08:45 +0000",
+      "snowy_fir_clearing": "2025-05-04 04:08:42 +0000",
       "tundra": "2025-05-04 03:45:29 +0000",
       "glowing_grotto": "2025-04-27 03:51:04 +0000",
       "undergrowth": "2025-04-29 04:06:41 +0000",
@@ -8053,6 +8057,24 @@
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragon_staff": {
+    "criteria": {
+      "bestiary": "2025-05-04 03:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-05-04 03:05:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-05-04 03:05:58 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/black_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-04 03:12:13 +0000"
@@ -8086,12 +8108,6 @@
   "valhelsia_furniture:recipes/decorations/orange_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-04 03:12:13 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
-    "criteria": {
-      "has_flower": "2025-05-04 03:37:46 +0000"
     },
     "done": true
   },
@@ -8179,12 +8195,6 @@
     },
     "done": true
   },
-  "iceandfire:iceandfire/dragon_staff": {
-    "criteria": {
-      "bestiary": "2025-05-04 03:05:58 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/dark_oak_desk": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-04 03:12:13 +0000"
@@ -8224,12 +8234,6 @@
   "valhelsia_furniture:recipes/decorations/brown_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-04 03:12:13 +0000"
-    },
-    "done": true
-  },
-  "grimoireofgaia:main/siren": {
-    "criteria": {
-      "kill": "2025-05-04 03:46:51 +0000"
     },
     "done": true
   },
@@ -8275,21 +8279,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dark_oak_planks": {
-    "criteria": {
-      "has_log": "2025-05-04 03:05:58 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/blue_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-04 03:12:13 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dark_oak_wood": {
-    "criteria": {
-      "has_log": "2025-05-04 03:05:58 +0000"
     },
     "done": true
   },
@@ -8314,6 +8306,24 @@
   "valhelsia_furniture:recipes/decorations/blue_upholstered_dark_oak_chair": {
     "criteria": {
       "has_dark_oak_planks": "2025-05-04 03:12:13 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/purple_dye_from_tall_lavender": {
+    "criteria": {
+      "has_flower": "2025-05-04 03:37:46 +0000"
+    },
+    "done": true
+  },
+  "grimoireofgaia:main/siren": {
+    "criteria": {
+      "kill": "2025-05-04 03:46:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/tame_an_animal": {
+    "criteria": {
+      "tamed_animal": "2025-05-04 03:59:33 +0000"
     },
     "done": true
   },
