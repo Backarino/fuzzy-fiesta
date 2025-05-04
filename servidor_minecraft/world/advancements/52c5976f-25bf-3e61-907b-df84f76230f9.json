@@ -7590,6 +7590,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_acacia_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 05:40:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-04 05:13:54 +0000"
@@ -7599,6 +7605,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-04 05:13:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_spruce_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 05:40:33 +0000"
     },
     "done": true
   },
@@ -7620,6 +7632,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_acacia_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-04 05:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-04 05:13:54 +0000"
@@ -7629,6 +7647,18 @@
   "forbidden_arcanus:recipes/decorations/deorum_soul_lantern": {
     "criteria": {
       "has_soul_torch": "2025-05-04 04:28:23 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_crimson_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 05:40:33 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:longsword": {
+    "criteria": {
+      "has_longsword": "2025-05-04 05:35:56 +0000"
     },
     "done": true
   },
@@ -7644,9 +7674,33 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_jungle_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-04 05:39:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_birch_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-04 05:39:03 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_black_to_dragonscale_black": {
     "criteria": {
       "has_dragonscales_black": "2025-05-04 04:39:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_oak_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 05:40:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_dark_oak_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 05:40:33 +0000"
     },
     "done": true
   },
@@ -7656,15 +7710,57 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_warped_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 05:40:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-04 05:13:54 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_crimson_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-04 05:39:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_jungle_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 05:40:33 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_warped_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-04 05:39:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_dark_oak_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-04 05:39:03 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_oak_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-04 05:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/music_disc_5": {
     "criteria": {
       "has_disc_fragment_5": "2025-05-04 04:27:27 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_mangrove_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-04 05:39:03 +0000"
     },
     "done": true
   },
@@ -7692,9 +7788,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_birch_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 05:40:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_mob_near_sculk_catalyst": {
     "criteria": {
       "kill_mob_near_sculk_catalyst": "2025-05-04 04:59:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_mangrove_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 05:40:33 +0000"
     },
     "done": true
   },
@@ -7710,6 +7818,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_spruce_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-04 05:39:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_brick_slab": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-04 05:13:54 +0000"
@@ -7722,9 +7836,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_cherry_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 05:40:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-05-04 05:13:54 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_cherry_table": {
+    "criteria": {
+      "has_cyan_carpet": "2025-05-04 05:39:03 +0000"
     },
     "done": true
   },

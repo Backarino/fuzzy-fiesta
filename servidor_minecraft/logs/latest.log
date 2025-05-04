@@ -3188,3 +3188,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [04May2025 05:33:39.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vmp_nash> estoy poniendo controles
 [04May2025 05:35:56.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [A Bigger Blade]
 [04May2025 05:36:30.837] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/132551, l='ServerLevel[world]', x=14.50, y=51.00, z=1184.50]
+[04May2025 05:40:18.938] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/135488, l='ServerLevel[world]', x=22.50, y=53.00, z=1179.50]
+[04May2025 05:40:59.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Stone Golem
+[04May2025 05:41:48.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Stone Golem
+[04May2025 05:42:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash has made the advancement [Monster Hunter]
+[04May2025 05:43:10.379] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was doomed to fall by Stone Golem
+[04May2025 05:46:19.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash was slain by Cecaelia
+[04May2025 05:46:25.732] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vmp_nash> caballo

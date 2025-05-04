@@ -8604,6 +8604,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/netherite_ingot": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-04 05:38:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
     "criteria": {
       "has_oxidized_cut_copper_slab": "2025-05-04 04:26:14 +0000"
@@ -8631,6 +8637,12 @@
   "valhelsia_furniture:recipes/decorations/blue_dark_oak_table": {
     "criteria": {
       "has_blue_carpet": "2025-05-04 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_netherite_scrap": "2025-05-04 05:38:32 +0000"
     },
     "done": true
   },
