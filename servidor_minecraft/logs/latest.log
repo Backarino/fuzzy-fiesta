@@ -1763,3 +1763,6 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [04May2025 02:36:00.839] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: BackedSrAaron[/172.29.23.47:53914] logged in with entity id 1048 at (-436.5, 120.0, 1243.5)
 [04May2025 02:36:00.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron joined the game
 [04May2025 02:40:32.824] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: The difficulty has been set to Hard]
+[04May2025 02:43:01.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Fishing 4]
+[04May2025 02:51:55.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Fishing 5]
+[04May2025 02:59:53.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Farming 4]

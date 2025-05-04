@@ -8457,5 +8457,17 @@
     },
     "done": true
   },
+  "betterskills:fishing_4": {
+    "criteria": {
+      "fishing_4_0": "2025-05-04 02:43:01 +0000"
+    },
+    "done": true
+  },
+  "betterskills:fishing_5": {
+    "criteria": {
+      "fishing_5_0": "2025-05-04 02:51:55 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
