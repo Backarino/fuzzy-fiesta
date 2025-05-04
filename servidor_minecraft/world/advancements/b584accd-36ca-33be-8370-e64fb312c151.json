@@ -7152,5 +7152,17 @@
     },
     "done": true
   },
+  "betterskills:farming_3": {
+    "criteria": {
+      "farming_3_0": "2025-05-04 06:07:16 +0000"
+    },
+    "done": true
+  },
+  "betterskills:farming_4": {
+    "criteria": {
+      "farming_4_0": "2025-05-04 06:10:40 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
