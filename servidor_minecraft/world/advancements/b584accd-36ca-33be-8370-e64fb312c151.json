@@ -81,6 +81,7 @@
       "minecraft:ocean": "2025-04-26 23:39:09 +0000",
       "minecraft:snowy_beach": "2025-05-04 03:59:10 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-26 23:22:14 +0000",
+      "minecraft:flower_forest": "2025-05-04 04:20:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-20 22:55:13 +0000",
       "minecraft:deep_dark": "2025-04-23 05:28:47 +0000",
       "minecraft:meadow": "2025-04-22 03:50:36 +0000",
@@ -559,6 +560,7 @@
       "baked_potato": "2025-04-23 04:45:00 +0000",
       "apple": "2025-04-22 04:06:16 +0000",
       "cooked_cod": "2025-04-29 04:23:40 +0000",
+      "mutton": "2025-05-04 04:22:49 +0000",
       "bread": "2025-04-20 20:45:41 +0000",
       "golden_apple": "2025-04-20 23:28:36 +0000",
       "glow_berries": "2025-04-20 22:31:05 +0000",
@@ -2211,6 +2213,7 @@
       "spider_nest": "2025-04-20 21:39:16 +0000",
       "redwood_forest": "2025-04-29 00:32:12 +0000",
       "rocky_rainforest": "2025-04-20 22:54:23 +0000",
+      "pasture": "2025-05-04 04:22:11 +0000",
       "lavender_field": "2025-05-02 02:17:23 +0000",
       "grassland": "2025-04-26 23:52:25 +0000",
       "undergrowth": "2025-04-29 04:06:53 +0000",
@@ -7138,6 +7141,12 @@
   "betterskills:combat_4": {
     "criteria": {
       "combat_4_0": "2025-05-04 04:04:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-05-04 04:18:07 +0000"
     },
     "done": true
   },

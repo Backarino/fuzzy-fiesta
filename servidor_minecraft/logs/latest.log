@@ -2959,3 +2959,9 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [04May2025 04:13:53.922] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
 [04May2025 04:14:04.765] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:55322] logged in with entity id 69843 at (-776.2743140812413, 65.0, 1892.390809173098)
 [04May2025 04:14:04.771] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[04May2025 04:18:22.142] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [My Name is Nobody]
+[04May2025 04:20:56.830] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:61483] logged in with entity id 74322 at (45.81249840940642, 104.84705805778503, 3955.9127126029953)
+[04May2025 04:20:56.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[04May2025 04:23:10.625] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[04May2025 04:24:42.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Smash And Bash!]
+[04May2025 04:25:16.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Satyress
