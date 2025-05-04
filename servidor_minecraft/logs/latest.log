@@ -1766,3 +1766,23 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [04May2025 02:43:01.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Fishing 4]
 [04May2025 02:51:55.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 has made the advancement [Fishing 5]
 [04May2025 02:59:53.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Farming 4]
+[04May2025 03:04:53.907] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Disconnected
+[04May2025 03:04:53.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[04May2025 03:05:15.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was slain by Stone Golem
+[04May2025 03:05:58.326] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SILVERTAKU[/172.29.104.71:55454] logged in with entity id 9365 at (75.58001637677134, 109.0, 1176.7241075581674)
+[04May2025 03:05:58.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
+[04May2025 03:05:58.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Dragon Commander]
+[04May2025 03:06:27.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was slain by Stone Golem
+[04May2025 03:06:33.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SILVERTAKU> efe
+[04May2025 03:09:19.387] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/10559, l='ServerLevel[world]', x=16.50, y=48.00, z=1180.50]
+[04May2025 03:10:59.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was slain by Stone Golem
+[04May2025 03:11:09.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SILVERTAKU> efe x2
+[04May2025 03:11:16.875] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BackedSrAaron> jajaj entre a ds ve
+[04May2025 03:11:24.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was slain by Stone Golem
+[04May2025 03:16:41.308] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ce3b8d8[id=<null>,name=DonTony09,properties={},legacy=false] (/172.29.215.146:57728) lost connection: Disconnected
+[04May2025 03:16:57.471] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:57770] logged in with entity id 13061 at (207.69999998807907, 86.0, 3936.9389326248042)
+[04May2025 03:16:57.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[04May2025 03:18:02.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DonTony09> duerme veee
+[04May2025 03:18:13.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BackedSrAaron> uuu
+[04May2025 03:18:20.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <BackedSrAaron> ya voy jaja
+[04May2025 03:21:08.590] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Drowned['Drowned'/15311, l='ServerLevel[world]', x=14.50, y=49.00, z=1184.50]
