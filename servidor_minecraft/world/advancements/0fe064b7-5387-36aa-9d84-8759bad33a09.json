@@ -56,6 +56,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-27 03:44:17 +0000",
+      "minecraft:taiga": "2025-05-04 04:37:49 +0000",
       "minecraft:deep_ocean": "2025-04-24 03:40:16 +0000",
       "minecraft:eroded_badlands": "2025-04-20 23:04:44 +0000",
       "minecraft:frozen_river": "2025-05-02 04:15:44 +0000",
@@ -74,6 +75,7 @@
       "minecraft:stony_shore": "2025-04-23 04:34:02 +0000",
       "minecraft:snowy_plains": "2025-05-02 04:14:58 +0000",
       "minecraft:dripstone_caves": "2025-04-20 22:32:32 +0000",
+      "minecraft:snowy_taiga": "2025-05-04 04:38:43 +0000",
       "minecraft:grove": "2025-04-28 02:38:21 +0000",
       "minecraft:cold_ocean": "2025-04-28 04:13:59 +0000",
       "minecraft:forest": "2025-04-20 21:02:00 +0000",
@@ -2033,6 +2035,7 @@
       "minecraft:creeper": "2025-04-20 22:15:24 +0000",
       "minecraft:phantom": "2025-04-24 03:53:13 +0000",
       "minecraft:zombified_piglin": "2025-04-26 21:50:57 +0000",
+      "minecraft:witch": "2025-05-04 04:27:17 +0000",
       "minecraft:wither_skeleton": "2025-04-29 04:30:51 +0000",
       "minecraft:husk": "2025-04-20 23:38:19 +0000",
       "minecraft:cave_spider": "2025-04-22 04:37:33 +0000",
@@ -2120,6 +2123,7 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "muskeg": "2025-05-04 04:38:44 +0000",
       "woodland": "2025-04-20 21:52:33 +0000",
       "shrubland": "2025-04-24 02:00:47 +0000",
       "rocky_shrubland": "2025-04-24 01:42:45 +0000",
@@ -2136,6 +2140,7 @@
       "crystalline_chasm": "2025-04-29 04:16:54 +0000",
       "withered_abyss": "2025-04-29 04:29:36 +0000",
       "orchard": "2025-04-24 02:31:34 +0000",
+      "field": "2025-05-04 04:24:59 +0000",
       "lavender_forest": "2025-04-24 02:19:40 +0000",
       "moor": "2025-04-27 04:00:55 +0000",
       "mediterranean_forest": "2025-04-20 21:35:51 +0000",
@@ -2146,12 +2151,14 @@
       "redwood_forest": "2025-04-25 03:26:04 +0000",
       "visceral_heap": "2025-04-29 04:32:04 +0000",
       "wasteland_steppe": "2025-04-20 23:10:23 +0000",
+      "seasonal_orchard": "2025-05-04 04:39:26 +0000",
       "dune_beach": "2025-04-24 03:33:44 +0000",
       "volcano": "2025-04-20 23:30:02 +0000",
       "rocky_rainforest": "2025-04-20 22:49:04 +0000",
       "pasture": "2025-04-24 02:10:16 +0000",
       "volcanic_plains": "2025-04-20 23:29:50 +0000",
       "lavender_field": "2025-04-24 02:20:04 +0000",
+      "pumpkin_patch": "2025-05-04 04:39:25 +0000",
       "grassland": "2025-04-23 04:42:44 +0000",
       "prairie": "2025-04-24 02:10:07 +0000",
       "snowy_coniferous_forest": "2025-05-02 04:13:06 +0000",
@@ -2159,7 +2166,8 @@
       "glowing_grotto": "2025-04-22 04:34:21 +0000",
       "undergrowth": "2025-04-27 02:05:12 +0000",
       "rainforest": "2025-04-20 21:53:08 +0000",
-      "crag": "2025-04-24 03:34:54 +0000"
+      "crag": "2025-04-24 03:34:54 +0000",
+      "ominous_woods": "2025-05-04 04:25:01 +0000"
     },
     "done": false
   },
@@ -8557,6 +8565,144 @@
   "endrem:main/cursed_eye": {
     "criteria": {
       "cursed_eye": "2025-05-04 04:00:53 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_acacia_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-04 04:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-04 04:30:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_spruce_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-04 04:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-04 04:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/waxed_oxidized_cut_copper_slab_from_honeycomb": {
+    "criteria": {
+      "has_oxidized_cut_copper_slab": "2025-05-04 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_crimson_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-04 04:30:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_oak_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_dark_oak_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cracked_deepslate_bricks": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-04 04:30:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_warped_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-04 04:30:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_jungle_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-04 04:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-04 04:30:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_birch_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_mangrove_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-04 04:30:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-04 04:30:56 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_cherry_table": {
+    "criteria": {
+      "has_blue_carpet": "2025-05-04 04:26:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_bricks_stonecutting": {
+    "criteria": {
+      "has_deepslate_bricks": "2025-05-04 04:30:56 +0000"
     },
     "done": true
   },

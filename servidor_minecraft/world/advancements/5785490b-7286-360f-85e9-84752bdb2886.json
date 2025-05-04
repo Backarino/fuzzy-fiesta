@@ -55,6 +55,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-04 04:43:20 +0000",
       "minecraft:frozen_river": "2025-05-04 03:47:17 +0000",
       "minecraft:sunflower_plains": "2025-04-20 22:31:36 +0000",
       "minecraft:cherry_grove": "2025-04-26 04:11:14 +0000",
@@ -8336,6 +8337,174 @@
   "iceandfire:iceandfire/kill_cyclops": {
     "criteria": {
       "killed_fire_dragon": "2025-05-04 04:18:22 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:flanged_mace": {
+    "criteria": {
+      "has_flanged_mace": "2025-05-04 04:24:42 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/bee": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-04 04:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_honey_bottle": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-04 04:27:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/honey_block": {
+    "criteria": {
+      "has_honey_bottle": "2025-05-04 04:27:31 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_warped_stool": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_crimson_stool": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_warped_chair": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_mangrove_chair": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_crimson_chair": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_cherry_stool": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_carpet": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/decorations/green_sleeping_bag": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_cherry_chair": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_crimson_chair": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_bed": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_stool": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_curtain": {
+    "criteria": {
+      "has_item": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_mangrove_chair": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_cherry_chair": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_birch_stool": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_banner": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_spruce_chair": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_dark_oak_stool": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_spruce_chair": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_mangrove_stool": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_warped_chair": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_jungle_stool": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_spruce_stool": {
+    "criteria": {
+      "has_green_wool": "2025-05-04 04:44:13 +0000"
     },
     "done": true
   },

@@ -2965,3 +2965,128 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [04May2025 04:23:10.625] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [04May2025 04:24:42.016] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Smash And Bash!]
 [04May2025 04:25:16.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Satyress
+[04May2025 04:26:41.975] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved wrongly!
+[04May2025 04:26:42.716] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved wrongly!
+[04May2025 04:28:06.723] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2836, y=55, z=2688} BlockPos{x=-2825, y=55, z=2680}
+[04May2025 04:28:06.782] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2836, y=55, z=2688} BlockPos{x=-2825, y=55, z=2680}
+[04May2025 04:28:06.826] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2836, y=55, z=2688} BlockPos{x=-2825, y=55, z=2680}
+[04May2025 04:28:06.871] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2836, y=55, z=2688} BlockPos{x=-2825, y=55, z=2680}
+[04May2025 04:28:48.521] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2814, y=53, z=2689} BlockPos{x=-2812, y=52, z=2689}
+[04May2025 04:28:48.578] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2814, y=53, z=2689} BlockPos{x=-2812, y=52, z=2689}
+[04May2025 04:29:40.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was killed by Witch using magic
+[04May2025 04:31:20.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU was slain by Zombie
+[04May2025 04:32:00.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Made SAURIO12 a server operator]
+[04May2025 04:32:06.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made SILVERTAKU a server operator
+[04May2025 04:32:19.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Teleported DonTony09 to SILVERTAKU]
+[04May2025 04:33:00.319] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 was kicked for floating too long!
+[04May2025 04:33:00.320] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 lost connection: Flying is not enabled on this server
+[04May2025 04:33:00.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 left the game
+[04May2025 04:33:00.369] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[04May2025 04:33:13.119] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:55334] logged in with entity id 86961 at (-548.0443513035495, 75.1841283985849, 1367.6597958813848)
+[04May2025 04:33:13.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[04May2025 04:33:24.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU was slain by Zombie
+[04May2025 04:33:51.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU was shot by Skeleton
+[04May2025 04:35:18.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Stone Golem
+[04May2025 04:35:21.863] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2825, y=48, z=2681} BlockPos{x=-2827, y=48, z=2681}
+[04May2025 04:35:21.917] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2825, y=48, z=2681} BlockPos{x=-2827, y=48, z=2681}
+[04May2025 04:35:21.958] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2825, y=48, z=2681} BlockPos{x=-2827, y=48, z=2681}
+[04May2025 04:35:22.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2825, y=48, z=2681} BlockPos{x=-2827, y=48, z=2681}
+[04May2025 04:35:22.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2825, y=48, z=2681} BlockPos{x=-2827, y=48, z=2681}
+[04May2025 04:35:22.110] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2825, y=48, z=2681} BlockPos{x=-2827, y=48, z=2681}
+[04May2025 04:35:23.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2825, y=47, z=2681} BlockPos{x=-2826, y=47, z=2682}
+[04May2025 04:35:23.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2825, y=47, z=2681} BlockPos{x=-2826, y=47, z=2682}
+[04May2025 04:35:31.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2832, y=48, z=2688} BlockPos{x=-2829, y=47, z=2685}
+[04May2025 04:35:32.257] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2832, y=48, z=2688} BlockPos{x=-2829, y=48, z=2684}
+[04May2025 04:35:32.805] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2828, y=48, z=2684} BlockPos{x=-2828, y=48, z=2685}
+[04May2025 04:35:32.858] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2828, y=48, z=2684} BlockPos{x=-2828, y=48, z=2685}
+[04May2025 04:35:33.503] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2828, y=47, z=2684} BlockPos{x=-2829, y=47, z=2683}
+[04May2025 04:35:34.055] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2829, y=48, z=2683} BlockPos{x=-2825, y=46, z=2684}
+[04May2025 04:36:15.161] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-2827, y=46, z=2684} BlockPos{x=-2841, y=56, z=2675}
+[04May2025 04:37:31.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was turned into KFC by Fire Dragon
+[04May2025 04:37:53.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Fire Dragon
+[04May2025 04:38:13.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was shot by Skeleton
+[04May2025 04:38:46.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron burned to death
+[04May2025 04:38:47.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of DonTony09) moved too quickly! 9.28397100398115,0.0,-4.498975418719056
+[04May2025 04:38:47.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of DonTony09) moved too quickly! 10.460368596717217,0.0,-5.040762004378394
+[04May2025 04:38:47.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of DonTony09) moved too quickly! 11.6390181144493,0.0,-5.579633300925707
+[04May2025 04:38:47.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of DonTony09) moved too quickly! 12.819653830028074,0.0,-6.115933312476045
+[04May2025 04:38:47.145] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of DonTony09) moved too quickly! 14.00204137210767,0.0,-6.649965450659238
+[04May2025 04:38:50.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was burnt to a crisp whilst fighting Skeleton
+[04May2025 04:39:53.065] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of DonTony09) moved too quickly! 9.30052227387796,0.0,-4.674906863364413
+[04May2025 04:39:53.066] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of DonTony09) moved too quickly! 10.455000618187228,0.0,-5.27589045411014
+[04May2025 04:39:58.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was turned into KFC by Fire Dragon
+[04May2025 04:40:19.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was slain by Fire Dragon
+[04May2025 04:40:39.796] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was incinerated by Fire Dragon
+[04May2025 04:40:39.830] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of DonTony09) moved wrongly! 0.3769874946310665
+[04May2025 04:40:39.884] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of DonTony09) moved wrongly! 0.9950562251433439
+[04May2025 04:40:39.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of DonTony09) moved wrongly! 1.6726999849104232
+[04May2025 04:40:50.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 fell from a high place
+[04May2025 04:40:54.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SILVERTAKU moved wrongly!
+[04May2025 04:41:03.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was doomed to fall
+[04May2025 04:41:12.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Fire Dragon
+[04May2025 04:41:30.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was incinerated by Fire Dragon
+[04May2025 04:41:35.620] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was slain by Fire Dragon
+[04May2025 04:41:43.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was turned into KFC by Fire Dragon
+[04May2025 04:41:57.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was turned into KFC by Fire Dragon
+[04May2025 04:42:06.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was turned into KFC by Fire Dragon
+[04May2025 04:42:15.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron was turned into KFC by Fire Dragon
+[04May2025 04:42:58.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved wrongly! 0.3708478301523428
+[04May2025 04:42:58.710] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved wrongly! 1.1274737534117776
+[04May2025 04:43:26.192] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:smithing_table} but failed at location BlockPos{x=-2643, y=44, z=2217}
+[04May2025 04:43:41.422] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved wrongly!
+[04May2025 04:43:46.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved wrongly! 0.3876253845919564
+[04May2025 04:43:46.127] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved wrongly! 0.8527645716690131
+[04May2025 04:43:46.193] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved wrongly! 1.1016512767987479
+[04May2025 04:43:48.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Fire Dragon
+[04May2025 04:45:27.519] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 8.336652710568387,0.0,7.545336099284896
+[04May2025 04:45:27.520] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 9.726160716808408,0.0,8.803015653353668
+[04May2025 04:46:11.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! -7.177102459103253,0.0,7.122284759897639
+[04May2025 04:46:11.621] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! -7.897211988349909,0.0,7.823203307804533
+[04May2025 04:46:11.622] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! -8.532348593145457,0.0,8.44141346705851
+[04May2025 04:46:11.623] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! -9.0925390785751,0.0,8.986674827520574
+[04May2025 04:46:11.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! -9.586627086724093,0.0,9.467595347447968
+[04May2025 04:46:11.624] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! -10.022412709911464,0.0,9.891767246024074
+[04May2025 04:46:15.224] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved wrongly! 0.28923584100834887
+[04May2025 04:46:15.273] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved wrongly! 1.3098752061589494
+[04May2025 04:46:15.323] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved wrongly! 2.336684509599081
+[04May2025 04:46:35.423] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved wrongly! 0.7619537625296289
+[04May2025 04:46:35.531] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved wrongly! 1.7666150396529474
+[04May2025 04:46:35.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved wrongly! 2.773495531337744
+[04May2025 04:47:23.407] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 8.134912842426047,0.0,-7.636405192225084
+[04May2025 04:47:23.410] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 9.546724995092518,0.0,-8.850556242010043
+[04May2025 04:47:23.411] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 10.973258494937909,0.0,-10.048122467664598
+[04May2025 04:47:23.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 moved too quickly! 1.219028615855791,0.9687825949673936,-10.22478826407746
+[04May2025 04:47:23.412] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 12.413103551692984,0.0,-11.230591098208379
+[04May2025 04:47:23.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 13.86599843957356,0.0,-12.397838583131033
+[04May2025 04:47:23.413] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 15.331056235185542,0.0,-13.550694588468332
+[04May2025 04:47:23.414] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 16.807160382323445,0.0,-14.690381609033693
+[04May2025 04:47:23.415] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 18.293007411507233,0.0,-15.818453585030284
+[04May2025 04:47:23.429] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 19.7877651034637,0.0,-16.935804587724306
+[04May2025 04:47:23.485] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 14.553269094370307,0.0,-11.636489624585465
+[04May2025 04:47:32.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 9.72012550153363,0.0,-5.866788093071136
+[04May2025 04:47:32.400] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 11.384533724189737,0.0,-6.776697215326294
+[04May2025 04:47:32.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 13.055923738050069,0.0,-7.677100978326962
+[04May2025 04:47:32.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 14.73164562427803,0.0,-8.572828710561225
+[04May2025 04:47:32.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! -10.019466298145744,0.0,5.4275490884317605
+[04May2025 04:47:32.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! -10.019466298145744,0.0,5.4275490884317605
+[04May2025 04:47:32.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! -10.019466298145744,0.0,5.4275490884317605
+[04May2025 04:47:32.525] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! -10.019466298145744,0.0,5.4275490884317605
+[04May2025 04:47:42.988] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved too quickly! 9.386496282571784,0.0,-6.295504716017376
+[04May2025 04:47:59.366] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SILVERTAKU was kicked for floating too long!
+[04May2025 04:47:59.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SILVERTAKU lost connection: Flying is not enabled on this server
+[04May2025 04:47:59.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU left the game
+[04May2025 04:48:25.594] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27c72c1e[id=<null>,name=SILVERTAKU,properties={},legacy=false] (/172.29.104.71:60602) lost connection: Disconnected
+[04May2025 04:48:51.144] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4a65925e[id=<null>,name=SILVERTAKU,properties={},legacy=false] (/172.29.104.71:60625) lost connection: Disconnected
+[04May2025 04:48:56.959] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SILVERTAKU[/172.29.104.71:60643] logged in with entity id 106147 at (-533.0221511175029, 114.54145421456954, 1487.6896231537557)
+[04May2025 04:48:56.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
+[04May2025 04:49:34.471] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Lightning Dragon (vehicle of SILVERTAKU) moved wrongly! 0.28014300809076076
+[04May2025 04:51:30.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 was struck with lightning by SILVERTAKU
+[04May2025 04:54:12.874] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! 4.0533221349037944,0.0,9.950425559591622
+[04May2025 04:54:18.580] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved wrongly! 0.8008317597268615
+[04May2025 04:54:23.675] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! 3.613579861235081,0.0,10.122298594566018
+[04May2025 04:54:23.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! 4.336447994797112,0.0,12.147057343629513
+[04May2025 04:54:23.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! 5.059353493179003,0.0,14.17188952270817
+[04May2025 04:54:23.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! 5.781030486720709,0.0,16.19723324381448
+[04May2025 04:54:23.676] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! 6.498494731913638,0.0,18.224104290662126
+[04May2025 04:54:23.677] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fire Dragon (vehicle of DonTony09) moved too quickly! 7.208451629995636,0.0,20.253565747606444
+[04May2025 04:56:08.017] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 moved wrongly!
