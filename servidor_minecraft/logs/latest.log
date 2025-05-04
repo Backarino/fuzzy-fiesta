@@ -1762,3 +1762,5 @@ com.google.gson.JsonSyntaxException: Unknown item 'iter_rpg:smooth_ice'
 [04May2025 23:05:32.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash has made the advancement [Halberdier]
 [04May2025 23:14:30.825] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SAURIO12[/172.29.15.172:60800] logged in with entity id 3689 at (-425.8092028108633, 140.0, 1325.300000011921)
 [04May2025 23:14:30.842] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 joined the game
+[04May2025 23:25:14.943] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/6616, l='ServerLevel[world]', x=-269.50, y=53.00, z=1392.50]
+[04May2025 23:30:17.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash has made the advancement [Mining]
