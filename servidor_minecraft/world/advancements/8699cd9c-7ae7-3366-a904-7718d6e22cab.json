@@ -121,6 +121,7 @@
       "baked_potato": "2025-05-04 05:37:41 +0000",
       "porkchop": "2025-05-04 05:55:21 +0000",
       "apple": "2025-05-05 00:46:29 +0000",
+      "bread": "2025-05-05 01:57:45 +0000",
       "glow_berries": "2025-05-04 05:39:04 +0000",
       "cooked_chicken": "2025-05-05 00:58:13 +0000",
       "enchanted_golden_apple": "2025-05-05 01:39:37 +0000"
@@ -573,6 +574,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:creeper": "2025-05-05 02:02:28 +0000",
       "minecraft:zombie": "2025-05-04 05:42:16 +0000"
     },
     "done": false
@@ -3871,15 +3873,57 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-05-05 02:02:29 +0000"
+    },
+    "done": true
+  },
   "betterskills:foraging_3": {
     "criteria": {
       "foraging_3_0": "2025-05-05 01:55:06 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-05 02:02:29 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-05-05 02:05:23 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "zombie_head": "2025-05-05 02:04:47 +0000"
+    },
+    "done": false
+  },
+  "betterskills:combat_2": {
+    "criteria": {
+      "combat_2_0": "2025-05-05 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-05-05 02:02:29 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/tools/silver_hoe": {
     "criteria": {
       "has_the_recipe": "2025-05-05 01:55:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-05-05 02:02:29 +0000"
     },
     "done": true
   },
