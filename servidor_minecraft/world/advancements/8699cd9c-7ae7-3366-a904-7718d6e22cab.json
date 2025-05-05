@@ -120,6 +120,7 @@
       "cooked_beef": "2025-05-04 23:08:39 +0000",
       "baked_potato": "2025-05-04 05:37:41 +0000",
       "porkchop": "2025-05-04 05:55:21 +0000",
+      "apple": "2025-05-05 00:46:29 +0000",
       "glow_berries": "2025-05-04 05:39:04 +0000"
     },
     "done": false
@@ -3727,6 +3728,18 @@
   "alexsmobs:alexsmobs/emu": {
     "criteria": {
       "killed_by": "2025-05-05 00:22:07 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/crackled_to_gravel": {
+    "criteria": {
+      "has_item": "2025-05-05 00:49:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-05 00:45:31 +0000"
     },
     "done": true
   },
