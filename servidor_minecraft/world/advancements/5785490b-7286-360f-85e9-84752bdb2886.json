@@ -2071,6 +2071,7 @@
       "minecraft:pillager": "2025-04-23 05:30:51 +0000",
       "minecraft:skeleton": "2025-04-22 03:51:16 +0000",
       "minecraft:ravager": "2025-04-24 02:48:14 +0000",
+      "minecraft:ghast": "2025-05-05 03:00:16 +0000",
       "minecraft:spider": "2025-04-20 21:18:50 +0000",
       "minecraft:piglin_brute": "2025-04-29 04:42:55 +0000",
       "minecraft:creeper": "2025-04-23 03:39:52 +0000",
@@ -8726,33 +8727,9 @@
     },
     "done": true
   },
-  "netherdungeons:nether/warm_reception": {
-    "criteria": {
-      "requirement": "2025-05-05 02:34:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_planks": {
-    "criteria": {
-      "has_logs": "2025-05-05 02:25:33 +0000"
-    },
-    "done": true
-  },
   "valhelsia_furniture:recipes/decorations/brown_upholstered_jungle_stool": {
     "criteria": {
       "has_jungle_slab": "2025-05-05 02:21:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/obtain_crying_obsidian": {
-    "criteria": {
-      "crying_obsidian": "2025-05-05 02:34:01 +0000"
-    },
-    "done": true
-  },
-  "netherdungeons:recipes/crafting/magma_nether_bricks": {
-    "criteria": {
-      "has_items": "2025-05-05 02:29:02 +0000"
     },
     "done": true
   },
@@ -8765,36 +8742,6 @@
   "valhelsia_furniture:recipes/decorations/light_blue_upholstered_jungle_stool": {
     "criteria": {
       "has_jungle_slab": "2025-05-05 02:21:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/warped_hyphae": {
-    "criteria": {
-      "has_log": "2025-05-05 02:25:33 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/oceanography_table": {
-    "criteria": {
-      "has_barrel": "2025-05-05 02:21:42 +0000"
-    },
-    "done": true
-  },
-  "netherdungeons:recipes/crafting/polished_gilded_blackstone": {
-    "criteria": {
-      "has_items": "2025-05-05 02:34:06 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/nether_bricks": {
-    "criteria": {
-      "has_nether_brick": "2025-05-05 02:29:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/respawn_anchor": {
-    "criteria": {
-      "has_obsidian": "2025-05-05 02:34:01 +0000"
     },
     "done": true
   },
@@ -8819,6 +8766,78 @@
   "valhelsia_furniture:recipes/decorations/lime_upholstered_jungle_stool": {
     "criteria": {
       "has_jungle_slab": "2025-05-05 02:21:35 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/oceanography_table": {
+    "criteria": {
+      "has_barrel": "2025-05-05 02:21:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_planks": {
+    "criteria": {
+      "has_logs": "2025-05-05 02:25:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/warped_hyphae": {
+    "criteria": {
+      "has_log": "2025-05-05 02:25:33 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/magma_nether_bricks": {
+    "criteria": {
+      "has_items": "2025-05-05 02:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_bricks": {
+    "criteria": {
+      "has_nether_brick": "2025-05-05 02:29:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/obtain_crying_obsidian": {
+    "criteria": {
+      "crying_obsidian": "2025-05-05 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/respawn_anchor": {
+    "criteria": {
+      "has_obsidian": "2025-05-05 02:34:01 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:recipes/crafting/polished_gilded_blackstone": {
+    "criteria": {
+      "has_items": "2025-05-05 02:34:06 +0000"
+    },
+    "done": true
+  },
+  "netherdungeons:nether/warm_reception": {
+    "criteria": {
+      "requirement": "2025-05-05 02:34:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/ghast": {
+    "criteria": {
+      "has_ghast_tear": "2025-05-05 03:00:23 +0000"
+    },
+    "done": true
+  },
+  "bosses_of_mass_destruction:recipes/brimstone_nectar": {
+    "criteria": {
+      "has_ghast_tear": "2025-05-05 03:00:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/netherite_upgrade_smithing_template": {
+    "criteria": {
+      "has_netherite_upgrade_smithing_template": "2025-05-05 03:02:11 +0000"
     },
     "done": true
   },
