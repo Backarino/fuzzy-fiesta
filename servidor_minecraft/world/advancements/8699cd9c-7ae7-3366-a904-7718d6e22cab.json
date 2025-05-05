@@ -3732,15 +3732,117 @@
     },
     "done": true
   },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "wheat": "2025-05-05 00:45:31 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/crackled_to_gravel": {
     "criteria": {
       "has_item": "2025-05-05 00:49:35 +0000"
     },
     "done": true
   },
-  "minecraft:husbandry/plant_seed": {
+  "spartanweaponry:scythe": {
     "criteria": {
-      "wheat": "2025-05-05 00:45:31 +0000"
+      "has_scythe": "2025-05-05 01:28:46 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/mining_bench": {
+    "criteria": {
+      "has_iron_pickaxe": "2025-05-05 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-05-05 01:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-05-05 01:21:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_leggings": {
+    "criteria": {
+      "has_the_recipe": "2025-05-05 01:33:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-05 01:34:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-05-05 01:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-05-05 01:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-05-05 01:21:34 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-05-05 01:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-05-05 01:29:28 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/combat/handle_from_string": {
+    "criteria": {
+      "has_string": "2025-05-05 01:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-05-05 01:29:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-05-05 01:21:34 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_metal_chestplate": {
+    "criteria": {
+      "has_the_recipe": "2025-05-05 01:33:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-05-05 01:21:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-05-05 01:28:56 +0000"
     },
     "done": true
   },

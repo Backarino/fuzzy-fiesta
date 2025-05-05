@@ -8718,6 +8718,18 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/crimson_mosquito_larva": {
+    "criteria": {
+      "rat_upgrade_basic": "2025-05-05 01:22:32 +0000"
+    },
+    "done": true
+  },
+  "betterskills:mining_12": {
+    "criteria": {
+      "mining_12_0": "2025-05-05 01:25:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_lilac": {
     "criteria": {
       "has_lilac": "2025-05-05 01:12:39 +0000"
@@ -8727,6 +8739,12 @@
   "minecraft:recipes/misc/black_dye_from_wither_rose": {
     "criteria": {
       "has_wither_rose": "2025-05-05 01:14:04 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/banana": {
+    "criteria": {
+      "banana": "2025-05-05 01:22:37 +0000"
     },
     "done": true
   },
