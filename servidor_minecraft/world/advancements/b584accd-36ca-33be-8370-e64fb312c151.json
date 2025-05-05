@@ -7195,5 +7195,11 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-05-05 03:19:10 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
