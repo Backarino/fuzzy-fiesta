@@ -8227,6 +8227,12 @@
     },
     "done": true
   },
+  "betterskills:combat_6": {
+    "criteria": {
+      "combat_6_0": "2025-05-05 02:51:02 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_chair": {
     "criteria": {
       "has_acacia_planks": "2025-05-05 02:31:28 +0000"
