@@ -1467,3 +1467,28 @@
 [05May2025 01:57:21.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has reached the goal [Flowers of the Savanna]
 [05May2025 02:04:09.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash has made the advancement [Combat 2]
 [05May2025 02:05:23.192] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash has made the advancement [We do a little trolling...]
+[05May2025 02:10:19.483] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash has made the advancement [Mining 3]
+[05May2025 02:11:54.809] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron moved too quickly! -0.6946751752207092,1.1661092609382138,9.951346655319412
+[05May2025 02:14:32.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DonTony09: Teleported BackedSrAaron to DonTony09]
+[05May2025 02:14:44.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash was slain by Goblin
+[05May2025 02:17:26.607] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@30ebf71e[id=<null>,name=SILVERTAKU,properties={},legacy=false] (/172.29.104.71:58522) lost connection: Disconnected
+[05May2025 02:17:26.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DonTony09 lost connection: Disconnected
+[05May2025 02:17:26.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 left the game
+[05May2025 02:17:31.962] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SILVERTAKU[/172.29.104.71:58528] logged in with entity id 83556 at (79.28149187788544, 103.0, 1171.8281159298126)
+[05May2025 02:17:31.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU joined the game
+[05May2025 02:19:51.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Take Aim, Chaps!]
+[05May2025 02:29:07.678] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash has made the advancement [Farming]
+[05May2025 02:29:38.007] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=34, z=150} BlockPos{x=42, y=35, z=151}
+[05May2025 02:30:01.962] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=42, y=36, z=154} BlockPos{x=41, y=38, z=153}
+[05May2025 02:30:04.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=36, z=155} BlockPos{x=42, y=39, z=154}
+[05May2025 02:30:04.966] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=41, y=36, z=155} BlockPos{x=42, y=39, z=154}
+[05May2025 02:30:49.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=36, z=133} BlockPos{x=71, y=39, z=135}
+[05May2025 02:30:51.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=36, z=133} BlockPos{x=73, y=39, z=135}
+[05May2025 02:30:51.208] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=64, y=36, z=133} BlockPos{x=73, y=39, z=135}
+[05May2025 02:34:01.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Who is Cutting Onions?]
+[05May2025 02:34:41.148] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU was slain by Piglin Brute
+[05May2025 02:34:41.157] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU has made the advancement [Warm reception]
+[05May2025 02:36:02.652] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vmp_nash lost connection: Timed out
+[05May2025 02:36:02.652] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash left the game
+[05May2025 02:36:30.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU tried to swim in lava
+[05May2025 02:37:21.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SILVERTAKU tried to swim in lava
