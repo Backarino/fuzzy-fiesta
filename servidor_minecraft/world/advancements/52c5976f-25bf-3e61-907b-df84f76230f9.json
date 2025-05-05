@@ -7980,6 +7980,12 @@
     },
     "done": true
   },
+  "spartanweaponry:katana": {
+    "criteria": {
+      "has_katana": "2025-05-05 00:19:23 +0000"
+    },
+    "done": true
+  },
   "valhelsia_furniture:recipes/decorations/gray_warped_chair": {
     "criteria": {
       "has_gray_wool": "2025-05-04 23:04:52 +0000"

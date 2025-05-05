@@ -9,3 +9,25 @@
 [05May2025 00:11:36.099] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-345, y=-51, z=1487} BlockPos{x=-345, y=-52, z=1487}
 [05May2025 00:11:36.154] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-345, y=-51, z=1487} BlockPos{x=-345, y=-52, z=1487}
 [05May2025 00:11:58.552] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-341, y=-50, z=1482} BlockPos{x=-341, y=-49, z=1482}
+[05May2025 00:15:22.698] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-288, y=-52, z=1463} BlockPos{x=-289, y=-53, z=1464}
+[05May2025 00:17:32.497] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-296, y=-52, z=1442} BlockPos{x=-295, y=-53, z=1442}
+[05May2025 00:19:15.244] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[05May2025 00:19:23.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has made the advancement [Blade of the Samurai]
+[05May2025 00:22:07.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash has made the advancement [It's an Emu!!!]
+[05May2025 00:22:12.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash was slain by Emu
+[05May2025 00:22:22.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vmp_nash moved too quickly! 7.479586304215033,6.1250967120947735,2.8860250412035384
+[05May2025 00:23:26.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash was slain by Stone Golem
+[05May2025 00:23:49.801] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vmp_nash lost connection: Disconnected
+[05May2025 00:23:49.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash left the game
+[05May2025 00:25:48.490] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/30255, l='ServerLevel[world]', x=-333.50, y=49.00, z=1460.50]
+[05May2025 00:25:53.790] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/30267, l='ServerLevel[world]', x=-330.50, y=49.00, z=1460.50]
+[05May2025 00:25:53.790] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/30268, l='ServerLevel[world]', x=-330.50, y=48.00, z=1460.50]
+[05May2025 00:26:00.837] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Pointed Dripstone'/30289, l='ServerLevel[world]', x=-333.50, y=76.00, z=1481.50]
+[05May2025 00:26:25.221] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-348, y=-52, z=1413} BlockPos{x=-348, y=-51, z=1412}
+[05May2025 00:28:15.849] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vmp_nash[/172.29.91.5:59499] logged in with entity id 30738 at (-65.40456176839841, 63.0, 783.3206109003011)
+[05May2025 00:28:15.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash joined the game
+[05May2025 00:28:29.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vmp_nash> asd
+[05May2025 00:28:34.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SAURIO12 was slain by Zombie
+[05May2025 00:29:08.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SAURIO12> zz
+[05May2025 00:29:17.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SAURIO12: Set the time to 1000]
+[05May2025 00:31:05.118] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-301, y=-51, z=1459} BlockPos{x=-301, y=-50, z=1458}
