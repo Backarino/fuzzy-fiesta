@@ -2152,6 +2152,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_button": {
+    "criteria": {
+      "has_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_javelin": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 00:02:00 +0000"
@@ -2284,6 +2290,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/purple_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/tools/iron_blacksmith_gavel": {
     "criteria": {
       "has_ingots/iron": "2025-05-05 00:02:00 +0000"
@@ -2323,6 +2335,12 @@
   "spartanweaponry:recipes/silver_spear": {
     "criteria": {
       "has_silver_ingot": "2025-05-04 23:03:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/blue_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -2404,9 +2422,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/lime_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_parrying_dagger": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 00:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_stairs": {
+    "criteria": {
+      "has_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -2431,6 +2467,12 @@
   "spartanweaponry:recipes/iron_battleaxe": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 00:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_door": {
+    "criteria": {
+      "has_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -2464,9 +2506,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/diamond_flanged_mace": {
     "criteria": {
       "has_diamond": "2025-05-05 00:00:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/purple_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -2524,6 +2578,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/yellow_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "forbidden_arcanus:recipes/misc/clibano_combustion/iron_ingot_from_clibano_combusting_raw_iron": {
     "criteria": {
       "has_item": "2025-05-05 00:02:14 +0000"
@@ -2554,6 +2614,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 00:02:00 +0000"
@@ -2581,6 +2647,18 @@
   "spartanweaponry:recipes/diamond_halberd": {
     "criteria": {
       "has_diamond": "2025-05-05 00:00:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/lime_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_sign": {
+    "criteria": {
+      "has_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -2638,6 +2716,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/cyan_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-05-04 23:47:15 +0000"
@@ -2659,6 +2743,12 @@
   "spartanweaponry:recipes/diamond_lance": {
     "criteria": {
       "has_diamond": "2025-05-05 00:00:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -2752,6 +2842,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/yellow_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 00:02:00 +0000"
@@ -2764,6 +2860,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/pink_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diamond_block": {
     "criteria": {
       "has_diamond": "2025-05-05 00:00:30 +0000"
@@ -2773,6 +2875,12 @@
   "spartanweaponry:recipes/diamond_battle_hammer": {
     "criteria": {
       "has_diamond": "2025-05-05 00:00:30 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -2806,6 +2914,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/brown_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2025-05-05 00:00:30 +0000"
@@ -2815,6 +2929,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-05-04 23:51:47 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/green_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -2878,9 +2998,27 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/magenta_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-05-04 23:48:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -2956,6 +3094,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_slab": {
+    "criteria": {
+      "has_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 00:02:00 +0000"
@@ -2977,6 +3121,12 @@
   "spartanweaponry:recipes/iron_katana": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 00:02:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/cyan_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -3007,6 +3157,24 @@
   "spartanweaponry:recipes/silver_boomerang": {
     "criteria": {
       "has_silver_ingot": "2025-05-04 23:03:51 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/acacia_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/black_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -3112,6 +3280,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/acacia_desk": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "spartanshields:recipes/diamond_tower_shield": {
     "criteria": {
       "has_diamond": "2025-05-05 00:00:30 +0000"
@@ -3142,6 +3316,18 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/blue_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/hay_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_lance": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 00:02:00 +0000"
@@ -3160,6 +3346,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/acacia_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/silver_throwing_knife": {
     "criteria": {
       "has_silver_ingot": "2025-05-04 23:03:51 +0000"
@@ -3172,9 +3364,21 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/acacia_table": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_pike": {
     "criteria": {
       "has_copper_ingot": "2025-05-04 23:38:43 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -3211,6 +3415,12 @@
   "iceandfire:recipes/combat/armor_copper_metal_helmet": {
     "criteria": {
       "has_the_recipe": "2025-05-04 23:45:13 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/standard": {
+    "criteria": {
+      "has_chest": "2025-05-05 00:06:48 +0000"
     },
     "done": true
   },
@@ -3256,6 +3466,12 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_gray_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/copper_halberd": {
     "criteria": {
       "has_copper_ingot": "2025-05-04 23:38:43 +0000"
@@ -3292,15 +3508,45 @@
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/acacia_desk_drawer": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/brown_upholstered_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/blank_upgrade": {
+    "criteria": {
+      "has_chest": "2025-05-05 00:06:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
     "criteria": {
       "has_diorite": "2025-05-04 23:47:15 +0000"
     },
     "done": true
   },
+  "valhelsia_furniture:recipes/decorations/light_gray_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
   "spartanweaponry:recipes/iron_longbow": {
     "criteria": {
       "has_iron_ingot": "2025-05-05 00:02:00 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/orange_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -3313,6 +3559,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-05-04 23:53:07 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/light_blue_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
@@ -3337,6 +3589,18 @@
   "spartanweaponry:recipes/copper_longsword": {
     "criteria": {
       "has_copper_ingot": "2025-05-04 23:38:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/acacia_fence": {
+    "criteria": {
+      "has_planks": "2025-05-05 00:06:41 +0000"
+    },
+    "done": true
+  },
+  "valhelsia_furniture:recipes/decorations/red_acacia_chair": {
+    "criteria": {
+      "has_acacia_planks": "2025-05-05 00:06:41 +0000"
     },
     "done": true
   },
