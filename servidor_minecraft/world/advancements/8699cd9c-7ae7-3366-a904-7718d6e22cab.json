@@ -3873,81 +3873,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
-    "criteria": {
-      "has_bone_meal": "2025-05-05 02:22:35 +0000"
-    },
-    "done": true
-  },
-  "travelersbackpack:recipes/misc/creeper": {
-    "criteria": {
-      "has_gunpowder": "2025-05-05 02:02:29 +0000"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
-    "criteria": {
-      "has_flower": "2025-05-05 02:06:31 +0000"
-    },
-    "done": true
-  },
-  "betterskills:farming_1": {
-    "criteria": {
-      "farming_1_0": "2025-05-05 02:29:07 +0000"
-    },
-    "done": true
-  },
-  "morevillagers:recipes/gardening_table": {
-    "criteria": {
-      "has_flower": "2025-05-05 02:06:31 +0000"
-    },
-    "done": true
-  },
   "betterskills:foraging_3": {
     "criteria": {
       "foraging_3_0": "2025-05-05 01:55:06 +0000"
-    },
-    "done": true
-  },
-  "betterskills:mining_3": {
-    "criteria": {
-      "mining_3_0": "2025-05-05 02:10:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/firework_rocket_simple": {
-    "criteria": {
-      "has_gunpowder": "2025-05-05 02:02:29 +0000"
-    },
-    "done": true
-  },
-  "alexsmobs:alexsmobs/kangaroo": {
-    "criteria": {
-      "killed_by": "2025-05-05 02:05:23 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-05-05 02:22:35 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:collect_heads": {
-    "criteria": {
-      "zombie_head": "2025-05-05 02:04:47 +0000"
-    },
-    "done": false
-  },
-  "betterskills:combat_2": {
-    "criteria": {
-      "combat_2_0": "2025-05-05 02:04:09 +0000"
-    },
-    "done": true
-  },
-  "spartanweaponry:recipes/explosive_charge": {
-    "criteria": {
-      "has_gunpowder": "2025-05-05 02:02:29 +0000"
     },
     "done": true
   },
@@ -3957,9 +3885,81 @@
     },
     "done": true
   },
+  "travelersbackpack:recipes/misc/creeper": {
+    "criteria": {
+      "has_gunpowder": "2025-05-05 02:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-05-05 02:02:29 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:recipes/explosive_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-05-05 02:02:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tnt": {
     "criteria": {
       "has_gunpowder": "2025-05-05 02:02:29 +0000"
+    },
+    "done": true
+  },
+  "betterskills:combat_2": {
+    "criteria": {
+      "combat_2_0": "2025-05-05 02:04:09 +0000"
+    },
+    "done": true
+  },
+  "spartanweaponry:collect_heads": {
+    "criteria": {
+      "zombie_head": "2025-05-05 02:04:47 +0000"
+    },
+    "done": false
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-05-05 02:05:23 +0000"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_flower": "2025-05-05 02:06:31 +0000"
+    },
+    "done": true
+  },
+  "morevillagers:recipes/gardening_table": {
+    "criteria": {
+      "has_flower": "2025-05-05 02:06:31 +0000"
+    },
+    "done": true
+  },
+  "betterskills:mining_3": {
+    "criteria": {
+      "mining_3_0": "2025-05-05 02:10:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-05-05 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-05-05 02:22:35 +0000"
+    },
+    "done": true
+  },
+  "betterskills:farming_1": {
+    "criteria": {
+      "farming_1_0": "2025-05-05 02:29:07 +0000"
     },
     "done": true
   },
