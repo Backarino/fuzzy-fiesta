@@ -51,3 +51,8 @@
 [05May2025 00:51:37.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vmp_nash> zz
 [05May2025 00:54:08.706] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SAURIO12 moved wrongly!
 [05May2025 00:54:46.504] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SAURIO12: Set the time to 1000]
+[05May2025 01:04:20.966] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DonTony09[/172.29.215.146:53039] logged in with entity id 43589 at (206.76411917174815, 86.0, 3931.544083218745)
+[05May2025 01:04:20.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DonTony09 joined the game
+[05May2025 01:04:58.598] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: BackedSrAaron lost connection: Disconnected
+[05May2025 01:04:58.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron left the game
+[05May2025 01:06:02.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DonTony09> zzzzz
