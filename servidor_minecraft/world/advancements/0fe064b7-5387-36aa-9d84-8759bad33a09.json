@@ -8724,6 +8724,12 @@
     },
     "done": true
   },
+  "betterskills:foraging_6": {
+    "criteria": {
+      "foraging_6_0": "2025-05-05 01:55:40 +0000"
+    },
+    "done": true
+  },
   "betterskills:mining_12": {
     "criteria": {
       "mining_12_0": "2025-05-05 01:25:18 +0000"

@@ -1457,3 +1457,11 @@
 [05May2025 01:44:22.452] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-977, y=18, z=997} BlockPos{x=-972, y=18, z=994}
 [05May2025 01:44:22.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-977, y=18, z=997} BlockPos{x=-972, y=18, z=994}
 [05May2025 01:44:22.557] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-977, y=18, z=997} BlockPos{x=-972, y=18, z=994}
+[05May2025 01:50:47.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <vmp_nash> asd
+[05May2025 01:51:12.101] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: vmp_nash lost connection: Timed out
+[05May2025 01:51:12.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash left the game
+[05May2025 01:51:12.168] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[05May2025 01:52:42.856] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: vmp_nash[/172.29.91.5:63805] logged in with entity id 69180 at (-79.0302090551072, 63.0, 781.6294642860055)
+[05May2025 01:52:42.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash joined the game
+[05May2025 01:55:06.163] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: vmp_nash has made the advancement [Foraging 3]
+[05May2025 01:57:21.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: BackedSrAaron has reached the goal [Flowers of the Savanna]
